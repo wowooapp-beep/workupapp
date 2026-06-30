@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "announcements": [
+    {
+      "id": "welcome-2026",
+      "type": "announce",
+      "title": "歡迎使用 WorkUp",
+      "summary": "感謝你下載 WorkUp！在這裡記錄訓練、營養與身體數據，一步步看見自己的改變。",
+      "cover": "",
+      "publishedAt": "2026-01-01",
+      "pinned": true,
+      "sections": [
+        {
+          "title": "開始你的第一筆記錄",
+          "body": "從首頁點下「開始訓練」，或記錄今天的體重與身高，建立屬於你的數據基礎。"
+        },
+        {
+          "title": "公告會持續更新",
+          "body": "未來的版本更新、活動與重要通知都會出現在這裡，記得不時回來看看。"
+        }
+      ]
+    }
+  ]
+}
