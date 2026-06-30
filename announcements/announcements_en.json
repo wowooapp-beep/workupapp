@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "announcements": [
+    {
+      "id": "welcome-2026",
+      "type": "announce",
+      "title": "Welcome to WorkUp",
+      "summary": "Thanks for downloading WorkUp! Track your workouts, nutrition, and body stats, and watch your progress unfold.",
+      "cover": "",
+      "publishedAt": "2026-01-01",
+      "pinned": true,
+      "sections": [
+        {
+          "title": "Log your first entry",
+          "body": "Tap \"Start Workout\" on the home page, or record today's weight and height to build your data foundation."
+        },
+        {
+          "title": "Announcements keep coming",
+          "body": "Version updates, events, and important notices will show up here. Check back from time to time."
+        }
+      ]
+    }
+  ]
+}
