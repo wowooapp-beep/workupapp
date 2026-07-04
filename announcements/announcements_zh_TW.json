@@ -69,7 +69,7 @@
       "type": "update",
       "title": "多照片格式",
       "summary": "體重趨勢、訓練量圖表全新改版，載入更快、看得更清楚。",
-      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1a.jpg",
+      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1a.png",
       "publishedAt": "2026-07-01",
       "pinned": false,
       "targets": [],
@@ -78,8 +78,8 @@
           "title": "全新體重趨勢圖",
           "body": "支援週 / 月 / 年檢視，並可同時對照目標線與實際數據。下面兩張圖分別是新版的趨勢圖與訓練量圖：",
           "images": [
-           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1a.jpg",
-           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1b.jpg"
+           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1a.png",
+           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1b.png"
           ]
         },
         {
