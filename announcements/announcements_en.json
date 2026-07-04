@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "announcements": [
     {
       "id": "welcome-2026",
@@ -7,8 +7,9 @@
       "title": "Welcome to WorkUp",
       "summary": "Thanks for downloading WorkUp! Track your workouts, nutrition, and body stats, and watch your progress unfold.",
       "cover": "",
-      "publishedAt": "2026-06-30",
+      "publishedAt": "2026-01-01",
       "pinned": true,
+      "targets": [],
       "sections": [
         {
           "title": "Log your first entry",
@@ -17,6 +18,132 @@
         {
           "title": "Announcements keep coming",
           "body": "Version updates, events, and important notices will show up here. Check back from time to time."
+        }
+      ]
+    },
+    {
+      "id": "announce-community-guidelines",
+      "type": "announce",
+      "title": "Community Guidelines",
+      "summary": "To keep the experience great for everyone, please follow our community guidelines.",
+      "cover": "",
+      "publishedAt": "2026-06-20",
+      "pinned": false,
+      "targets": [],
+      "sections": [
+        {
+          "title": "Respect each other",
+          "body": "When sharing your results, stay friendly and respectful. Avoid offensive or inappropriate content."
+        },
+        {
+          "title": "Protect personal data",
+          "body": "Please do not share other people's personal information in public content. Let's keep this a safe space."
+        }
+      ]
+    },
+    {
+      "id": "announce-account-security",
+      "type": "announce",
+      "title": "Account Security Tips",
+      "summary": "Review your sign-in methods regularly to keep your training data safe.",
+      "cover": "",
+      "publishedAt": "2026-06-28",
+      "pinned": false,
+      "targets": [],
+      "sections": [
+        {
+          "title": "Link multiple sign-in methods",
+          "body": "In Account Settings, link Google or Apple sign-in so you're never locked out if one method fails."
+        },
+        {
+          "title": "Back up regularly",
+          "body": "Turn on cloud backup so you can fully restore your records even when switching devices."
+        }
+      ]
+    },
+    {
+      "id": "update-charts-v1-2",
+      "type": "update",
+      "title": "Charts Upgraded",
+      "summary": "Weight trend and training volume charts have been redesigned — faster and clearer.",
+      "cover": "https://picsum.photos/seed/workup-charts/1200/675",
+      "publishedAt": "2026-07-01",
+      "pinned": false,
+      "targets": [],
+      "sections": [
+        {
+          "title": "New weight trend chart",
+          "body": "Switch between weekly / monthly / yearly views, and compare your goal line against actual data. Below are the new trend chart and volume chart:",
+          "images": [
+            "https://picsum.photos/seed/workup-weighttrend/1200/675",
+            "https://picsum.photos/seed/workup-volume/1200/675"
+          ]
+        },
+        {
+          "title": "Faster loading",
+          "body": "We rewrote the chart rendering so it stays smooth and zoomable even with large datasets."
+        }
+      ]
+    },
+    {
+      "id": "update-nutrition-v1-3",
+      "type": "update",
+      "title": "Nutrition Module Update",
+      "summary": "Added daily nutrition goals and a richer food database.",
+      "cover": "",
+      "publishedAt": "2026-06-25",
+      "pinned": false,
+      "targets": [],
+      "sections": [
+        {
+          "title": "Custom daily nutrition goals",
+          "body": "Adjust your daily targets for calories, protein, carbs, and fat based on your training goals."
+        },
+        {
+          "title": "Richer food database",
+          "body": "Hundreds of new common foods and brands make logging meals easier than ever."
+        }
+      ]
+    },
+    {
+      "id": "event-summer-challenge",
+      "type": "event",
+      "title": "Summer 30-Day Challenge",
+      "summary": "Train for 30 days straight to unlock an exclusive badge and rewards!",
+      "cover": "https://picsum.photos/seed/workup-summer/1200/675",
+      "publishedAt": "2026-07-03",
+      "expiresAt": "2026-08-31",
+      "pinned": false,
+      "targets": [],
+      "sections": [
+        {
+          "title": "How it works",
+          "body": "During the event, completing at least one workout on any given day counts toward that day's goal. Keep your streak going.",
+          "image": "https://picsum.photos/seed/workup-challenge/1200/675"
+        },
+        {
+          "title": "Rewards",
+          "body": "Finish all 30 days to earn a limited-edition badge and enter the prize draw. Details on the event page."
+        }
+      ]
+    },
+    {
+      "id": "event-referral-bonus",
+      "type": "event",
+      "title": "Refer a Friend, Get Rewards",
+      "summary": "Invite friends to WorkUp and you both get a gift.",
+      "cover": "",
+      "publishedAt": "2026-06-30",
+      "pinned": false,
+      "targets": [],
+      "sections": [
+        {
+          "title": "How to refer",
+          "body": "Share your unique invite link with friends from the Settings page."
+        },
+        {
+          "title": "Reward delivery",
+          "body": "Once your friend signs up and completes their first workout, you'll both get a reward notification."
         }
       ]
     }
