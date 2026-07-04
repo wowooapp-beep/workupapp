@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "announcements": [
     {
       "id": "welcome-2026",
@@ -7,8 +7,9 @@
       "title": "歡迎使用 WorkUp",
       "summary": "感謝你下載 WorkUp！在這裡記錄訓練、營養與身體數據，一步步看見自己的改變。",
       "cover": "",
-      "publishedAt": "2026-06-30",
+      "publishedAt": "2026-01-01",
       "pinned": true,
+      "targets": [],
       "sections": [
         {
           "title": "開始你的第一筆記錄",
@@ -17,6 +18,135 @@
         {
           "title": "公告會持續更新",
           "body": "未來的版本更新、活動與重要通知都會出現在這裡，記得不時回來看看。"
+        }
+      ]
+    },
+    {
+      "id": "announce-community-guidelines",
+      "type": "announce",
+      "title": "社群守則與使用規範",
+      "summary": "為了讓每位使用者都有良好體驗，請一起遵守社群守則。",
+      "cover": "",
+      "publishedAt": "2026-06-20",
+      "pinned": false,
+      "targets": [],
+      "sections": [
+        {
+          "title": "尊重彼此",
+          "body": "分享訓練成果時，請保持友善與尊重，避免攻擊性或不當內容。"
+        },
+        {
+          "title": "保護個人資料",
+          "body": "請勿在公開內容中透露他人的個人資訊，共同維護安全的環境。"
+        }
+      ]
+    },
+    {
+      "id": "announce-account-security",
+      "type": "announce",
+      "title": "權限格式",
+      "summary": "定期檢查登入方式，讓你的訓練資料更安全。",
+      "cover": "",
+      "publishedAt": "2026-06-28",
+      "pinned": false,
+      "targets": [
+        { "uid": "abc123FirebaseUid", "mail": "a@example.com" },
+        { "uid": "def456FirebaseUid", "mail": "b@example.com" }
+      ],
+      "sections": [
+        {
+          "title": "綁定多種登入方式",
+          "body": "在「帳號設定」中綁定 Google 或 Apple 登入，避免因單一方式失效而無法登入。"
+        },
+        {
+          "title": "定期備份資料",
+          "body": "開啟雲端備份，即使更換裝置也能完整還原你的訓練紀錄。"
+        }
+      ]
+    },
+    {
+      "id": "update-charts-v1-2",
+      "type": "update",
+      "title": "多照片格式",
+      "summary": "體重趨勢、訓練量圖表全新改版，載入更快、看得更清楚。",
+      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1a.jpg",
+      "publishedAt": "2026-07-01",
+      "pinned": false,
+      "targets": [],
+      "sections": [
+        {
+          "title": "全新體重趨勢圖",
+          "body": "支援週 / 月 / 年檢視，並可同時對照目標線與實際數據。下面兩張圖分別是新版的趨勢圖與訓練量圖：",
+          "images": [
+           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1a.jpg",
+           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1b.jpg"
+          ]
+        },
+        {
+          "title": "更快的載入速度",
+          "body": "重寫圖表繪製邏輯，資料量大時也能順暢滑動、即時縮放。"
+        }
+      ]
+    },
+    {
+      "id": "update-nutrition-v1-3",
+      "type": "update",
+      "title": "營養模組更新",
+      "summary": "新增每日營養目標與更完整的食物資料庫。",
+      "cover": "",
+      "publishedAt": "2026-06-25",
+      "pinned": false,
+      "targets": [],
+      "sections": [
+        {
+          "title": "自訂每日營養目標",
+          "body": "可依訓練目標調整熱量、蛋白質、碳水與脂肪的每日建議攝取量。"
+        },
+        {
+          "title": "更豐富的食物資料庫",
+          "body": "新增數百項常見食物與品牌，記錄飲食更方便。"
+        }
+      ]
+    },
+    {
+      "id": "event-summer-challenge",
+      "type": "event",
+      "title": "夏季 30 天挑戰",
+      "summary": "連續 30 天完成訓練，解鎖專屬徽章與獎勵！",
+      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-char",
+      "publishedAt": "2026-07-03",
+      "expiresAt": "2026-08-31",
+      "pinned": false,
+      "targets": [],
+      "sections": [
+        {
+          "title": "活動辦法",
+          "body": "活動期間內，任一天完成至少一次訓練即算達成當日目標，連續累積天數。",
+          "image": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-"
+        },
+        {
+          "title": "獎勵內容",
+          "body": "完成 30 天可獲得限定徽章，並參加抽獎。詳情將於活動頁公布。"
+        }
+      ]
+    },
+    {
+      "id": "event-referral-bonus",
+      "type": "event",
+      "title": "推薦好友拿獎勵",
+      "summary": "邀請朋友一起用 WorkUp，雙方都能獲得好禮。",
+      "cover": "",
+      "publishedAt": "2026-06-30",
+      "pinned": false,
+      "targets": [],
+      "sections": [
+        {
+          "title": "如何推薦",
+          "body": "在「設定」中分享你的專屬邀請連結給朋友即可。"
+        },
+        {
+          "title": "獎勵發放",
+          "body": "好友成功註冊並完成首次訓練後，雙方都會收到獎勵通知。"
         }
       ]
     }
