@@ -114,7 +114,10 @@
       "publishedAt": "2026-07-03",
       "expiresAt": "2026-08-31",
       "pinned": false,
-      "targets": [],
+      "targets": [
+        { "uid": "po983aknh4zzqjmwosm5xdruzc03", "mail": "thisistest.xxx@gmail.com" },
+        { "uid": "ejeaoxf552nvcjsssardul5coq43", "mail": "wan289375@gmail.com" }
+      ],
       "sections": [
         {
           "title": "How it works",
@@ -135,7 +138,9 @@
       "cover": "",
       "publishedAt": "2026-06-30",
       "pinned": false,
-      "targets": [],
+      "targets": [
+        { "uid": "", "mail": "" }
+      ],
       "sections": [
         {
           "title": "How to refer",
