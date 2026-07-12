@@ -119,7 +119,9 @@
         "primary": ["abs"],
         "secondary": ["oblique", "serratus"]
       },
-      "targets": []
+      "targets": [
+        { "uid": "", "mail": "" }
+      ]
     },
     {
       "id": "ex_dumbbell_wrist_curl",
@@ -134,7 +136,10 @@
         "primary": ["forearm"],
         "secondary": []
       },
-      "targets": []
+      "targets": [
+        { "uid": "po983aknh4zzqjmwosm5xdruzc03", "mail": "thisistest.xxx@gmail.com" },
+        { "uid": "ejeaoxf552nvcjsssardul5coq43", "mail": "wan289375@gmail.com" }
+      ]
     },
     {
       "id": "ex_trx_row",
@@ -142,8 +147,8 @@
       "description": "手握懸吊帶把手、身體後傾成一直線，屈肘將胸口拉向把手後控制回放。",
       "instructions": "全程核心收緊、身體保持一直線；肩胛先後收再拉手肘。",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/trx_row.jpg",
-      "muscle_group_id": "default_back",
-      "equipment_type": "custom_trx",
+      "muscle_group_id": "test2",
+      "equipment_type": "test3",
       "training_type_id": "default_functional",
       "muscle_map": {
         "primary": ["lat", "rhomboid"],
@@ -154,10 +159,12 @@
   ],
   "tags": {
     "muscle_groups": [
-      { "id": "custom_forearm", "name": "前臂" }
+      { "id": "custom_forearm", "name": "前臂" },
+      { "id": "test2", "name": "測試2" }
     ],
     "equipment": [
-      { "id": "custom_trx", "name": "懸吊訓練帶" }
+      { "id": "custom_trx", "name": "懸吊訓練帶" },
+      { "id": "test3", "name": "測試3" }
     ]
   }
 }
