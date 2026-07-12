@@ -14,7 +14,10 @@
         "primary": ["chest_mid", "chest_upper"],
         "secondary": ["triceps", "deltoid_front"]
       },
-      "targets": []
+      "targets": [
+        { "uid": "po983aknh4zzqjmwosm5xdruzc03", "mail": "thisistest.xxx@gmail.com" },
+        { "uid": "ejeaoxf552nvcjsssardul5coq43", "mail": "wan289375@gmail.com" }
+      ]
     },
     {
       "id": "ex_dumbbell_shoulder_press",
@@ -29,7 +32,9 @@
         "primary": ["deltoid_front", "deltoid_side"],
         "secondary": ["triceps", "trap_upper"]
       },
-      "targets": []
+      "targets": [
+        { "uid": "", "mail": "" }
+      ]
     },
     {
       "id": "ex_pull_up",
@@ -154,10 +159,12 @@
   ],
   "tags": {
     "muscle_groups": [
-      { "id": "custom_forearm", "name": "Forearms" }
+      { "id": "custom_forearm", "name": "Forearms" },
+      { "id": "test2", "name": "測試英文2" }
     ],
     "equipment": [
-      { "id": "custom_trx", "name": "Suspension Trainer" }
+      { "id": "custom_trx", "name": "Suspension Trainer" },
+      { "id": "test3", "name": "測試英文3" }
     ]
   }
 }
