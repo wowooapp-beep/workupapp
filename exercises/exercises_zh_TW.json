@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "exercises": [
+    {
+      "id": "ex_barbell_bench_press",
+      "name": "槓鈴臥推",
+      "description": "平躺於臥推椅上，雙手略寬於肩握槓，將槓鈴自胸口推起至手臂伸直。",
+      "instructions": "肩胛骨後收下壓、腳掌踩穩地面；下放時控制節奏，避免拱腰過度或彈胸。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/barbell_bench_press.jpg",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_mid", "chest_upper"],
+        "secondary": ["triceps", "deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_shoulder_press",
+      "name": "啞鈴肩推",
+      "description": "坐姿或站姿，雙手持啞鈴於肩側，向上推至手臂接近伸直後緩慢下放。",
+      "instructions": "核心收緊、避免過度後仰；手肘不鎖死，全程控制啞鈴軌跡。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/dumbbell_shoulder_press.jpg",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_front", "deltoid_side"],
+        "secondary": ["triceps", "trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_pull_up",
+      "name": "引體向上",
+      "description": "雙手正握單槓略寬於肩，將身體上拉至下巴超過槓面後控制下放。",
+      "instructions": "先沉肩啟動背部、再拉手肘；避免借力擺盪，下放時保持張力。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/pull_up.jpg",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "teres"],
+        "secondary": ["biceps", "rhomboid"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_back_squat",
+      "name": "槓鈴深蹲",
+      "description": "槓鈴置於上背，雙腳與肩同寬，屈髖屈膝下蹲至大腿約與地面平行後站起。",
+      "instructions": "全程膝蓋對齊腳尖、背部維持中立；下蹲吸氣、站起吐氣。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/barbell_back_squat.jpg",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "adductor"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_conventional_deadlift",
+      "name": "傳統硬舉",
+      "description": "雙腳與髖同寬站於槓鈴後，屈髖握槓，以髖主導將槓鈴沿腿部拉起至站直。",
+      "instructions": "起槓前收緊背闊與核心、槓貼近身體；避免圓背與過度後仰鎖定。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/conventional_deadlift.jpg",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lower_back", "glute_max", "hamstring"],
+        "secondary": ["lat", "trap_upper", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_biceps_curl",
+      "name": "啞鈴二頭彎舉",
+      "description": "站姿雙手持啞鈴自然垂放，屈肘將啞鈴彎舉至肩前後緩慢下放。",
+      "instructions": "手肘固定於身側、避免擺動借力；頂峰稍作停頓感受二頭收縮。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/dumbbell_biceps_curl.jpg",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["biceps"],
+        "secondary": ["brachialis", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_triceps_pushdown",
+      "name": "滑輪三頭下壓",
+      "description": "面向滑輪機，雙手握把手於胸前，固定手肘將把手下壓至手臂伸直。",
+      "instructions": "上臂貼近身體不移動、僅前臂運動；控制回程張力。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/cable_triceps_pushdown.jpg",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_plank",
+      "name": "平板支撐",
+      "description": "以前臂與腳尖撐地，身體維持從頭到腳一直線的靜態撐體姿勢。",
+      "instructions": "收緊腹部與臀部、避免塌腰或聳肩；均勻呼吸並維持設定秒數。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/plank.jpg",
+      "muscle_group_id": "default_core",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["abs"],
+        "secondary": ["oblique", "serratus"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_wrist_curl",
+      "name": "啞鈴腕彎舉",
+      "description": "前臂靠於大腿或長凳，手心朝上握啞鈴，僅以手腕捲起與下放。",
+      "instructions": "動作範圍集中在手腕、幅度小而穩定；重量勿過大以免代償。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/dumbbell_wrist_curl.jpg",
+      "muscle_group_id": "custom_forearm",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["forearm"],
+        "secondary": []
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_trx_row",
+      "name": "懸吊划船",
+      "description": "手握懸吊帶把手、身體後傾成一直線，屈肘將胸口拉向把手後控制回放。",
+      "instructions": "全程核心收緊、身體保持一直線；肩胛先後收再拉手肘。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/trx_row.jpg",
+      "muscle_group_id": "default_back",
+      "equipment_type": "custom_trx",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["lat", "rhomboid"],
+        "secondary": ["biceps", "deltoid_rear"]
+      },
+      "targets": []
+    }
+  ],
+  "tags": {
+    "muscle_groups": [
+      { "id": "custom_forearm", "name": "前臂" }
+    ],
+    "equipment": [
+      { "id": "custom_trx", "name": "懸吊訓練帶" }
+    ]
+  }
+}
