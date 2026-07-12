@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "exercises": [
+    {
+      "id": "ex_barbell_bench_press",
+      "name": "Barbell Bench Press",
+      "description": "Lie on a flat bench and grip the bar slightly wider than shoulder width, then press it from your chest until your arms are extended.",
+      "instructions": "Retract and depress the shoulder blades, keep feet planted; lower under control and avoid excessive arching or bouncing off the chest.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/barbell_bench_press.jpg",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_mid", "chest_upper"],
+        "secondary": ["triceps", "deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_shoulder_press",
+      "name": "Dumbbell Shoulder Press",
+      "description": "Seated or standing, hold dumbbells at shoulder level and press overhead until arms are nearly extended, then lower slowly.",
+      "instructions": "Brace the core and avoid leaning back; keep elbows unlocked and control the dumbbell path throughout.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/dumbbell_shoulder_press.jpg",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_front", "deltoid_side"],
+        "secondary": ["triceps", "trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_pull_up",
+      "name": "Pull-up",
+      "description": "Grip the bar with an overhand grip slightly wider than shoulders and pull your body up until your chin clears the bar, then lower under control.",
+      "instructions": "Initiate by depressing the shoulders and engaging the back, then pull the elbows down; avoid swinging and keep tension on the way down.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/pull_up.jpg",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "teres"],
+        "secondary": ["biceps", "rhomboid"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_back_squat",
+      "name": "Barbell Back Squat",
+      "description": "With the bar on your upper back and feet shoulder-width apart, hinge and bend the knees to squat until thighs are about parallel, then stand up.",
+      "instructions": "Keep knees tracking over toes and spine neutral; inhale on the descent, exhale as you stand.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/barbell_back_squat.jpg",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "adductor"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_conventional_deadlift",
+      "name": "Conventional Deadlift",
+      "description": "Stand behind the bar with feet hip-width apart, hinge at the hips to grip the bar, and drive through the hips to lift it along the legs to a standing position.",
+      "instructions": "Engage the lats and core before lifting and keep the bar close to the body; avoid rounding the back or over-extending at lockout.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/conventional_deadlift.jpg",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lower_back", "glute_max", "hamstring"],
+        "secondary": ["lat", "trap_upper", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_biceps_curl",
+      "name": "Dumbbell Biceps Curl",
+      "description": "Standing with dumbbells hanging at your sides, curl them up toward the shoulders by bending the elbows, then lower slowly.",
+      "instructions": "Keep elbows pinned at your sides and avoid swinging; pause briefly at the top to feel the biceps contract.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/dumbbell_biceps_curl.jpg",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["biceps"],
+        "secondary": ["brachialis", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_triceps_pushdown",
+      "name": "Cable Triceps Pushdown",
+      "description": "Facing the cable machine, hold the attachment at chest height and, keeping the elbows fixed, push it down until the arms are extended.",
+      "instructions": "Keep the upper arms against the body and still, moving only the forearms; control the tension on the return.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/cable_triceps_pushdown.jpg",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_plank",
+      "name": "Plank",
+      "description": "Support your body on your forearms and toes, holding a straight line from head to heels in a static hold.",
+      "instructions": "Brace the abs and glutes, avoid sagging the hips or shrugging the shoulders; breathe evenly and hold for the set duration.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/plank.jpg",
+      "muscle_group_id": "default_core",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["abs"],
+        "secondary": ["oblique", "serratus"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_wrist_curl",
+      "name": "Dumbbell Wrist Curl",
+      "description": "Rest your forearms on your thighs or a bench with palms up holding dumbbells, then curl the weight using only the wrists and lower it back.",
+      "instructions": "Keep the movement isolated to the wrists with a small, controlled range; avoid going too heavy to prevent compensation.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/dumbbell_wrist_curl.jpg",
+      "muscle_group_id": "custom_forearm",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["forearm"],
+        "secondary": []
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_trx_row",
+      "name": "Suspension Row",
+      "description": "Hold the suspension trainer handles and lean back with a straight body, then bend the elbows to pull your chest toward the handles and return under control.",
+      "instructions": "Keep the core braced and body in a straight line throughout; retract the shoulder blades first, then pull with the elbows.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/trx_row.jpg",
+      "muscle_group_id": "default_back",
+      "equipment_type": "custom_trx",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["lat", "rhomboid"],
+        "secondary": ["biceps", "deltoid_rear"]
+      },
+      "targets": []
+    }
+  ],
+  "tags": {
+    "muscle_groups": [
+      { "id": "custom_forearm", "name": "Forearms" }
+    ],
+    "equipment": [
+      { "id": "custom_trx", "name": "Suspension Trainer" }
+    ]
+  }
+}
