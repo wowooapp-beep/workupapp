@@ -9,7 +9,9 @@
       "cover": "",
       "publishedAt": "2026-01-01",
       "pinned": true,
-      "targets": [],
+      "targets": [
+        { "uid": "", "mail": "" }
+      ],
       "sections": [
         {
           "title": "開始你的第一筆記錄",
@@ -50,8 +52,8 @@
       "publishedAt": "2026-06-28",
       "pinned": false,
       "targets": [
-        { "uid": "abc123FirebaseUid", "mail": "a@example.com" },
-        { "uid": "def456FirebaseUid", "mail": "b@example.com" }
+        { "uid": "po983aknh4zzqjmwosm5xdruzc03", "mail": "thisistest.xxx@gmail.com" },
+        { "uid": "ejeaoxf552nvcjsssardul5coq43", "mail": "wan289375@gmail.com" }
       ],
       "sections": [
         {
