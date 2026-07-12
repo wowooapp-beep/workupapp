@@ -9,7 +9,8 @@
     "default_core",
     "default_legs",
     "custom_forearm",
-    "test2"
+    "test2",
+    "test6"
   ],
   "equipment_ids": [
     "default_dumbbell",
@@ -21,6 +22,7 @@
     "default_resistance_band",
     "default_cardio_machine",
     "custom_trx",
-    "test3"
+    "test3",
+    "test6"
   ]
 }
