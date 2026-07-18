@@ -6,7 +6,7 @@
       "type": "announce",
       "title": "歡迎使用 WorkUp",
       "summary": "感謝你下載 WorkUp！在這裡記錄訓練、營養與身體數據，一步步看見自己的改變。",
-      "cover": "",
+      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/bts-freedom.gif",
       "publishedAt": "2026-01-01",
       "pinned": true,
       "targets": [
@@ -15,7 +15,11 @@
       "sections": [
         {
           "title": "開始你的第一筆記錄",
-          "body": "從首頁點下「開始訓練」，或記錄今天的體重與身高，建立屬於你的數據基礎。"
+          "body": "從首頁點下「開始訓練」，或記錄今天的體重與身高，建立屬於你的數據基礎。",
+           "images": [
+           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/bts-freedom.gif",
+           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/bts-freedom.gif"
+          ]
         },
         {
           "title": "公告會持續更新",
@@ -36,6 +40,8 @@
         {
           "title": "尊重彼此",
           "body": "分享訓練成果時，請保持友善與尊重，避免攻擊性或不當內容。"
+           "images": [
+          ]
         },
         {
           "title": "保護個人資料",
