@@ -744,7 +744,7 @@
   ],
   "tags": {
     "muscle_groups": [
-      { "id": "custom_forearm", "name": "前臂" },
+      { "id": "custom_forearm", "name": "Forearms" },
       { "id": "", "name": "" }
     ],
     "equipment": [
