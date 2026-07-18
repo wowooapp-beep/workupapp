@@ -27,14 +27,18 @@
       "type": "announce",
       "title": "Community Guidelines",
       "summary": "To keep the experience great for everyone, please follow our community guidelines.",
-      "cover": "",
+      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/75644-556482803_medium.mp4",
       "publishedAt": "2026-06-20",
       "pinned": false,
       "targets": [],
       "sections": [
         {
           "title": "Respect each other",
-          "body": "When sharing your results, stay friendly and respectful. Avoid offensive or inappropriate content."
+          "body": "When sharing your results, stay friendly and respectful. Avoid offensive or inappropriate content.",
+           "images": [
+           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/bts-freedom.gif",
+           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/75644-556482803_medium.mp4"
+          ]
         },
         {
           "title": "Protect personal data",
