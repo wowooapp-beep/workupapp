@@ -6,7 +6,7 @@
       "type": "announce",
       "title": "Welcome to WorkUp",
       "summary": "Thanks for downloading WorkUp! Track your workouts, nutrition, and body stats, and watch your progress unfold.",
-      "cover": "",
+      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/bts-freedom.gif",
       "publishedAt": "2026-01-01",
       "expiresAt": "2026-07-13",
       "pinned": true,
@@ -14,7 +14,11 @@
       "sections": [
         {
           "title": "Log your first entry",
-          "body": "Tap \"Start Workout\" on the home page, or record today's weight and height to build your data foundation."
+          "body": "Tap \"Start Workout\" on the home page, or record today's weight and height to build your data foundation.",
+           "images": [
+           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/bts-freedom.gif",
+           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/75644-556482803_medium.mp4"
+          ]
         },
         {
           "title": "Announcements keep coming",
