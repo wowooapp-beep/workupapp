@@ -236,7 +236,7 @@
       "name": "上斜啞鈴臥推",
       "description": "1. 將臥推椅調整至約 30 度的低角度上斜，坐下後雙手各持一啞鈴放於大腿上，躺下時順勢帶至肩膀兩側。\n2. 雙腳踩穩地面，上背貼緊椅面，掌心朝前。\n3. 將啞鈴向上並略朝內推起，直到手臂在上胸正上方伸直，避免兩個啞鈴在頂端互相碰撞。\n4. 控制速度下放啞鈴，直到上臂略低於與地面平行，手腕全程打直。",
       "instructions": "1. 椅子角度維持較淺的約 30 度；角度太高會讓刺激從胸部轉移到前三角肌。\n2. 起始重量應比槓鈴訓練輕，因為雙手啞鈴需要各自獨立穩定。\n3. 每次都下放到完全伸展、推至手臂完全伸直，不要為了加重而縮短動作範圍。\n4. 手腕保持打直並對齊手肘正上方，負重時不要讓手腕向後折。",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/ex_incline_dumbbell_press.png",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/ex_incline_dumbbell_press.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
