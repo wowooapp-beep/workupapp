@@ -221,7 +221,7 @@
       "name": "Incline Dumbbell Press",
       "description": "1. Set the bench to a shallow incline of about 30 degrees, sit down with a dumbbell resting on each thigh, then lie back and bring them to shoulder level as you settle in.\n2. Plant your feet flat on the floor and press your upper back into the bench, palms facing forward.\n3. Press the dumbbells up and slightly inward until your arms are extended above your upper chest, without banging the weights together.\n4. Lower the dumbbells under control until your upper arms are just past parallel to the floor, keeping your wrists straight.",
       "instructions": "1. Keep the bench angle shallow, around 30 degrees; a steeper incline shifts the work from your chest to your front shoulders.\n2. Start with lighter weight than you'd use on a barbell, since each arm has to stabilize the dumbbell independently.\n3. Lower to a full stretch and press to full extension each rep instead of shortening the range to handle more weight.\n4. Keep your wrists straight and stacked over your elbows; don't let them bend backward under load.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/incline_dumbbell_press.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/ex_incline_dumbbell_press.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
