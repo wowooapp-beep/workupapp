@@ -6,7 +6,7 @@
       "name": "Barbell Bench Press",
       "description": "1. Lie back on a flat bench with your feet flat on the floor, eyes under the bar, and shoulder blades pulled together and pressed into the bench.\n2. Grip the bar about two fist-widths wider than shoulder-width, wrists stacked directly over your elbows.\n3. Unrack the bar over your shoulders, then lower it under control in a straight line to touch your mid-chest.\n4. Press the bar back up along the same path until your elbows are fully extended, without bouncing it off your chest.",
       "instructions": "1. Keep your shoulder blades retracted and pressed into the bench throughout the lift to protect your shoulders and create a stable base.\n2. Keep your feet planted and drive them into the floor; don't let your hips rise off the bench.\n3. Control the descent instead of letting the bar drop, and don't bounce it off your chest to generate momentum.\n4. Keep your wrists straight and stacked over your elbows; if your wrists bend backward under load, tighten your grip.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1a.png",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/1ex_barbell_bench_press.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -24,7 +24,7 @@
       "name": "Dumbbell Shoulder Press",
       "description": "1. Sit or stand tall with your core braced, holding a dumbbell in each hand at shoulder height with palms facing forward and elbows slightly in front of your torso.\n2. Pull your shoulder blades together and down to stabilize your shoulders before you press.\n3. Press the dumbbells straight overhead until your arms are fully extended but not locked out, driving your biceps toward your ears.\n4. Lower the dumbbells back to shoulder height under control, taking 1-3 seconds on the way down.",
       "instructions": "1. Keep your core braced and avoid arching your lower back to help push the weight up.\n2. Keep your elbows slightly in front of your shoulders rather than flared directly out to the sides, to protect the shoulder joint.\n3. Don't lock your elbows out hard at the top; stop just before full lockout to keep tension on the muscle.\n4. If you feel sharp pain (not muscle burn) in the shoulder, stop the set immediately.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/75644-556482803_medium.mp4",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/2ex_dumbbell_shoulder_press.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
@@ -41,7 +41,7 @@
       "name": "Pull-up",
       "description": "1. Grip the bar with hands slightly wider than shoulder-width, palms facing away from you, and hang with arms fully extended.\n2. Retract your shoulder blades first, as if tucking them into your back pockets, before bending your elbows.\n3. Pull by driving your elbows down toward your ribs until your chin clears the bar, keeping a slight hollow-body position throughout.\n4. Lower yourself back down under control to a full hang before starting the next rep.",
       "instructions": "1. Initiate every rep with scapular retraction, not by yanking with your arms; this protects the shoulders and lets your back do the work.\n2. Move slowly and avoid kipping or swinging your legs to generate momentum.\n3. Go all the way down to a full arm extension each rep; stopping short shortchanges the range of motion.\n4. Keep your core braced in a slight hollow-body position instead of letting your lower back arch or your legs swing.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/bts-freedom.gif",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/3ex_pull_up.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -56,7 +56,7 @@
       "name": "Barbell Back Squat",
       "description": "1. Rest the bar across your upper traps (high-bar) or rear delts (low-bar) with feet about shoulder-width apart and toes turned slightly out.\n2. Take a deep breath into your belly and brace your core before unracking the bar and stepping back.\n3. Push your hips back and bend your knees together, keeping your chest up and knees tracking over your toes as you descend until your hip crease drops at least level with your knees.\n4. Drive through your whole foot to stand back up, exhaling as you pass the hardest part of the rep.",
       "instructions": "1. Brace your core with a full breath before each rep instead of relying on a belt alone to protect your spine.\n2. Keep your knees pushing out in the direction of your toes throughout the movement; don't let them cave inward.\n3. Keep your chest up and weight balanced over the middle of your foot rather than shifting onto your toes.\n4. Only squat as deep as you can control with a neutral spine; stop the descent if your lower back starts to round.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/barbell_back_squat.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/4ex_barbell_back_squat.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -71,7 +71,7 @@
       "name": "Conventional Deadlift",
       "description": "1. Stand with feet hip-width apart and the bar over your mid-foot, then hinge at the hips and bend your knees until your shins touch the bar.\n2. Grip the bar just outside your legs, pull your shoulder blades down and back, and take a deep breath to brace your core.\n3. Keeping your arms straight and the bar close to your shins, drive through the floor so your hips and shoulders rise together and the bar travels in a straight line up your legs.\n4. Stand fully upright with hips and knees locked out, then reverse the motion under control to lower the bar back to the floor.",
       "instructions": "1. Engage your lats to keep the bar pulled in close to your body; a bar that drifts away from your shins means your lats aren't doing their job.\n2. Let your hips and shoulders rise at the same rate; if your hips shoot up first, you're turning the pull into a stiff-legged good morning.\n3. Brace your core hard before you pull, as if you're about to be punched in the stomach, and keep that brace until the bar is back on the floor.\n4. Don't round your lower back to get the bar moving, and don't hyperextend backward at lockout.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/conventional_deadlift.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/5ex_conventional_deadlift.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -86,7 +86,7 @@
       "name": "Dumbbell Biceps Curl",
       "description": "1. Stand tall with feet shoulder-width apart, holding a dumbbell in each hand with palms facing forward and elbows pinned to your sides.\n2. Curl the dumbbells up while keeping your elbows close to your body, letting them drift forward only slightly near the top.\n3. Squeeze your biceps briefly at the top of the movement, then lower the dumbbells back down under control to a full arm extension.\n4. Keep your wrists straight throughout, avoiding excessive bending at the top or bottom.",
       "instructions": "1. Keep your elbows fixed at your sides for roughly 80% of the range of motion; don't let them swing forward or back to cheat the weight up.\n2. Don't rock your hips or lean your torso back to sling the dumbbells up -- that removes tension from the biceps and can strain your lower back.\n3. Lower the dumbbells all the way to a full arm extension each rep instead of stopping halfway.\n4. Choose a weight you can control for the full range of motion; if you need to swing to lift it, it's too heavy.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/dumbbell_biceps_curl.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/6ex_dumbbell_biceps_curl.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
@@ -101,7 +101,7 @@
       "name": "Cable Triceps Pushdown",
       "description": "1. Face the cable machine with the attachment set above head height, feet hip-width apart or in a slight stagger.\n2. Grip the bar or rope with elbows tucked to your sides and bent at roughly 90 degrees, torso upright.\n3. Keeping your elbows pinned in place, extend your arms down until they're fully straight without locking out hard.\n4. Slowly let your elbows bend back to the starting position, keeping tension on the cable throughout.",
       "instructions": "1. Keep your elbows locked against your sides for the entire set; letting them flare or drift forward shifts the work to your shoulders and chest.\n2. Keep your torso upright and still -- don't lean forward or rock your body to help push the weight down.\n3. Move only at the elbow joint; your upper arms should not move at all during the rep.\n4. Control the return instead of letting the cable snap your arms back up.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/cable_triceps_pushdown.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/7ex_cable_triceps_pushdown.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
@@ -116,7 +116,7 @@
       "name": "Plank",
       "description": "1. Get into position face-down with your forearms on the floor, elbows directly under your shoulders, and forearms parallel to each other.\n2. Extend your legs behind you and rise onto your toes so your body forms a straight line from head to heels.\n3. Draw your navel in toward your spine and squeeze your glutes to keep your pelvis level and your lower back from sagging.\n4. Hold the position while breathing steadily, keeping your neck neutral with your eyes toward the floor.",
       "instructions": "1. Keep your hips level -- don't let them sag toward the floor or pike up toward the ceiling.\n2. Squeeze your glutes and brace your abs the entire time to keep your lower back from arching.\n3. Keep breathing normally throughout the hold; don't hold your breath.\n4. Prioritize a shorter hold with perfect form over a longer hold with sagging hips or a rounded neck.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/plank.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/8ex_plank.webp",
       "muscle_group_id": "default_core",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_functional",
@@ -131,7 +131,7 @@
       "name": "Dumbbell Wrist Curl",
       "description": "1. Sit on a bench and rest your forearms on your thighs or on the bench itself, with your wrists just past your knees or the edge.\n2. Hold a dumbbell in each hand with palms facing up, letting the weight roll down to your fingertips.\n3. Curl the dumbbells up by flexing only your wrists, rolling the weight back up into your palms and squeezing at the top.\n4. Slowly lower the dumbbells back down under control, letting your wrists extend fully before the next rep.",
       "instructions": "1. Keep your forearms completely still on the bench or thighs; only your wrists should move.\n2. Use light weight and a slow, controlled tempo -- the small muscles of the forearm fatigue and strain easily under heavy load.\n3. Move through the full range of motion, letting the dumbbells roll down to your fingers at the bottom and squeezing fully at the top.\n4. Stop if you feel sharp wrist pain rather than muscle fatigue in the forearm.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/dumbbell_wrist_curl.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/9ex_dumbbell_wrist_curl.webp",
       "muscle_group_id": "custom_forearm",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
@@ -146,7 +146,7 @@
       "name": "Neck Machine Flexion & Extension",
       "description": "1. Adjust the seat height so the pad sits flush against your forehead for flexion, or against the back of your head for extension.\n2. Sit tall with a neutral spine and grip the side handles to stabilize your torso.\n3. For flexion, start with your head tilted back and slowly nod forward until your chin nears your chest; for extension, start with your chin down and press your head back until your eyes face the ceiling.\n4. Pause briefly at the end of the range, then return to the start under control.",
       "instructions": "1. Start with very light resistance, since the neck muscles are small and injure easily.\n2. Move slowly and never use momentum or jerk your head through the range.\n3. Keep the movement isolated to the neck; don't shrug your shoulders or arch your back to assist.\n4. Stop immediately if you feel sharp pain, dizziness, or numbness, and don't push into a range that feels unstable.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/neck_machine_flexion_extension.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/10ex_neck_machine_flexion_extension.webp",
       "muscle_group_id": "default_neck",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -161,7 +161,7 @@
       "name": "Kettlebell Swing",
       "description": "1. Stand with feet slightly wider than shoulder-width, kettlebell on the floor about a foot in front of you.\n2. Hinge at the hips, not a squat, to grip the handle with both hands, keeping your back flat and shins nearly vertical.\n3. Hike the kettlebell back between your legs like a football snap, then drive your hips forward explosively to swing it up to chest height.\n4. Let the kettlebell float briefly at the top as your glutes lock out, then let it fall back into the next hike-and-hinge cycle.",
       "instructions": "1. Power comes from the hips snapping forward, not from the arms lifting or the knees squatting.\n2. Keep a long, neutral spine and a braced core throughout; a rounding lower back means the hinge has broken down.\n3. Keep the kettlebell close to your body on the backswing, tracking high into the inner thighs rather than down at the knees.\n4. Stop and reset if you can't maintain a flat back or feel the effort shift from your hips into your lower back.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/kettlebell_swing.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/11ex_kettlebell_swing.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_kettlebell",
       "training_type_id": "default_functional",
@@ -176,7 +176,7 @@
       "name": "Resistance Band Pull-Apart",
       "description": "1. Stand tall with feet hip-width apart and hold a resistance band in both hands at shoulder height, palms down, hands wider than shoulder-width.\n2. Start with your arms straight in front of you and slight tension already on the band.\n3. Keeping your elbows nearly straight, pull the band apart by driving your hands out to the sides until it touches your chest.\n4. Squeeze your shoulder blades together at the end position, then return slowly under control to the start.",
       "instructions": "1. Drive the movement by squeezing your shoulder blades together, not by muscling it with your hands or arms.\n2. Keep your arms almost straight throughout so the rear delts and mid-back do the work instead of the biceps.\n3. Keep your shoulders down and relaxed; avoid shrugging up toward your ears as you pull.\n4. Choose a band tension that lets you finish the set with a full squeeze; if you can't keep your arms straight or start shrugging, the band is too heavy.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/resistance_band_pull_apart.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/12ex_resistance_band_pull_apart.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_strength",
@@ -191,7 +191,7 @@
       "name": "Treadmill Incline Walk",
       "description": "1. Clip the safety key to your clothing, then start the belt at a slow, comfortable pace on a flat incline for a 5-minute warm-up.\n2. Gradually raise the incline to about 3-5% and your pace to a brisk walk, keeping your posture tall and your eyes forward.\n3. Let your arms swing naturally and land on your midfoot rather than stomping through your heel.\n4. Hold that pace and incline for your target duration, then lower the incline and slow the pace for a 5-minute cool-down before stopping.",
       "instructions": "1. Touch the handrails only lightly for balance; gripping them tightly twists your hips and blocks natural arm swing.\n2. Keep your torso upright; don't lean forward on the incline or hunch over to compensate.\n3. Increase incline and speed gradually across sessions rather than jumping straight to a steep grade.\n4. Stop and reduce the intensity right away if you feel sharp joint pain, chest tightness, or dizziness.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/treadmill_incline_walk.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/13ex_treadmill_incline_walk.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_cardio_machine",
       "training_type_id": "default_cardio",
@@ -206,7 +206,7 @@
       "name": "Push-Up",
       "description": "1. Start in a high plank with hands slightly wider than shoulder-width, feet hip-width apart, and your body in one straight line from head to heels.\n2. Position your hands so the crease of your wrist lines up roughly under your shoulders, fingers spread for a stable base.\n3. Bend your elbows to about 45 degrees from your torso and lower your chest toward the floor until your upper arms are about parallel to the ground.\n4. Push the floor away to press back up to a straight-arm plank without letting your hips sag or pike.",
       "instructions": "1. Keep your elbows at roughly a 45-degree angle to your torso; flaring them straight out to the sides stresses the shoulders.\n2. Keep your core and glutes braced so your hips stay in line with your shoulders and ankles throughout.\n3. Keep your neck neutral with your ears in line with your shoulders instead of dropping your head or craning it up.\n4. Lower all the way until your chest nears the floor each rep instead of stopping halfway.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/push_up.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/14ex_push_up.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -221,7 +221,7 @@
       "name": "Incline Dumbbell Press",
       "description": "1. Set the bench to a shallow incline of about 30 degrees, sit down with a dumbbell resting on each thigh, then lie back and bring them to shoulder level as you settle in.\n2. Plant your feet flat on the floor and press your upper back into the bench, palms facing forward.\n3. Press the dumbbells up and slightly inward until your arms are extended above your upper chest, without banging the weights together.\n4. Lower the dumbbells under control until your upper arms are just past parallel to the floor, keeping your wrists straight.",
       "instructions": "1. Keep the bench angle shallow, around 30 degrees; a steeper incline shifts the work from your chest to your front shoulders.\n2. Start with lighter weight than you'd use on a barbell, since each arm has to stabilize the dumbbell independently.\n3. Lower to a full stretch and press to full extension each rep instead of shortening the range to handle more weight.\n4. Keep your wrists straight and stacked over your elbows; don't let them bend backward under load.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/ex_incline_dumbbell_press.webp",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/15ex_incline_dumbbell_press.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
@@ -236,7 +236,7 @@
       "name": "Cable Chest Fly",
       "description": "1. Set both cable pulleys to about chest height and stand in the middle, one handle in each hand, taking a small step forward to create tension.\n2. Start with your arms out to the sides at about 30 degrees from your torso, elbows slightly bent, and a slight forward lean.\n3. Sweep your hands forward and together in a wide arc until they meet or nearly meet in front of your chest, squeezing your pecs at the end.\n4. Slowly return your arms back out to the starting position, resisting the pull of the cables the whole way.",
       "instructions": "1. Keep a slight, fixed bend in your elbows throughout; don't turn the move into a press by bending your elbows further as you go.\n2. Don't let your hands travel behind your shoulders on the way back, and don't overstretch past a comfortable range.\n3. Avoid banging the handles together at the top; stop just short and hold the squeeze to keep tension on the chest.\n4. Control the return instead of letting the cables yank your arms back open.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/cable_chest_fly.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/16ex_cable_chest_fly.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
@@ -251,7 +251,7 @@
       "name": "Barbell Overhead Press",
       "description": "1. Grip the bar slightly wider than shoulder-width and rest it across the front of your shoulders, feet hip- to shoulder-width apart.\n2. Brace your core and squeeze your glutes to lock your hips in a neutral, upright position before you press.\n3. Press the bar straight up in a vertical line, moving your head back slightly to let it pass, then locking out overhead with the bar over your shoulders.\n4. Lower the bar back to your front shoulders under control along the same straight path.",
       "instructions": "1. Brace your core hard, like you're about to take a punch to the stomach, before every rep to protect your spine.\n2. Keep your torso vertical throughout; don't lean back or use your legs to help drive the bar up.\n3. Keep the bar path as close to a straight vertical line as possible instead of pressing it forward and away from your body.\n4. Warm up your shoulders with light band pull-aparts or arm circles before loading the bar heavy.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/barbell_overhead_press.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/17ex_barbell_overhead_press.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -266,7 +266,7 @@
       "name": "Cable Face Pull",
       "description": "1. Set the cable pulley to about eye or head height and attach a rope handle, then grip it with an overhand grip, one hand on each end.\n2. Step back to create tension, feet shoulder-width apart, and start with your arms extended in front of you.\n3. Pull the rope toward your face by driving your elbows high and wide, finishing with your hands near your ears and elbows above shoulder height.\n4. At the end position, rotate your hands so your thumbs point behind you, then return slowly under control to the start.",
       "instructions": "1. Keep your elbows high, at or above shoulder height, throughout the pull; letting them drop low shifts the work into your biceps and forearms.\n2. Initiate the pull by driving your elbows back, not by yanking with your hands.\n3. Keep your torso upright and still; don't lean back or use your body to help pull the rope.\n4. Use a light weight, since this is a shoulder-health and posture exercise, not a max-effort lift.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/cable_face_pull.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/18ex_cable_face_pull.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
@@ -281,7 +281,7 @@
       "name": "Lat Pulldown",
       "description": "1. Sit at the machine with your thighs secured under the pad, and grip the bar with hands wider than shoulder-width, palms facing away from you.\n2. Lean your torso back slightly, about 15-20 degrees, and lift your chest.\n3. Pull the bar down toward your upper chest by driving your elbows down and back, squeezing your shoulder blades together.\n4. Slowly let the bar rise back to full arm extension, keeping control of the weight and your torso position throughout.",
       "instructions": "1. Keep your torso angle fixed at a slight lean; leaning back further and further to move more weight turns this into a standing row and takes work off your lats.\n2. Drive the movement with your elbows going down and back, not by curling the bar in with your biceps.\n3. Keep your trunk stable and avoid swinging or using momentum to jerk the bar down.\n4. Control the eccentric all the way back up to a full stretch instead of letting the weight stack yank your arms up.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/lat_pulldown.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/19ex_lat_pulldown.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -296,7 +296,7 @@
       "name": "Seated Cable Row",
       "description": "1. Sit at the cable row station with knees slightly bent and feet braced on the platform, then grip the handle and slide back until the cable is taut and your torso is upright.\n2. Start with your arms extended and shoulders slightly rounded forward to get a full stretch.\n3. Pull the handle toward your lower ribcage by driving your elbows straight back, keeping your torso upright and squeezing your shoulder blades together at the end.\n4. Slowly extend your arms back out under control to the starting stretch, without letting the weight yank you forward.",
       "instructions": "1. Keep your torso nearly upright and moving only slightly, within a small arc; don't lean far forward and back to move more weight.\n2. Keep your elbows close to your body as you pull; letting them flare out and up shifts work to your shoulders instead of your back.\n3. Keep your shoulders down and away from your ears throughout the pull instead of shrugging.\n4. Maintain a neutral spine; don't round your lower back to complete the movement.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/seated_cable_row.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/20ex_seated_cable_row.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
@@ -311,7 +311,7 @@
       "name": "Dumbbell Bent-Over Row",
       "description": "1. Stand with feet shoulder-width apart holding a dumbbell in each hand, then push your hips back and hinge your torso forward to about a 45-degree angle, knees slightly bent.\n2. Let the dumbbells hang straight down with a neutral grip, keeping your back flat and spine neutral.\n3. Pull both dumbbells up toward your lower ribcage by driving your elbows back and close to your body, squeezing your shoulder blades together at the top.\n4. Lower the dumbbells back down under control to a full arm extension before starting the next rep.",
       "instructions": "1. Keep your back flat throughout the set; if you can't maintain a flat back at this hip angle, hinge to a slightly more upright position.\n2. Drive the pull with your elbows, keeping them close to your sides; don't let them flare wide or turn the row into a rear-delt raise.\n3. Keep your head in a neutral position, in line with your spine, instead of craning it forward or up to see yourself in a mirror.\n4. Master the hip hinge first with just your bodyweight if you feel the effort shifting into your lower back.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/dumbbell_bent_over_row.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/21ex_dumbbell_bent_over_row.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
@@ -326,7 +326,7 @@
       "name": "Barbell Curl",
       "description": "1. Stand tall with feet shoulder-width apart, gripping the bar with an underhand grip about shoulder-width, elbows pinned to your sides.\n2. Keep a soft bend in your knees and your torso upright, shoulder blades pulled slightly together.\n3. Curl the bar up toward your shoulders by bending only your elbows, keeping them fixed at your sides throughout.\n4. Lower the bar back down under control to just short of full elbow lockout, then repeat.",
       "instructions": "1. Keep your elbows glued to your torso the entire set; letting them drift forward or backward shifts work to your shoulders and lets you cheat the weight up.\n2. Don't lean your torso backward or rock your hips to sling the bar upward.\n3. Avoid locking your elbows out hard at the bottom of each rep; keep a slight bend to protect the joint.\n4. Choose a weight that lets you move under control; if you need momentum to complete a rep, it's too heavy.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/barbell_curl.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/22ex_barbell_curl.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -341,7 +341,7 @@
       "name": "Triceps Dip",
       "description": "1. Sit on the edge of a bench or between parallel bars, hands gripping the edge next to your hips, fingers pointing forward.\n2. Slide your hips off the edge so your weight rests on your hands, legs extended out in front of you (or bent for an easier version).\n3. Bend your elbows straight back and lower your body until your upper arms are about parallel to the floor or your shoulders start to feel a stretch.\n4. Push back up through your hands to straighten your arms, without locking your elbows out hard at the top.",
       "instructions": "1. Keep your elbows pointing straight back rather than flaring out to the sides, to protect your shoulders and keep the tension on your triceps.\n2. Keep your shoulders pulled down and back throughout; don't let them hike up toward your ears or roll forward at the bottom.\n3. Stop your descent once your upper arms are roughly parallel to the floor; going deeper increases stress on the front of the shoulder.\n4. Keep your chest lifted and torso close to vertical rather than leaning far forward, which shifts the work toward your chest.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/triceps_dip.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/23ex_triceps_dip.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -356,7 +356,7 @@
       "name": "Leg Press",
       "description": "1. Sit in the leg press machine with your back and hips flat against the pad, then place your feet shoulder-width apart on the platform with toes turned slightly out.\n2. Release the safety catches and unrack the platform with your arms, keeping your knees bent at about 90 degrees.\n3. Lower the platform under control by bending your knees toward your chest, letting your knees track in line with your toes, until your knees are near 90 degrees or your lower back stays flat against the pad.\n4. Press through your whole foot to extend your legs back to the start, without locking your knees out hard at the top.",
       "instructions": "1. Keep your whole foot flat on the platform; don't let your heels lift or hang off the edge.\n2. Keep your knees pushing outward in line with your toes as you lower and press; don't let them cave inward.\n3. Avoid locking your knees out completely at the top of each rep -- stop just short to keep tension on the muscles and off the joint.\n4. Keep your hips and lower back pressed flat against the pad throughout; if your hips start lifting off the pad, you've gone deeper than your mobility allows.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/leg_press.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/24ex_leg_press.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -371,7 +371,7 @@
       "name": "Walking Lunge",
       "description": "1. Stand tall holding a dumbbell in each hand at your sides, feet hip-width apart, core braced.\n2. Step forward with one leg into a staggered stance, lowering your back knee toward the floor until both knees reach about 90 degrees.\n3. Push through your front heel to stand up and bring your back leg forward into the next step, continuing to \"walk\" forward one lunge at a time.\n4. Keep alternating legs for the set distance or number of reps, staying tall through your torso the whole way.",
       "instructions": "1. Keep your front knee tracking in line with your toes and staying roughly over your ankle instead of pushing far past it.\n2. Take a moderate step length rather than overstriding, which can strain your hips and groin.\n3. Keep your torso upright and your core braced instead of leaning far forward or looking down at your feet.\n4. Keep your feet slightly staggered side-to-side rather than walking on a single line, so you don't lose your balance.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/walking_lunge.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/25ex_walking_lunge.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_functional",
@@ -386,7 +386,7 @@
       "name": "Goblet Squat",
       "description": "1. Hold a kettlebell vertically at chest height with both hands under the horns/handle, elbows tucked in, feet slightly wider than shoulder-width with toes turned out 5-10 degrees.\n2. Keep the kettlebell close to your chest and your spine neutral as you brace your core.\n3. Push your hips back and bend your knees at the same time, pushing your knees outward, and squat down until your elbows nearly touch the inside of your knees or your thighs are at least parallel to the floor.\n4. Drive through your heels and midfoot to stand back up, squeezing your glutes at the top.",
       "instructions": "1. Keep the weight close to your chest throughout; letting it drift away from your body pulls your torso forward.\n2. Keep your knees pushing outward in the same direction as your toes as you descend, instead of letting them cave in.\n3. Keep your weight on your heels and midfoot; don't let your heels lift off the ground.\n4. If your torso keeps tipping forward, focus on bracing your core harder and don't force extra depth beyond what you can control.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/goblet_squat.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/26ex_goblet_squat.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_kettlebell",
       "training_type_id": "default_functional",
@@ -401,7 +401,7 @@
       "name": "Resistance Band Lateral Walk",
       "description": "1. Place a resistance band around your ankles or just above your knees, then stand with feet shoulder-width apart and bend your knees into a slight half-squat.\n2. Keep your chest up and core braced, maintaining tension in the band by keeping your feet wide throughout.\n3. Step sideways with one foot, then follow with the other, keeping the band taut and your feet from snapping together.\n4. Take 8-10 steps in one direction, then reverse and take 8-10 steps back the other way, staying in the half-squat the entire time.",
       "instructions": "1. Stay in the mini-squat position for the whole set; standing upright removes tension from the glutes.\n2. Push your knees outward against the band as you step; don't let them cave inward.\n3. Keep the band under tension at all times by never letting your feet fully come together.\n4. Move slowly and with control rather than rushing the steps, which reduces glute activation.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/resistance_band_lateral_walk.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/27ex_resistance_band_lateral_walk.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_functional",
@@ -416,7 +416,7 @@
       "name": "Bodyweight Squat",
       "description": "1. Stand with feet slightly wider than hip-width, toes turned slightly out, arms extended out in front of you for balance.\n2. Take a deep breath, brace your core, and push your hips back first as your knees begin to bend.\n3. Descend by sitting your hips down and back, keeping your chest up and knees tracking in line with your toes, until your thighs are at least parallel to the floor.\n4. Drive through your heels and whole foot to stand back up, squeezing your glutes at the top.",
       "instructions": "1. Start the movement by pushing your hips back, not by bending your knees forward first.\n2. Keep your knees tracking in the same direction as your toes throughout; use the cue \"push the knees out\" if they start caving in.\n3. Keep your torso as upright as your mobility allows; if your chest collapses forward or your heels lift, you've gone past a depth you can control.\n4. Keep your weight spread across your whole foot rather than shifting onto your toes.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/bodyweight_squat.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/28ex_bodyweight_squat.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -431,7 +431,7 @@
       "name": "Kneeling Cable Crunch",
       "description": "1. Attach a rope to a high pulley, kneel a few steps away facing the machine, and hold the rope ends by your head or shoulders.\n2. Start with a slight forward lean from the hips so the cable has tension, keeping your hips stationary throughout.\n3. Curl your spine downward, drawing your ribcage toward your pelvis, rounding your back rather than folding at the hips.\n4. Slowly uncurl back to the starting position under control, keeping tension on your abs the whole time.",
       "instructions": "1. Keep your hips still throughout the movement; the motion should come entirely from your spine curling, not your hips hinging.\n2. Think \"ribs to pelvis\" to keep the effort in your abs instead of your hip flexors.\n3. Keep the rope close to your head rather than pulling primarily with your arms.\n4. Control both the curl down and the return up rather than using momentum to bounce through reps.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/kneeling_cable_crunch.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/29ex_cable_crunch.webp",
       "muscle_group_id": "default_core",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
@@ -446,7 +446,7 @@
       "name": "Resistance Band Pallof Press",
       "description": "1. Anchor a resistance band at chest height and stand sideways to the anchor, feet shoulder-width apart, holding the band with both hands at the center of your chest.\n2. Step away from the anchor until there's tension in the band, keeping your elbows tucked and core braced.\n3. Press the band straight out in front of your chest until your arms are fully extended, resisting the band's pull to one side.\n4. Hold briefly, then slowly bring your hands back to your chest under control before pressing out again.",
       "instructions": "1. Keep your feet, knees, hips, and shoulders stacked in a straight line facing forward; don't let the band twist your torso toward the anchor.\n2. Keep your core braced and glutes squeezed throughout, like you're about to be punched in the stomach.\n3. Move slowly and pause at full extension instead of rushing the press, which lets the band win the anti-rotation battle.\n4. Perform the set facing both directions so you train the anti-rotation resistance evenly on each side.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/resistance_band_pallof_press.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/30ex_pallof_press.webp",
       "muscle_group_id": "default_core",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_functional",
@@ -461,7 +461,7 @@
       "name": "Kettlebell Farmer's Carry",
       "description": "1. Stand between two kettlebells (or hold one in each hand), hinge at the hips, bend your knees slightly, and grip the handles firmly with a neutral grip.\n2. Stand up tall holding a kettlebell in each hand at your sides, shoulders pulled back and down, chest up.\n3. Walk forward with controlled, steady steps, keeping your core braced and the kettlebells close to your sides without swinging.\n4. Continue for the set distance or time, then set the kettlebells down under control by hinging at the hips again.",
       "instructions": "1. Grip the handles firmly and squeeze hard throughout the carry; a weak grip is usually the limiting factor before your other muscles fatigue.\n2. Keep your shoulders down and back and your torso upright like you're balancing a book on your head; don't let one side droop or lean.\n3. Look straight ahead instead of down at your feet, which helps keep your upper back from rounding.\n4. Start with a manageable load and walk at a slow, controlled pace rather than rushing, since losing form under a heavy carry raises injury risk.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/kettlebell_farmers_carry.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/31ex_kettlebell_farmers_carry.webp",
       "muscle_group_id": "custom_forearm",
       "equipment_type": "default_kettlebell",
       "training_type_id": "default_functional",
@@ -476,7 +476,7 @@
       "name": "Chest Press Machine",
       "description": "1. Adjust the seat height so the handles line up with your mid-chest when seated, back and head resting against the pad.\n2. Grip the handles with a full grip, feet flat on the floor or footrests, and pull your shoulder blades down and back before you press.\n3. Push the handles forward by extending your arms until they're nearly straight, without locking your elbows out hard.\n4. Return the handles slowly and under control back to the start, keeping your back against the pad.",
       "instructions": "1. Set the seat height correctly first; a seat that's too high or too low shifts stress onto the shoulder joint instead of the chest.\n2. Keep your back flat against the pad throughout; don't arch to help push the weight.\n3. Avoid locking your elbows out completely at full extension, and don't let them drift above shoulder height during the press.\n4. Move in a smooth, controlled tempo instead of bouncing the weight stack between reps.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/chest_press_machine.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/32ex_chest_press_machine.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -491,7 +491,7 @@
       "name": "Resistance Band Chest Press",
       "description": "1. Anchor a resistance band behind you at chest height, then stand facing away with feet staggered, holding a handle in each hand at chest level with elbows bent 90 degrees.\n2. Keep a slight tension in the band even at the start position, core braced and shoulders down.\n3. Press both handles forward until your arms are nearly straight, squeezing your chest at the end without locking your elbows out hard.\n4. Slowly return your hands back to the starting position at chest level, resisting the band the whole way.",
       "instructions": "1. Keep your core braced throughout so the band's pull doesn't rotate your torso or arch your lower back.\n2. Keep your shoulders down and back and your elbows from dipping below shoulder height as you press.\n3. Keep constant tension in the band even at the start of each rep; letting it go fully slack removes the muscle-building stimulus.\n4. Control the return instead of letting the band snap your arms back.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/resistance_band_chest_press.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/33ex_resistance_band_chest_press.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_strength",
@@ -506,7 +506,7 @@
       "name": "Pike Push-Up",
       "description": "1. Start in a plank position with hands under your shoulders, then walk your feet toward your hands and lift your hips up and back into an inverted-V shape.\n2. Keep your arms and legs as straight as you can, with your head positioned between your arms looking toward your feet.\n3. Bend your elbows to about 45 degrees from your torso and lower the crown of your head toward the floor between your hands.\n4. Push back up through your hands to straighten your arms, returning to the inverted-V position.",
       "instructions": "1. Keep your hips lifted high in the inverted-V throughout; letting them drop turns the exercise into a regular push-up and takes stress off the shoulders.\n2. Keep your elbows at roughly 45 degrees from your torso instead of letting them flare straight out to the sides.\n3. Keep your neck in a neutral position and lower slowly instead of dropping your head quickly toward the floor.\n4. Start with a smaller range of motion and build up gradually if you're new to the movement.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/pike_push_up.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/34ex_pike_push_up.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -521,7 +521,7 @@
       "name": "Machine Shoulder Press",
       "description": "1. Adjust the seat height so the handles line up with the tops of your shoulders and your elbows start just below shoulder level.\n2. Sit back fully against the pad with your feet flat on the floor, gripping the handles with your elbows around the 4 and 8 o'clock positions.\n3. Press the handles straight up until your arms are extended, keeping a slight bend in your elbows instead of locking out hard.\n4. Lower the handles back down under control to the starting position at shoulder height.",
       "instructions": "1. Set your seat height first; too low starts your elbows below shoulder level and too high shortens your range of motion.\n2. Keep your back and hips pressed against the pad throughout; don't arch your lower back or let your hips lift to help press the weight.\n3. Engage your upper back to control the lowering phase instead of just letting gravity drop the weight.\n4. Keep your head resting naturally against the pad without tilting it forward or back.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/machine_shoulder_press.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/35ex_machine_shoulder_press.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -536,7 +536,7 @@
       "name": "Kettlebell Overhead Press",
       "description": "1. Clean the kettlebell into the racked position at shoulder height, wrist straight and the bell resting against your forearm, elbow tucked in.\n2. Stand tall with feet hip-width apart, brace your core, and squeeze your glutes to lock your hips in a neutral position.\n3. Press the kettlebell straight up in a vertical line until your arm is fully extended overhead, finishing with the bell directly above your shoulder.\n4. Lower the kettlebell back down to the racked position at your shoulder under control, then repeat.",
       "instructions": "1. Brace your core and keep your ribs down before and during the press to avoid arching your lower back.\n2. Keep the bar path as vertical as possible, with the kettlebell finishing directly above your shoulder rather than out in front of you.\n3. Keep your wrist straight throughout; a bent wrist under load stresses the joint and reduces your pressing power.\n4. Stop the set if you feel sharp pinching in the shoulder at the top, and lower the weight until you can press pain-free.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/kettlebell_overhead_press.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/36ex_kettlebell_overhead_press.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_kettlebell",
       "training_type_id": "default_strength",
@@ -551,7 +551,7 @@
       "name": "Resistance Band Row",
       "description": "1. Sit on the floor with legs extended, loop the resistance band around your feet, and hold a handle in each hand with arms straight out in front of you.\n2. Sit tall with a neutral spine, core braced, and set your shoulder blades down before you pull.\n3. Pull the band toward your torso by driving your elbows back and close to your sides, squeezing your shoulder blades together as your hands reach your ribcage.\n4. Slowly extend your arms back out under control to the starting position, keeping your chest tall throughout.",
       "instructions": "1. Keep your chest up and spine neutral the whole set; letting your back round forward reduces back engagement and stresses your lower back.\n2. Drive the pull with your elbows going back, not by pulling your hands toward you first.\n3. Keep your shoulders down away from your ears; if they creep up toward your ears, reset with a \"long neck\" cue.\n4. Exhale as you pull and inhale as you return, keeping the movement controlled rather than jerky.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/resistance_band_row.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/37ex_resistance_band_row.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_strength",
@@ -566,7 +566,7 @@
       "name": "Kettlebell Single-Arm Row",
       "description": "1. Place a kettlebell on the floor beside a bench, hinge at the hips to about a 45-degree torso angle, and support yourself with one hand on the bench.\n2. Grip the kettlebell with your free hand, keeping your back flat and spine neutral, shoulders square to the floor.\n3. Row the kettlebell up by driving your elbow toward the ceiling and squeezing your shoulder blade back and down, pulling the bell to your hip.\n4. Lower the kettlebell back down under control to a full arm extension before starting the next rep.",
       "instructions": "1. Keep your back flat and spine neutral throughout; if your back starts to round, use a lighter kettlebell.\n2. Keep your torso square and stable, without twisting or rotating as you row.\n3. Drive the movement with your elbow, not by shrugging your shoulder up toward your ear.\n4. Keep your shoulders level; letting one hip or shoulder drop breaks the position and can strain your lower back.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/kettlebell_single_arm_row.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/38ex_kettlebell_single_arm_row.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_kettlebell",
       "training_type_id": "default_strength",
@@ -581,7 +581,7 @@
       "name": "Resistance Band Bicep Curl",
       "description": "1. Stand on the middle of the band with feet shoulder-width apart, holding a handle in each hand with palms facing forward, elbows pinned to your sides.\n2. Brace your abs, keep your knees soft, and pull your shoulders down and back.\n3. Curl the band up toward your shoulders by bending only your elbows, keeping your upper arms fixed in place.\n4. Pause briefly at the top, then lower the band back down over 2-3 seconds to the starting position.",
       "instructions": "1. Keep your elbows pinned to your sides throughout; letting them drift behind your torso turns the curl into a shoulder movement.\n2. Don't lean your torso backward to help pull the band up; keep your body still and let your biceps do the work.\n3. Move only at the elbow; avoid curling your wrists or using them to help lift the band.\n4. Choose a band tension you can control for the full set; if you need to rock or lean to complete reps, it's too heavy.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/resistance_band_bicep_curl.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/39ex_resistance_band_bicep_curl.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_strength",
@@ -596,7 +596,7 @@
       "name": "Machine Preacher Curl",
       "description": "1. Adjust the seat so your armpits sit snugly over the top of the pad, upper arms flat against it, and grip the handles with elbows slightly in front of your torso.\n2. Press the back of your upper arms into the pad and keep them pinned there for the whole set.\n3. Curl the handles up by bending your elbows and squeezing your biceps, lifting until near shoulder height without letting your shoulders roll forward.\n4. Slowly lower back down under control until you feel a stretch in your biceps, keeping a slight bend in your elbows at the bottom.",
       "instructions": "1. Keep the back of your upper arms pressed against the pad for every rep; lifting your elbows off the pad turns this into a sloppy standing curl.\n2. Adjust the seat so your armpits sit right at the top of the pad; a poor fit lets your shoulders take over the lift.\n3. Lower until you feel a full stretch and curl all the way up to a full contraction instead of cutting the range short.\n4. Control the descent instead of letting the weight drop and bounce out of the bottom position.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/preacher_curl_machine.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/40ex_preacher_curl_machine.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -611,7 +611,7 @@
       "name": "Dumbbell Russian Twist",
       "description": "1. Sit on the floor with knees bent and feet flat (or lifted slightly for more challenge), holding a single dumbbell with both hands at your chest.\n2. Lean your torso back to about a 45-degree angle, keeping your back flat and spine neutral.\n3. Rotate your torso to bring the dumbbell to one side near your hip, then reverse through center to the other side, keeping the movement controlled.\n4. Continue alternating sides for the set number of reps, keeping your feet steady throughout.",
       "instructions": "1. Rotate from your upper back and ribcage, not just your arms swinging the dumbbell across your body.\n2. Keep your back flat instead of rounding it; a rounded spine reduces core engagement and increases strain risk.\n3. Move slowly and with control rather than twisting fast, which can cause you to over-rotate and strain your back.\n4. If you have a history of lower-back pain, start with anti-rotation exercises like the pallof press before adding a rotating twist.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/dumbbell_russian_twist.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/41ex_dumbbell_russian_twist.webp",
       "muscle_group_id": "default_core",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
@@ -626,7 +626,7 @@
       "name": "Machine Ab Crunch",
       "description": "1. Sit upright on the machine, secure your feet, and hold the handles or place the shoulder pads in position with your elbows tucked.\n2. Adjust the seat so the machine's pivot point aligns with your torso, choosing a weight that lets you perform controlled reps.\n3. Flex the bottom of your ribcage toward your belly button, curling your spine forward as you pull the handles down.\n4. Slowly return to the starting position under control, keeping tension on your abs throughout.",
       "instructions": "1. Move slowly and with control; a fast, swinging motion sharply reduces how much your abs actually work.\n2. Let your abs do the curling instead of pulling with your arms or hips to move the weight.\n3. Avoid pulling on your neck with your hands; keep your hands lightly in place and let your torso do the flexing.\n4. Exhale as you crunch forward and inhale as you return, keeping the tempo unhurried.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/ab_crunch_machine.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/42ex_ab_crunch_machine.webp",
       "muscle_group_id": "default_core",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -641,7 +641,7 @@
       "name": "Barbell Romanian Deadlift",
       "description": "1. Stand with feet hip-width apart holding the barbell across your thighs, hands just outside your legs, bar centered over your mid-foot.\n2. Keep a soft bend in your knees and push your hips straight back while keeping your spine neutral and the bar sliding down close to your thighs.\n3. Lower the bar until you feel a firm stretch in your hamstrings, typically around mid-shin height, keeping your hips tall rather than squatting down.\n4. Drive your hips forward to return to standing, stopping just short of locking your hips out hard at the top.",
       "instructions": "1. Keep the bar sliding close against your legs the entire lift; a bar drifting away from your body places extra stress on your lower back.\n2. Keep a soft, fixed bend in your knees rather than bending them more as you descend, which turns the RDL into a squat.\n3. Only lower as far as you can while keeping your spine neutral; going deeper than your hamstring flexibility allows causes your back to round.\n4. Tuck your chin slightly, as if holding an egg under it, to keep your neck in a safe, neutral position throughout.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/barbell_romanian_deadlift.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/43ex_barbell_romanian_deadlift.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -654,9 +654,9 @@
     {
       "id": "ex_seated_leg_curl_machine",
       "name": "Seated Leg Curl Machine",
-      "description": "1. Sit in the machine with your back against the pad and adjust the seat so your knee joint lines up with the machine's pivot point.\n2. Position the ankle pad just above your heels and grip the handles, keeping your chest up and spine neutral.\n3. Curl the pad down by pulling your heels toward your glutes, bending your knees to about 90 degrees, keeping your back flat against the pad.\n4. Slowly extend your legs back out under control to the starting position without letting the weight stack slam down.",
-      "instructions": "1. Line up your knee joint with the machine's pivot point before you start; misalignment creates shearing stress on the knee.\n2. Keep your back pressed against the backrest throughout instead of arching or lifting off it to move more weight.\n3. Control the return phase instead of letting the weight drop; the lengthening portion is just as important as the pull.\n4. If you feel knee discomfort, re-check your seat alignment and reduce the weight rather than pushing through pain.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/seated_leg_curl_machine.jpg",
+      "description": "1. Sit on the machine with your back firmly against the backrest. Adjust the seat so that your knees are aligned with the machine's pivot point.\n2. Position the roller pad against the back of your lower legs, just above your ankles. Grip the handles, keep your chest up, and maintain a neutral spine throughout the movement.\n3. Contract your hamstrings and bend your knees, bringing your heels toward your glutes until your knees are bent to about 90 degrees, or as far as your mobility comfortably allows. Keep your back in contact with the backrest throughout the movement.\n4. Slowly return to the starting position until your knees are nearly straight, maintaining control and avoiding dropping the weight stack.",
+      "instructions": "1. Before starting, ensure your knees are aligned with the machine's pivot point. Improper alignment may increase shear stress on the knee joint.\n2. Keep your back firmly against the backrest throughout the exercise. Avoid arching your back or lifting your hips off the seat to move heavier weight.\n3. Control both the lifting and lowering phases of the movement. Avoid using momentum or allowing the weight stack to slam down.\n4. If you experience pain or discomfort in your knees or hamstrings, stop the exercise, check your seat and pad adjustments, reduce the weight, and avoid pushing through the pain.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/44ex_seated_leg_curl_machine.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -671,7 +671,7 @@
       "name": "Standing Calf Raise",
       "description": "1. Stand tall with feet hip-width apart, either flat on the floor or with the balls of your feet on the edge of a step for a deeper stretch, knees mostly straight.\n2. Use a wall or chair for light balance support if needed, keeping your shoulders back and core engaged.\n3. Rise slowly onto the balls of your feet as high as you can, squeezing your calves hard at the top for 1-2 seconds.\n4. Lower your heels back down under control, letting them drop below your toes if you're using a step for a full stretch.",
       "instructions": "1. Move slowly and avoid bouncing at the bottom; a fast, bouncy tempo reduces muscle activation and increases strain risk.\n2. Rise all the way up onto the balls of your feet each rep and lower to a full stretch instead of using a short, partial range of motion.\n3. Keep your posture upright with shoulders back; leaning forward reduces how effectively your calves work.\n4. Keep your ankles tracking straight up and down rather than letting them roll inward or outward.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/standing_calf_raise.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/45ex_standing_calf_raise.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -686,7 +686,7 @@
       "name": "Barbell Reverse Curl",
       "description": "1. Stand tall holding a barbell with an overhand (pronated) grip, hands shoulder-width apart, elbows pinned to your sides.\n2. Keep your wrists neutral and your torso upright before you begin curling.\n3. Curl the bar up toward your shoulders by bending only your elbows, keeping them fixed at your sides throughout.\n4. Lower the bar back down under control over about 2 seconds, squeezing your forearm and brachialis at the top of each rep.",
       "instructions": "1. Keep your grip width at shoulder-width; going narrower reduces forearm activation and going wider can strain your wrists.\n2. Keep your wrists straight and neutral throughout; letting them collapse or bend reduces the forearm benefit and stresses the joint.\n3. Don't swing your torso or use momentum to move the bar; this is a controlled, lighter-weight movement than a standard curl.\n4. Use less weight than you would for a regular barbell curl, since the forearm and brachioradialis are smaller muscles than the biceps.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/barbell_reverse_curl.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/46ex_barbell_reverse_curl.webp",
       "muscle_group_id": "custom_forearm",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -701,7 +701,7 @@
       "name": "Dead Hang",
       "description": "1. Grip a pull-up bar with an overhand grip at about shoulder width, thumbs wrapped around the bar.\n2. Step or jump off any support so your full bodyweight hangs, arms fully straight.\n3. For an active hang, pull your shoulder blades down and back slightly while keeping your arms straight; for a passive hang, let your shoulders relax up toward your ears.\n4. Hold the position while breathing steadily through your nose, then step back down under control to release.",
       "instructions": "1. Keep your grip firm with your thumbs wrapped around the bar rather than an open, thumbless grip, especially as you build up hang time.\n2. Keep your elbows fully straight throughout; bent elbows shift the hold from your grip and shoulders onto your arms.\n3. Avoid swinging your body or holding your breath; breathe steadily and keep your legs still.\n4. Stop immediately if you feel sharp pain or nerve-like tingling in your shoulder, and build hang time gradually rather than jumping straight to a long hold.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/dead_hang.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/47ex_dead_hang.webp",
       "muscle_group_id": "custom_forearm",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_flexibility",
@@ -716,7 +716,7 @@
       "name": "Manual Resistance Neck Isometrics",
       "description": "1. Sit or stand tall with good posture, then place your palm flat against your forehead.\n2. Gently push your head forward into your hand while your hand resists, so your head doesn't actually move, and hold the contraction.\n3. Repeat the same steady press against your own hand at the back of your head, then at each side of your head, working front, back, and both sides.\n4. Ease off gradually after each hold instead of releasing suddenly.",
       "instructions": "1. Apply resistance gradually and keep the force gentle to moderate; this is an isometric hold, not a maximal-effort push.\n2. Keep your head stationary throughout each hold; if your head moves, you've applied more resistance than you're pressing against.\n3. Hold each contraction for about 2-6 seconds, breathing steadily, and avoid holding your breath.\n4. Keep your torso still and your core braced so the effort stays isolated to your neck instead of turning into a shoulder shrug.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/neck_isometric_manual_resistance.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/48ex_neck_isometric_manual_resistance.webp",
       "muscle_group_id": "default_neck",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -731,7 +731,7 @@
       "name": "Resistance Band Neck Flexion",
       "description": "1. Anchor a resistance band to a sturdy point at head height, then loop it around the back of your head so it sits above your ears, facing away from the anchor.\n2. Take a step or two forward to create tension in the band, standing or sitting tall with your core braced.\n3. Keeping your torso still, tuck your chin and flex your head forward against the band's resistance, then slowly return to the start as the band pulls your head back.\n4. Repeat for the set number of reps, then turn around to face the anchor and repeat the motion in reverse for neck extension.",
       "instructions": "1. Move slowly with a controlled tempo in both directions; this is a small, precise range of motion, not a fast or jerky one.\n2. Keep your neck aligned with your spine throughout; avoid tilting your head excessively forward or back beyond a comfortable range.\n3. Start with light band tension and low reps, since the neck muscles are small and fatigue or strain easily.\n4. Stop if you feel sharp pain, dizziness, or numbness, and keep the resistance light enough that you stay in full control of the movement.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/resistance_band_neck_flexion.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/49ex_resistance_band_neck_flexion.webp",
       "muscle_group_id": "default_neck",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_strength",
@@ -740,11 +740,806 @@
         "secondary": []
       },
       "targets": []
+    },
+    {
+      "id": "ex_dumbbell_flat_bench_press",
+      "name": "Flat Dumbbell Bench Press",
+      "description": "1. Sit on the end of a flat bench with a dumbbell resting on each thigh, then use your legs to help kick the weights up as you lie back.\n2. Pull your shoulder blades back and down into the bench, plant both feet on the floor, and hold the dumbbells at chest level with palms facing forward.\n3. Press both dumbbells up and slightly inward until your arms are extended over your mid-chest, stopping just short of locking your elbows.\n4. Lower them under control until your upper arms are roughly level with your torso and you feel a stretch across your chest, then press again.",
+      "instructions": "1. Keep your shoulder blades pinned back and down for every rep; letting them roll forward shifts the load onto the shoulder joint instead of the chest.\n2. Don't clang the dumbbells together at the top -- stop just short of touching so tension stays on your chest.\n3. Take 2-3 seconds on the way down and stop when your upper arms reach torso level; dropping deeper than your mobility allows strains the shoulder capsule.\n4. Keep your wrists straight and stacked over your elbows. If your wrists fold backward, the weight is too heavy or your grip is too loose.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/50ex_dumbbell_flat_bench_press.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_mid", "chest_lower"],
+        "secondary": ["deltoid_front", "triceps"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_chest_fly",
+      "name": "Dumbbell Chest Fly",
+      "description": "1. Lie back on a flat bench holding a dumbbell in each hand directly above your chest, palms facing each other.\n2. Set your shoulder blades back and down into the bench and bend your elbows slightly; that elbow angle stays fixed for the whole set.\n3. Open your arms out to the sides in a wide arc until your upper arms are roughly level with your torso and you feel a stretch across your chest.\n4. Squeeze your chest to draw the dumbbells back together above your chest along the same arc, keeping the elbow angle unchanged.",
+      "instructions": "1. Hold a fixed slight bend in your elbows. Locked-straight arms put a long lever on the elbow joint, and bending more turns the fly into a press.\n2. Think about moving your upper arms rather than your hands -- the motion comes from the shoulder joint closing your arms across your body.\n3. Use noticeably lighter dumbbells than you press with; the stretched bottom position is where the chest and shoulder are most vulnerable.\n4. Stop opening once your upper arms reach torso level, and end the set if you feel pulling at the front of the shoulder rather than in the chest.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/51ex_dumbbell_chest_fly.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_mid"],
+        "secondary": ["deltoid_front", "biceps"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_incline_bench_press",
+      "name": "Incline Barbell Bench Press",
+      "description": "1. Set an adjustable bench to roughly 30 degrees, lie back with your eyes under the bar, and plant both feet flat on the floor.\n2. Pull your shoulder blades together and down into the bench, then grip the bar slightly wider than shoulder-width.\n3. Unrack the bar over your upper chest and lower it under control until it touches just below your collarbones.\n4. Press the bar back up along the same line until your elbows are extended, keeping your shoulder blades locked in place.",
+      "instructions": "1. Keep the incline around 30 degrees. Past about 45 degrees the front delts take over and the upper chest stops being the main worker.\n2. Touch the bar high on your chest, just below the collarbones -- touching mid-chest turns it back into a flat press.\n3. Keep your shoulder blades retracted and your butt on the bench; lifting your hips to press the weight changes the angle and risks your lower back.\n4. Use a full grip with your thumbs wrapped around the bar, and have a spotter or safety pins set when working near your limit.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/52ex_barbell_incline_bench_press.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_upper"],
+        "secondary": ["deltoid_front", "triceps"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_decline_bench_press",
+      "name": "Decline Barbell Bench Press",
+      "description": "1. Set a decline bench to roughly 15-30 degrees and hook your legs securely under the leg pads before lying back.\n2. Retract your shoulder blades into the bench and grip the bar slightly wider than shoulder-width.\n3. Unrack the bar over your lower chest and lower it under control until it touches just below your nipple line.\n4. Press the bar back up along the same path until your elbows are extended, without bouncing it off your chest.",
+      "instructions": "1. Make sure your legs are locked under the pads before you unrack; sliding head-down under a loaded bar is the main risk of this lift.\n2. Always use a spotter or a rack with safety pins -- the decline position makes it hard to bail out of a failed rep on your own.\n3. Keep the bar path over your lower chest rather than your face, and don't let your elbows flare straight out to the sides.\n4. If you feel dizzy or get pressure in your head from being inverted, sit up between sets and consider a flat or slight-decline setup instead.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/53ex_barbell_decline_bench_press.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_lower"],
+        "secondary": ["triceps", "deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_chest_dip",
+      "name": "Chest Dip",
+      "description": "1. Grip a set of parallel bars and press up to a supported position with your arms straight and shoulders pulled down away from your ears.\n2. Lean your torso forward about 30 degrees and let your legs drift slightly behind you, crossing your ankles for stability.\n3. Bend your elbows and lower yourself until your upper arms are roughly parallel to the floor, keeping that forward lean the whole way.\n4. Press back up through your chest to the starting position, stopping just short of locking your elbows out.",
+      "instructions": "1. The forward lean is what makes this a chest exercise -- staying bolt upright turns it into a triceps dip instead.\n2. Keep your shoulders pulled down away from your ears; letting them shrug up compresses the shoulder joint at the bottom.\n3. Stop the descent when your upper arms reach parallel. Going deeper than that stretches the front of the shoulder capsule under full bodyweight.\n4. Build up with an assisted dip machine or resistance band before adding weight, and stop immediately on any sharp shoulder pain.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/54ex_chest_dip.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_lower", "chest_mid"],
+        "secondary": ["triceps", "deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_decline_push_up",
+      "name": "Decline Push-Up",
+      "description": "1. Place both feet on a stable bench or box and set your hands on the floor slightly wider than shoulder-width.\n2. Brace your core and squeeze your glutes so your body forms one straight line from heels to head.\n3. Lower your chest toward the floor under control, keeping your elbows at roughly 45 degrees to your torso rather than flared straight out.\n4. Press back up until your arms are extended, keeping your hips level and your body in that same straight line.",
+      "instructions": "1. Keep your core braced and glutes squeezed; the elevated feet make it much easier to let your hips sag or pike up.\n2. Keep your neck neutral and look at a spot on the floor slightly ahead of your hands instead of tucking your chin to your chest.\n3. The higher your feet, the more the load shifts to your shoulders -- start with a low box and raise it as you get stronger.\n4. Use a bench that cannot slide or tip, and lower your feet if your lower back starts to arch.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/55ex_decline_push_up.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_upper"],
+        "secondary": ["deltoid_front", "triceps", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_chest_press",
+      "name": "Cable Chest Press",
+      "description": "1. Set both cable pulleys to roughly chest height and take one handle in each hand with your palms facing down.\n2. Step forward into a staggered stance so the cables are under tension, and bring your hands to chest level with elbows bent behind you.\n3. Press both handles forward and slightly together until your arms are extended in front of your chest, squeezing your pecs at the end.\n4. Let your hands travel back under control until you feel a stretch across your chest, then press again.",
+      "instructions": "1. Use a staggered stance and brace your core; a square, feet-together stance makes it easy to get pulled backward by the cables.\n2. Keep your elbows at roughly 45 degrees to your torso rather than flared straight out to the sides.\n3. Resist the cable on the way back instead of letting it snap your arms behind you -- the constant tension is the whole point of using cables.\n4. Keep your shoulders down and back; if they start rolling forward at the end of the press, reduce the weight.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/56ex_cable_chest_press.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_mid"],
+        "secondary": ["deltoid_front", "triceps"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_low_to_high_fly",
+      "name": "Low-to-High Cable Fly",
+      "description": "1. Set both cable pulleys to the lowest position and take one handle in each hand with palms facing forward.\n2. Step forward into a staggered stance with arms out to your sides and elbows slightly bent, letting the cables pull your arms down and back.\n3. Sweep both hands up and inward along an arc until they meet in front of your upper chest, around collarbone height.\n4. Lower your hands back along the same arc under control until you feel a stretch across your chest, keeping the elbow angle fixed.",
+      "instructions": "1. Keep a fixed slight bend in your elbows throughout; bending and straightening turns the fly into a press.\n2. Finish with your hands high, in front of your collarbones -- ending at belly height works the mid-chest instead of the upper chest.\n3. Don't lean back to help sweep the handles up. Brace your core and keep your torso still so the chest does the work.\n4. Use light weight and focus on the squeeze; heavy loads on a fly turn into shoulder strain rather than chest tension.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/57ex_cable_low_to_high_fly.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_upper"],
+        "secondary": ["deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_pec_deck_machine",
+      "name": "Pec Deck Machine Fly",
+      "description": "1. Adjust the seat so the handles or arm pads sit at roughly chest height when you are seated upright.\n2. Sit back with your whole back against the pad, feet flat on the floor, and place your forearms on the pads or grip the handles.\n3. Squeeze your chest to bring the pads together in front of your chest, pausing briefly at the point of peak contraction.\n4. Let the pads travel back apart under control until you feel a stretch across your chest, without letting the weight stack slam down.",
+      "instructions": "1. Set the seat height first. Handles above or below chest level shift the work onto your shoulders and can pinch the shoulder joint.\n2. Keep your back and shoulders flat against the pad; leaning forward off the pad to squeeze out extra reps loads the shoulder instead of the chest.\n3. Control the return rather than letting the stack pull your arms open -- and don't let it slam, which yanks the stretched shoulder.\n4. Only open as far as your shoulders comfortably allow; a deeper stretch is not better if it pinches the front of the shoulder.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/58ex_pec_deck_machine.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_mid"],
+        "secondary": ["deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_incline_chest_press_machine",
+      "name": "Incline Chest Press Machine",
+      "description": "1. Adjust the seat so the handles line up with your upper chest, just below your collarbones, when you sit back against the pad.\n2. Sit with your back flat against the pad, feet planted, and grip the handles with your wrists stacked over your elbows.\n3. Press the handles up and forward until your arms are extended, stopping just short of locking your elbows out.\n4. Lower the handles back under control until your hands return to upper-chest level and you feel a stretch across your chest.",
+      "instructions": "1. Get the seat height right first -- handles that sit too low turn this into a flat press and too high overloads the front delts.\n2. Keep your shoulder blades back against the pad; if your shoulders roll forward at the end of the press, lower the weight.\n3. Control the negative for 2-3 seconds instead of letting the weight stack drop and clang.\n4. Because the machine fixes the path, it is easy to overload -- add weight only when you can complete every rep at a steady tempo.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/59ex_incline_chest_press_machine.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_upper"],
+        "secondary": ["deltoid_front", "triceps"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_single_arm_row",
+      "name": "Single-Arm Dumbbell Row",
+      "description": "1. Place your left hand and left knee on a flat bench, step your right foot back on the floor, and hold a dumbbell in your right hand hanging straight down.\n2. Set your back flat and roughly parallel to the floor, with your shoulders square and your core braced.\n3. Pull the dumbbell up toward your hip by driving your elbow back and past your ribs, letting your shoulder blade slide in toward your spine.\n4. Lower the dumbbell back down under control to a full stretch, then repeat and switch sides.",
+      "instructions": "1. Pull toward your hip, not straight out to the side. Rowing to your armpit shifts the work from your lat to your upper traps.\n2. Keep your shoulders level and don't rotate your torso to throw the weight up; if you have to twist, the dumbbell is too heavy.\n3. Let your shoulder blade move -- reach it forward at the bottom and pull it in at the top instead of locking it in place.\n4. Keep your spine neutral and your neck in line with your back; don't round your lower back or crane your head up.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/60ex_dumbbell_single_arm_row.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "teres"],
+        "secondary": ["rhomboid", "biceps", "trap_mid"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_shrug",
+      "name": "Dumbbell Shrug",
+      "description": "1. Stand tall with feet hip-width apart, holding a dumbbell in each hand at your sides with arms straight and palms facing your thighs.\n2. Brace your core, keep your chest up, and let your shoulders relax fully downward to start from a stretched position.\n3. Lift both shoulders straight up toward your ears as high as you can, keeping your arms straight throughout.\n4. Pause briefly at the top, then lower your shoulders back down under control to the fully stretched starting position.",
+      "instructions": "1. Shrug straight up and down. Rolling your shoulders in circles grinds the shoulder joint without adding any trap work.\n2. Keep your arms straight and let your shoulders do all the lifting; bending your elbows turns this into a half-hearted upright row.\n3. Don't bounce with your knees or lean back to launch the weight -- move the load with your traps only.\n4. Keep your neck relaxed and your chin neutral instead of jutting it forward or pulling your head back.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/61ex_dumbbell_shrug.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["trap_upper"],
+        "secondary": ["trap_mid", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_bent_over_row",
+      "name": "Barbell Bent-Over Row",
+      "description": "1. Stand with feet hip-width apart holding a barbell with an overhand grip just outside your legs, hands about shoulder-width apart.\n2. Push your hips back and hinge forward until your torso is around 45 degrees or lower, keeping your back flat and knees slightly bent.\n3. Brace your core, then pull the bar up to your lower ribs or upper belly by driving your elbows back and squeezing your shoulder blades together.\n4. Lower the bar back down under control until your arms are fully extended, holding the same torso angle the entire set.",
+      "instructions": "1. Hold your torso angle steady. Standing up as you pull turns the row into a shrug and puts the load on your lower back.\n2. Brace your core hard before each rep and keep your spine neutral -- a rounded lower back under this load is how people get hurt.\n3. Pull to your lower ribs, not your chest, and drive your elbows back rather than out to the sides.\n4. Start light enough that you can control the bar without jerking it off your legs; if your hips pop up to start each rep, drop the weight.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/62ex_barbell_bent_over_row.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "rhomboid"],
+        "secondary": ["trap_mid", "biceps", "lower_back"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_shrug",
+      "name": "Barbell Shrug",
+      "description": "1. Stand tall with a barbell held in front of your thighs, using an overhand grip about shoulder-width apart and arms straight.\n2. Brace your core, keep your chest up, and let your shoulders relax fully down so the traps start stretched.\n3. Lift both shoulders straight up toward your ears as high as possible without bending your elbows.\n4. Pause at the top, then lower your shoulders back down under control to the fully stretched position.",
+      "instructions": "1. Move only your shoulders, straight up and down; don't roll them or bend your elbows to help the bar up.\n2. Don't use your legs to bounce the bar. If you need a dip-and-drive to move it, the weight is too heavy for the traps alone.\n3. Take the bar from a rack at hip height when going heavy, rather than deadlifting it off the floor every set.\n4. Use lifting straps if your grip fails before your traps do -- and keep your neck relaxed rather than jutting your chin forward.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/63ex_barbell_shrug.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["trap_upper"],
+        "secondary": ["trap_mid", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_chin_up",
+      "name": "Chin-Up",
+      "description": "1. Grip the bar with an underhand grip (palms facing you) about shoulder-width apart and hang with your arms fully extended.\n2. Pull your shoulder blades down and back first, as if tucking them into your back pockets, before bending your elbows.\n3. Pull yourself up by driving your elbows down toward your ribs until your chin clears the bar, keeping a slight hollow-body position.\n4. Lower yourself back down under control until your arms are fully extended before starting the next rep.",
+      "instructions": "1. Start every rep by depressing your shoulder blades rather than yanking with your arms; this protects the shoulders and gets your back involved.\n2. Because the underhand grip recruits far more biceps than a pull-up, warm up your elbows first and avoid it if you have elbow tendon pain.\n3. Don't kip or swing your legs to generate momentum -- keep your core braced in a slight hollow-body position.\n4. Lower all the way to a full hang each rep, but come down under control instead of dropping into the stretch.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/64ex_chin_up.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "biceps"],
+        "secondary": ["teres", "rhomboid", "brachialis"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_inverted_row",
+      "name": "Inverted Row",
+      "description": "1. Set a barbell in a rack at about hip height, lie underneath it, and grip it slightly wider than shoulder-width with an overhand grip.\n2. Hang with your arms straight, heels on the floor, and squeeze your glutes and core so your body forms one straight line.\n3. Pull your chest up toward the bar by driving your elbows back and squeezing your shoulder blades together.\n4. Lower yourself back down under control until your arms are fully extended, keeping your body in that same straight line.",
+      "instructions": "1. Keep your hips up in line with your shoulders and heels; letting them sag turns this into a partial-range arm pull.\n2. Pull your chest to the bar rather than your chin -- reaching with your neck hides an incomplete rep.\n3. To make it easier, raise the bar or bend your knees with feet flat; to make it harder, lower the bar or elevate your feet.\n4. Make sure the bar is locked securely in the rack and check that it cannot roll or shift before you load your bodyweight on it.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/65ex_inverted_row.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "rhomboid"],
+        "secondary": ["trap_mid", "biceps", "deltoid_rear"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_straight_arm_cable_pulldown",
+      "name": "Straight-Arm Cable Pulldown",
+      "description": "1. Set a cable pulley to the highest position and attach a straight bar or rope, then grip it with arms extended overhead.\n2. Step back and hinge slightly at the hips so your torso leans forward around 20-30 degrees, with a soft bend in your elbows.\n3. Keeping your arms straight, pull the bar down in a wide arc until it reaches your thighs, squeezing your lats at the bottom.\n4. Let the bar travel back up along the same arc under control until you feel a stretch through your lats.",
+      "instructions": "1. Keep your elbow angle fixed with a slight bend; bending and extending your elbows turns this into a triceps pushdown.\n2. Hold your torso still and hinge only at the hips. Rocking forward and back to drive the bar down removes tension from the lats.\n3. Focus on pulling your upper arms down toward your sides rather than pushing the bar with your hands.\n4. Use light weight -- this is a lat isolation movement, and heavy loads just recruit your whole body to swing the bar down.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/66ex_straight_arm_cable_pulldown.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat"],
+        "secondary": ["teres", "triceps", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_single_arm_row",
+      "name": "Single-Arm Cable Row",
+      "description": "1. Set a cable pulley to roughly waist height, attach a single handle, and take it in one hand with your arm extended.\n2. Step back into a staggered stance with the cable under tension, keeping your chest up, core braced, and shoulders square.\n3. Pull the handle back toward your hip by driving your elbow past your ribs, letting your shoulder blade slide in toward your spine.\n4. Let your arm extend forward under control until you feel a stretch through your lat, then repeat and switch sides.",
+      "instructions": "1. Keep your shoulders square to the pulley. Twisting your torso to pull further turns this into an oblique exercise instead of a row.\n2. Let your shoulder blade travel -- reach forward at the end of the stretch and pull it in at the finish rather than locking it down.\n3. Pull to your hip and keep your elbow close to your body; flaring it out shifts the work to your rear delt and upper traps.\n4. Resist the cable on the way out instead of letting it snap your arm forward, and brace your core so you aren't pulled off balance.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/67ex_cable_single_arm_row.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "teres"],
+        "secondary": ["rhomboid", "biceps", "oblique"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_chest_supported_machine_row",
+      "name": "Chest-Supported Machine Row",
+      "description": "1. Adjust the seat and chest pad so the handles are at roughly mid-chest height when your torso is against the pad.\n2. Sit with your chest pressed firmly into the pad, feet planted, and grip the handles with your arms extended.\n3. Pull the handles back by driving your elbows past your ribs and squeezing your shoulder blades together.\n4. Let the handles travel forward under control until your arms are fully extended and you feel a stretch across your upper back.",
+      "instructions": "1. Keep your chest against the pad for every rep; pushing off it with your torso to move more weight defeats the point of the support.\n2. Squeeze your shoulder blades together at the end of the pull rather than just bending your arms.\n3. Set the seat height first -- handles too high pull the work into your traps, too low and you lose the upper-back squeeze.\n4. Control the return instead of letting the stack yank your arms forward, and don't let the weight slam at the bottom.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/68ex_chest_supported_machine_row.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["rhomboid", "lat"],
+        "secondary": ["trap_mid", "biceps", "deltoid_rear"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_assisted_pull_up_machine",
+      "name": "Assisted Pull-Up Machine",
+      "description": "1. Select an assistance weight, then step or kneel onto the platform and grip the overhead bar slightly wider than shoulder-width.\n2. Let your arms extend fully and your shoulders stretch upward, keeping your core braced and body upright.\n3. Pull your shoulder blades down first, then pull yourself up by driving your elbows toward your ribs until your chin clears the bar.\n4. Lower yourself back down under control to a full arm extension before starting the next rep.",
+      "instructions": "1. Remember the counterweight works backwards -- a higher assistance setting makes the rep easier, so reduce it as you get stronger.\n2. Initiate with your shoulder blades rather than your arms, exactly as you would on an unassisted pull-up.\n3. Keep your torso upright and core braced instead of swinging your hips to help the platform rise.\n4. Get on and off the platform with the pin set; stepping off while under tension can let the pad snap up unexpectedly.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/69ex_assisted_pull_up_machine.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "teres"],
+        "secondary": ["biceps", "rhomboid"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_hammer_curl",
+      "name": "Dumbbell Hammer Curl",
+      "description": "1. Stand tall with feet hip-width apart, holding a dumbbell in each hand at your sides with palms facing inward toward your thighs.\n2. Pin your elbows to your sides and brace your core, keeping your wrists straight in a neutral grip.\n3. Curl the dumbbells up while keeping your palms facing each other the whole way, like holding two hammers.\n4. Squeeze briefly at the top, then lower the dumbbells back down under control to a full arm extension.",
+      "instructions": "1. Keep your palms facing each other for the entire rep -- rotating them upward turns this into a standard curl and takes the brachialis out.\n2. Keep your elbows pinned at your sides; letting them drift forward lets your front delts take over.\n3. Don't rock your torso or swing your hips to launch the weight up, which strains your lower back and removes tension from the arms.\n4. Lower all the way to a full extension every rep instead of stopping halfway.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/70ex_dumbbell_hammer_curl.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["brachialis", "biceps"],
+        "secondary": ["forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_overhead_triceps_extension",
+      "name": "Dumbbell Overhead Triceps Extension",
+      "description": "1. Sit or stand tall and hold a single dumbbell with both hands, cupping the top end with your palms, and press it overhead.\n2. Brace your core and bring your upper arms close to your ears, keeping your elbows pointing forward rather than flared out.\n3. Bend your elbows to lower the dumbbell behind your head until you feel a stretch in your triceps.\n4. Extend your elbows to press the dumbbell back overhead, keeping your upper arms in the same position throughout.",
+      "instructions": "1. Keep your upper arms fixed beside your ears -- if your elbows swing forward on the way up, your shoulders are doing the work.\n2. Keep your elbows pointing forward instead of flaring wide, which puts uneven stress on the elbow joint.\n3. Brace your core and don't arch your lower back to help press the weight up; the overhead position makes this very easy to do.\n4. Start light and control the descent -- the stretched overhead position is where the triceps tendon is under the most load.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/71ex_dumbbell_overhead_triceps_extension.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["deltoid_front", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_skull_crusher",
+      "name": "Barbell Skull Crusher",
+      "description": "1. Lie back on a flat bench holding a barbell or EZ-bar with an overhand grip about shoulder-width apart.\n2. Press the bar up so your arms are extended, then tilt your upper arms slightly back toward your head so they stay at a fixed angle.\n3. Bend your elbows to lower the bar toward your forehead or just above it, keeping your upper arms locked in place.\n4. Extend your elbows to press the bar back up to the starting position, stopping just short of a hard lockout.",
+      "instructions": "1. Keep your upper arms fixed. Letting your elbows swing back and forth turns this into a pullover and stops working the triceps.\n2. Tilting your upper arms slightly back keeps tension on the triceps at the top instead of letting the bar rest over your joints.\n3. Use an EZ-bar if a straight bar bothers your wrists, and don't let your elbows flare wide as you fatigue.\n4. This lift is hard on the elbows -- warm up thoroughly, keep the weight moderate, and stop if you feel joint pain rather than muscle burn.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/72ex_barbell_skull_crusher.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["deltoid_front", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_close_grip_bench_press",
+      "name": "Close-Grip Barbell Bench Press",
+      "description": "1. Lie back on a flat bench with your feet planted and grip the bar with your hands about shoulder-width apart, no narrower.\n2. Pull your shoulder blades back and down into the bench, then unrack the bar over your lower chest.\n3. Lower the bar under control to your lower chest, keeping your elbows tucked in close to your ribs rather than flared out.\n4. Press the bar back up along the same path until your elbows are extended, driving with your triceps.",
+      "instructions": "1. Keep your hands about shoulder-width apart. A narrower grip than that puts a lot of shear stress on the wrists and elbows without adding triceps work.\n2. Keep your elbows tucked close to your body throughout; flaring them out turns this back into a regular bench press.\n3. Keep your wrists straight and stacked over your elbows -- the narrow grip makes it easy for them to fold backward.\n4. Use noticeably less weight than your regular bench press and work with a spotter or safety pins when going heavy.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/73ex_close_grip_barbell_bench_press.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["chest_mid", "deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_diamond_push_up",
+      "name": "Diamond Push-Up",
+      "description": "1. Get into a push-up position and place your hands together under your chest so your thumbs and index fingers form a diamond shape.\n2. Brace your core and squeeze your glutes so your body forms one straight line from heels to head.\n3. Lower your chest toward your hands under control, keeping your elbows tucked close to your ribs.\n4. Press back up until your arms are extended, keeping your hips level and your elbows tracking close to your body.",
+      "instructions": "1. Keep your elbows brushing past your ribs rather than flaring out to the sides; the tucked path is what loads the triceps.\n2. Keep your core braced and hips level -- sagging or piking hides a shortened range of motion.\n3. If your wrists complain about the hands-together position, widen the diamond slightly or do the movement on your knuckles or parallettes.\n4. Start from your knees or with hands elevated if you can't reach your hands with your chest under control.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/74ex_diamond_push_up.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["chest_mid", "deltoid_front", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_bench_dip",
+      "name": "Bench Dip",
+      "description": "1. Sit on the edge of a stable bench and place your hands on the edge beside your hips, fingers pointing forward.\n2. Slide your hips off the bench and extend your legs out in front of you, heels on the floor and arms straight.\n3. Bend your elbows to lower your hips straight down until your upper arms are roughly parallel to the floor.\n4. Press back up through your triceps until your arms are extended, keeping your back close to the bench the whole time.",
+      "instructions": "1. Keep your back close to the bench and travel straight down; drifting forward loads the front of your shoulder instead of your triceps.\n2. Keep your elbows pointing straight back rather than flaring out to the sides.\n3. Stop when your upper arms reach parallel. This position internally rotates the shoulder, so going deeper is a common cause of shoulder pain.\n4. Bend your knees to make it easier, or elevate your feet on a second bench to make it harder; use a bench that cannot slide.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/75ex_bench_dip.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["deltoid_front", "chest_lower"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_biceps_curl",
+      "name": "Cable Biceps Curl",
+      "description": "1. Set a cable pulley to the lowest position, attach a straight or EZ bar, and grip it underhand at about shoulder-width.\n2. Stand about a foot back from the pulley with the cable under tension, elbows pinned to your sides and core braced.\n3. Curl the bar up toward your shoulders, keeping your elbows fixed at your sides and your wrists straight.\n4. Lower the bar back down under control to a full arm extension, resisting the cable the whole way.",
+      "instructions": "1. Keep your elbows pinned at your sides. Letting them drift forward hands the work to your front delts.\n2. Stand back far enough that the cable stays under tension at the bottom; standing too close creates a dead spot with no resistance.\n3. Don't lean back or rock your hips to help the bar up -- the cable pulls forward, so it's tempting to counter it with your whole body.\n4. Control the negative rather than letting the stack pull your arms down, and lower to a full extension each rep.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/76ex_cable_biceps_curl.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["biceps"],
+        "secondary": ["brachialis", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_overhead_triceps_extension",
+      "name": "Cable Overhead Rope Triceps Extension",
+      "description": "1. Attach a rope to a low pulley, grip both ends, and turn away from the machine so the rope runs up behind your shoulder.\n2. Step forward into a staggered stance and bring your hands behind your head with your upper arms beside your ears and elbows pointing forward.\n3. Extend your elbows to press the rope forward and up until your arms are straight overhead, spreading the rope ends apart at the end.\n4. Bend your elbows to let your hands travel back behind your head under control until you feel a stretch in your triceps.",
+      "instructions": "1. Keep your upper arms fixed beside your ears; if your elbows drop forward as you press, your shoulders have taken over.\n2. Use a staggered stance and brace your core so the cable doesn't pull you backward and make you arch your lower back.\n3. Keep your elbows pointing forward instead of flaring wide, which loads the elbow joint unevenly.\n4. Use moderate weight -- the overhead position puts the triceps at its longest and most vulnerable, so control matters more than load.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/77ex_cable_overhead_rope_triceps_extension.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["deltoid_front", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_machine_triceps_extension",
+      "name": "Machine Triceps Extension",
+      "description": "1. Adjust the seat so your elbows line up with the machine's pivot point when your upper arms rest on the pad.\n2. Sit with your back against the pad, place your forearms or hands on the handles, and start with your elbows bent.\n3. Extend your elbows to push the handles away until your arms are nearly straight, squeezing your triceps at the end.\n4. Let the handles return under control until your elbows are fully bent and you feel a stretch in your triceps.",
+      "instructions": "1. Line your elbows up with the machine's pivot before you start; a mismatched axis grinds the elbow joint through every rep.\n2. Keep your upper arms on the pad and your back against the seat instead of leaning your bodyweight into the handles.\n3. Stop just short of hard lockout to keep tension on the muscle and take the strain off the elbow joint.\n4. Control the return rather than letting the stack snap your elbows closed, and don't let the plates slam at the bottom.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/78ex_machine_triceps_extension.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_assisted_dip_machine",
+      "name": "Assisted Dip Machine",
+      "description": "1. Select an assistance weight, then kneel or stand on the platform and grip the dip handles with your arms straight.\n2. Keep your torso upright, shoulders pulled down away from your ears, and core braced.\n3. Bend your elbows to lower yourself until your upper arms are roughly parallel to the floor, keeping your elbows close to your ribs.\n4. Press back up through your triceps to the starting position, stopping just short of locking your elbows.",
+      "instructions": "1. Stay upright to keep the emphasis on your triceps -- leaning forward shifts the work to your lower chest.\n2. Keep your shoulders pulled down away from your ears; letting them shrug up compresses the shoulder at the bottom.\n3. Stop the descent at parallel. Deeper than that stretches the front of the shoulder capsule under load.\n4. Remember a higher assistance setting makes it easier, so reduce it over time; get on and off the platform only with the pin set.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/79ex_assisted_dip_machine.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["chest_lower", "deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_bulgarian_split_squat",
+      "name": "Dumbbell Bulgarian Split Squat",
+      "description": "1. Stand about two feet in front of a bench holding a dumbbell in each hand, then place the top of one foot on the bench behind you.\n2. Set your front foot flat with your weight balanced over the middle of it, chest up and core braced.\n3. Bend your front knee to lower straight down until your front thigh is roughly parallel to the floor and your back knee approaches the ground.\n4. Drive through your front foot to stand back up, then finish all reps before switching legs.",
+      "instructions": "1. Get the distance right: too close and your front knee is forced far past your toes, too far and you can't reach depth.\n2. Drop straight down rather than pushing your hips forward or backward; the back leg is there for balance, not to push with.\n3. Keep your front knee tracking in line with your toes and don't let it cave inward as you fatigue.\n4. Master the movement with bodyweight first -- balance usually fails before the legs do, and adding dumbbells too early wrecks the position.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/80ex_dumbbell_bulgarian_split_squat.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "adductor", "glute_med"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_romanian_deadlift",
+      "name": "Dumbbell Romanian Deadlift",
+      "description": "1. Stand with feet hip-width apart holding a dumbbell in each hand in front of your thighs, palms facing your legs.\n2. Soften your knees slightly, pull your shoulder blades back, and brace your core with your spine neutral.\n3. Push your hips back and hinge forward, letting the dumbbells travel down close to your legs until you feel a strong stretch in your hamstrings.\n4. Drive your hips forward to stand back up, squeezing your glutes at the top without leaning backward.",
+      "instructions": "1. This is a hip hinge, not a squat -- push your hips back and keep your knee angle roughly fixed instead of bending your knees to go lower.\n2. Let your hamstring flexibility set the depth. Stop the moment your lower back starts to round, even if the dumbbells are above your knees.\n3. Keep the dumbbells close to your legs; letting them drift forward multiplies the load on your lower back.\n4. Engage your lats to keep your upper back tight, and don't hyperextend backward at the top.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/81ex_dumbbell_romanian_deadlift.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["hamstring", "glute_max"],
+        "secondary": ["lower_back", "lat"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_front_squat",
+      "name": "Barbell Front Squat",
+      "description": "1. Rest the bar across the front of your shoulders in a clean grip or crossed-arm hold, keeping your elbows high so your upper arms are near parallel to the floor.\n2. Set your feet about shoulder-width apart with toes turned slightly out, then take a deep breath and brace your core.\n3. Sit straight down by bending your knees and hips together, keeping your torso as upright as possible and your elbows high.\n4. Descend until your hip crease is at least level with your knees, then drive through your whole foot to stand back up.",
+      "instructions": "1. Keep your elbows up throughout. As soon as they drop, your chest caves forward and the bar rolls off your shoulders.\n2. Stay far more upright than you would in a back squat -- this is what shifts the load onto your quads.\n3. Brace your core hard with a full breath before each rep; the front-loaded position demands more from your trunk than a back squat.\n4. If wrist or shoulder mobility makes the clean grip painful, use a crossed-arm hold or straps rather than forcing the position.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/82ex_barbell_front_squat.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["abs", "adductor", "trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_hip_thrust",
+      "name": "Barbell Hip Thrust",
+      "description": "1. Sit on the floor with your upper back against a bench and roll a padded barbell over your hips.\n2. Plant your feet flat about shoulder-width apart and close enough that your shins are near vertical at the top of the lift.\n3. Tuck your chin slightly, brace your core, and drive through your heels to lift your hips until your torso and thighs form a straight line.\n4. Squeeze your glutes hard at the top, then lower your hips back down under control without resting the bar on the floor.",
+      "instructions": "1. Finish with your hips level with your knees and shoulders -- don't push past that into a lower-back arch to look higher.\n2. Keep your chin tucked and your ribs down; letting your head fall back and your back arch turns this into a lumbar extension.\n3. Use a barbell pad or thick towel. Without padding the bar digs painfully into your hip bones and you'll cut the set short.\n4. Adjust foot distance so your shins are vertical at the top; feet too far forward turns it into a hamstring lift, too close into a quad lift.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/83ex_barbell_hip_thrust.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "quad", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_glute_bridge",
+      "name": "Glute Bridge",
+      "description": "1. Lie on your back with your knees bent and feet flat on the floor about hip-width apart, heels roughly a hand's length from your glutes.\n2. Place your arms at your sides, tuck your chin slightly, and press your lower back gently toward the floor to brace your core.\n3. Drive through your heels to lift your hips until your torso and thighs form a straight line, squeezing your glutes at the top.\n4. Hold the squeeze for a second, then lower your hips back down under control without fully relaxing between reps.",
+      "instructions": "1. Lift with your glutes, not your lower back. If you feel it in your lumbar spine, tuck your ribs down and reduce the height.\n2. Keep your knees tracking in line with your feet instead of letting them splay outward at the top.\n3. Push through your heels rather than your toes, and keep your feet flat on the floor throughout.\n4. If you feel it mostly in your hamstrings, bring your heels a little closer to your glutes.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/84ex_glute_bridge.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_reverse_lunge",
+      "name": "Reverse Lunge",
+      "description": "1. Stand tall with feet hip-width apart, hands on your hips or in front of your chest, and core braced.\n2. Step one foot straight back and land on the ball of that foot, keeping most of your weight over your front leg.\n3. Lower until your front thigh is roughly parallel to the floor and your back knee is just above the ground, keeping your torso upright.\n4. Drive through your front foot to step back to standing, then alternate legs.",
+      "instructions": "1. Keep your weight over your front leg. Pushing off the back foot to stand up turns this into a calf-driven step rather than a leg exercise.\n2. Step straight back, not out to the side, and keep your hips square to the front.\n3. Keep your torso upright and your front knee tracking over your toes; don't let the knee cave inward.\n4. Stepping backward is easier on the knees than stepping forward, so use this variation if forward lunges bother your knees.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/85ex_reverse_lunge.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "glute_med"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_pull_through",
+      "name": "Cable Pull-Through",
+      "description": "1. Set a cable pulley to the lowest position, attach a rope, and face away from the machine with the rope passed between your legs.\n2. Walk forward until the cable is under tension, set your feet shoulder-width apart, and hinge forward with a flat back.\n3. Let the cable pull your hips back until you feel a strong stretch in your hamstrings, keeping your arms straight and your spine neutral.\n4. Drive your hips forward to stand tall, squeezing your glutes hard at the top without leaning backward.",
+      "instructions": "1. This is a hip hinge driven by your glutes -- don't turn it into a squat by bending your knees or into a row by pulling with your arms.\n2. Keep your arms straight and relaxed; they are only a link to the cable, not part of the lift.\n3. Stop the hinge when your lower back starts to round, and finish standing tall rather than arching backward.\n4. Because the cable pulls horizontally, it is much easier on the spine than a barbell hinge -- a good option if deadlifts bother your back.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/86ex_cable_pull_through.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_max", "hamstring"],
+        "secondary": ["lower_back", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_glute_kickback",
+      "name": "Cable Glute Kickback",
+      "description": "1. Set a cable pulley to the lowest position, fit an ankle strap to one leg, and face the machine holding the frame for balance.\n2. Stand tall on your supporting leg with a slight knee bend, hips square to the machine, and core braced.\n3. Drive the strapped leg back and slightly up in a controlled arc, squeezing your glute at the end of the range.\n4. Let the leg return forward under control against the cable, then finish all reps before switching legs.",
+      "instructions": "1. Keep your hips square and your torso still. Twisting or leaning forward to swing the leg higher takes the work off the glute.\n2. Don't arch your lower back to gain extra range -- most of the extra height comes from your spine, not your hip.\n3. Keep the working knee at a roughly fixed angle so your glute extends the hip rather than your hamstring bending the knee.\n4. Use light weight and pause at the top; this is a small isolation movement where the squeeze matters more than the load.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/87ex_cable_glute_kickback.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "glute_med"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_hip_abduction",
+      "name": "Standing Cable Hip Abduction",
+      "description": "1. Set a cable pulley to the lowest position, fit an ankle strap to the leg farther from the machine, and stand side-on holding the frame.\n2. Stand tall on your supporting leg with your hips level, core braced, and the working leg crossed slightly in front.\n3. Lift the working leg out to the side in a controlled arc, keeping your knee straight and your toes pointing forward.\n4. Lower the leg back across under control against the cable, then finish all reps before switching sides.",
+      "instructions": "1. Keep your toes pointing forward. Rotating them outward lets your hip flexors take over from the glute med.\n2. Don't lean your torso away from the working leg to gain height -- keep your hips level and your spine upright.\n3. Keep the working knee straight so the movement happens at the hip rather than the knee.\n4. Use light weight and a controlled tempo; the glute med is a small stabilizer that responds to time under tension, not heavy loads.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/88ex_cable_hip_abduction.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["abductor", "glute_med"],
+        "secondary": ["glute_max"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_leg_extension_machine",
+      "name": "Leg Extension Machine",
+      "description": "1. Adjust the seat so the backs of your knees sit against the edge of the pad and your knees line up with the machine's pivot.\n2. Set the shin pad just above your ankles, sit back against the pad, and hold the handles at your sides.\n3. Extend your knees to lift the pad until your legs are nearly straight, squeezing your quads at the top.\n4. Lower the pad back down under control until your knees are fully bent, without letting the weight stack drop.",
+      "instructions": "1. Line your knees up with the machine's pivot point; a mismatched axis puts shearing force through the knee joint on every rep.\n2. Stop just short of a hard lockout and squeeze instead -- snapping your knees straight against the stack stresses the joint.\n3. Keep your back against the pad and don't lift your hips off the seat to swing the weight up.\n4. Control the descent for 2-3 seconds rather than letting the plates fall; if you have knee pain, reduce the load and the range.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/89ex_leg_extension_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad"],
+        "secondary": ["hip_flex"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_hack_squat_machine",
+      "name": "Hack Squat Machine",
+      "description": "1. Step into the machine with your back and hips flat against the pad and your shoulders under the shoulder pads.\n2. Set your feet shoulder-width apart on the platform with toes turned slightly out, then release the safety handles.\n3. Bend your knees and hips to lower until your thighs are at least parallel to the platform, keeping your whole back against the pad.\n4. Drive through your whole foot to press back up, stopping just short of locking your knees out.",
+      "instructions": "1. Keep your lower back and hips flat against the pad for the whole set; letting your hips lift off at the bottom is how the lower back gets hurt.\n2. Keep your knees tracking in line with your toes and don't let them cave inward as you fatigue.\n3. Push through your whole foot rather than just your toes, and don't let your heels lift off the platform.\n4. Learn where the safety catches are and how to re-engage them before you load up, and stop just short of lockout to keep tension on the quads.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/90ex_hack_squat_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "adductor"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_seated_calf_raise_machine",
+      "name": "Seated Calf Raise Machine",
+      "description": "1. Sit on the machine and place the balls of your feet on the platform with your knees under the thigh pads.\n2. Adjust the pads so they sit snugly on your lower thighs, then release the safety lever.\n3. Lower your heels below the platform until you feel a deep stretch through your calves.\n4. Press through the balls of your feet to raise your heels as high as possible, pausing briefly at the top.",
+      "instructions": "1. Because your knees stay bent, this variation emphasizes the soleus -- the deeper calf muscle that a standing raise works less.\n2. Use the full range: a deep stretch at the bottom and a full squeeze at the top, rather than short bouncy reps.\n3. Pause for a second at both ends. Bouncing on the Achilles tendon is the quickest way to irritate it.\n4. Keep your feet pointing straight ahead and don't let your ankles roll outward as the weight gets heavy.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/91ex_seated_calf_raise_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["soleus"],
+        "secondary": ["gastrocnemius"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_lateral_raise",
+      "name": "Dumbbell Lateral Raise",
+      "description": "1. Stand tall with feet hip-width apart, holding a dumbbell in each hand at your sides with palms facing your thighs.\n2. Brace your core, keep a slight bend in your elbows, and lean your torso forward just a few degrees.\n3. Raise both dumbbells out to the sides until your upper arms are roughly level with your shoulders, leading with your elbows.\n4. Lower them back down under control to your sides, resisting the weight the whole way.",
+      "instructions": "1. Lead with your elbows and keep your wrists neutral; lifting hands-first turns the movement into a front-delt raise.\n2. Stop at shoulder height. Going higher hands the work to your upper traps and can pinch the shoulder joint.\n3. Don't swing your torso or bounce with your knees to launch the dumbbells; if you need momentum, the weight is too heavy.\n4. Keep the slight elbow bend fixed and go much lighter than you expect -- the side delt is a small muscle and this is a long lever.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/92ex_dumbbell_lateral_raise.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_side"],
+        "secondary": ["deltoid_front", "trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_rear_delt_fly",
+      "name": "Dumbbell Rear Delt Fly",
+      "description": "1. Stand with feet hip-width apart holding a dumbbell in each hand, then hinge forward at the hips until your torso is nearly parallel to the floor.\n2. Let the dumbbells hang straight down with palms facing each other and a slight bend in your elbows, back flat and core braced.\n3. Raise both dumbbells out to the sides in a wide arc until your upper arms are level with your torso.\n4. Lower them back down under control along the same arc, keeping your torso completely still.",
+      "instructions": "1. Keep your torso fixed. Standing up as you lift turns the fly into an upright row and shifts the work to your traps.\n2. Lead with your elbows out to the sides rather than pulling them back toward your hips, which makes it a row instead of a fly.\n3. Keep your neck in line with your spine and don't crane your head up; support your forehead on a bench pad if it helps.\n4. Use very light dumbbells -- the rear delt is small and this position gives it no mechanical advantage.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/93ex_dumbbell_rear_delt_fly.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_rear"],
+        "secondary": ["rhomboid", "trap_mid"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_arnold_press",
+      "name": "Arnold Press",
+      "description": "1. Sit or stand tall holding a dumbbell in each hand in front of your shoulders with palms facing you and elbows tucked in.\n2. Brace your core and pull your shoulder blades back and down to stabilize your shoulders.\n3. Press the dumbbells overhead while rotating your palms outward, finishing with arms extended and palms facing forward.\n4. Reverse the rotation as you lower the dumbbells back to the starting position with palms facing you again.",
+      "instructions": "1. Rotate smoothly through the whole press rather than pressing first and twisting at the top; the rotation is the point of this variation.\n2. Keep your core braced and don't arch your lower back to help the dumbbells up.\n3. Use lighter weight than a standard shoulder press -- the rotation puts the shoulder through more range and less stable positions.\n4. Skip this variation if you have a history of shoulder impingement; a neutral-grip press is a safer alternative.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/94ex_arnold_press.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_front", "deltoid_side"],
+        "secondary": ["triceps", "trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_upright_row",
+      "name": "Barbell Upright Row",
+      "description": "1. Stand tall holding a barbell in front of your thighs with an overhand grip slightly wider than shoulder-width.\n2. Brace your core, keep your chest up, and let your arms hang straight with the bar close to your body.\n3. Pull the bar straight up along your torso by driving your elbows up and out, stopping when your upper arms reach shoulder height.\n4. Lower the bar back down under control to your thighs, keeping it close to your body throughout.",
+      "instructions": "1. Stop when your upper arms reach shoulder height. Pulling the bar to your chin forces the shoulder into internal rotation at end range, which is a classic impingement position.\n2. Use a grip slightly wider than shoulder-width; a narrow grip makes the impingement risk considerably worse.\n3. Keep the bar close to your torso and don't swing your hips or lean back to help it up.\n4. If you feel any pinching at the front or top of the shoulder, stop and switch to a lateral raise or face pull instead.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/95ex_barbell_upright_row.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_side", "trap_upper"],
+        "secondary": ["deltoid_front", "biceps"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_front_raise",
+      "name": "Barbell Front Raise",
+      "description": "1. Stand tall holding a barbell in front of your thighs with an overhand grip about shoulder-width apart.\n2. Brace your core, keep your chest up, and hold a very slight bend in your elbows.\n3. Raise the bar straight forward and up until it reaches roughly shoulder height, keeping your arms nearly straight.\n4. Lower the bar back down under control to your thighs, resisting gravity the whole way.",
+      "instructions": "1. Stop at shoulder height; going higher hands the work to your traps and adds nothing for the front delts.\n2. Don't lean back or swing your hips to launch the bar up -- this is the most common fault and it loads your lower back.\n3. Use much lighter weight than you'd expect. Straight arms make a long lever, so a light bar feels heavy here.\n4. The front delts already get heavy work from any pressing movement, so treat this as a low-volume accessory rather than a main lift.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/96ex_barbell_front_raise.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_front"],
+        "secondary": ["deltoid_side", "trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_wall_handstand_push_up",
+      "name": "Wall Handstand Push-Up",
+      "description": "1. Place your hands on the floor slightly wider than shoulder-width about a hand's length from a wall, then kick up into a handstand with your heels resting on the wall.\n2. Squeeze your glutes and brace your core so your body forms one straight line, with your shoulders pushed up away from your ears.\n3. Bend your elbows to lower your head toward the floor under control until the crown of your head lightly touches.\n4. Press back up until your arms are fully extended, keeping your body straight and your elbows tracking slightly forward.",
+      "instructions": "1. Build up to this gradually with pike push-ups and wall-supported handstand holds; going straight to full reps is how people fall on their heads.\n2. Place a folded mat or cushion under your head, and practice bailing out to the side before you attempt your first rep.\n3. Keep your elbows tracking forward at roughly 45 degrees rather than flaring straight out to the sides.\n4. Keep your core braced and glutes squeezed; letting your back arch is both harder and rough on your lower back.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/97ex_wall_handstand_push_up.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_front", "deltoid_side"],
+        "secondary": ["triceps", "trap_upper", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_prone_y_raise",
+      "name": "Prone Y Raise",
+      "description": "1. Lie face down on the floor or on an incline bench with your arms extended overhead at roughly 45 degrees, forming a Y shape.\n2. Turn your thumbs up toward the ceiling, tuck your chin slightly, and let your arms rest fully relaxed.\n3. Lift both arms off the floor as high as you can by squeezing your shoulder blades down and together, keeping your elbows straight.\n4. Hold the top position for a second, then lower your arms back down under control.",
+      "instructions": "1. Initiate by pulling your shoulder blades down and together, not by shrugging your shoulders up toward your ears.\n2. Keep your chin tucked and forehead near the floor; lifting your head turns this into a neck and lower-back extension.\n3. Do this with no weight at all first. Even 1-2 kg plates make it very easy to compensate with your traps and lower back.\n4. Keep your ribs down and don't arch your lower back to raise your arms higher -- the movement should come from your shoulder blades.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/98ex_prone_y_raise.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_rear", "trap_mid"],
+        "secondary": ["rhomboid", "trap_upper", "lower_back"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_lateral_raise",
+      "name": "Cable Lateral Raise",
+      "description": "1. Set a cable pulley to the lowest position, attach a single handle, and stand side-on with the cable crossing in front of your body.\n2. Take the handle in the hand farther from the machine, stand tall with core braced, and keep a slight bend in your elbow.\n3. Raise your arm out to the side until your upper arm is roughly level with your shoulder, leading with your elbow.\n4. Lower your arm back across your body under control against the cable, then finish all reps before switching sides.",
+      "instructions": "1. Stop at shoulder height; lifting higher recruits your upper traps and can pinch the shoulder joint.\n2. Lead with your elbow and keep your wrist neutral rather than lifting hand-first.\n3. Don't lean away from the machine to gain range -- brace your core and keep your torso upright and still.\n4. The cable keeps tension on the side delt at the bottom where dumbbells go slack, so use light weight and a controlled tempo.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/99ex_cable_lateral_raise.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_side"],
+        "secondary": ["deltoid_front", "trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_reverse_fly",
+      "name": "Cable Reverse Fly",
+      "description": "1. Set both cable pulleys to roughly shoulder height and grab the left handle with your right hand and the right handle with your left hand, so the cables cross.\n2. Step back until the cables are under tension, stand tall with your core braced and arms extended in front of your chest.\n3. Pull both handles out and back in a wide arc until your arms are level with your shoulders, squeezing your shoulder blades together.\n4. Let your arms travel back across your body under control until you feel a stretch across your upper back.",
+      "instructions": "1. Keep a slight fixed bend in your elbows and lead with them out to the sides; bending and straightening turns the fly into a press or row.\n2. Stay upright and don't lean back or swing your torso to open the cables further.\n3. Keep your shoulders down away from your ears -- if your traps shrug up at the end of the pull, reduce the weight.\n4. Use light weight and a deliberate squeeze; the rear delt responds to controlled tension rather than heavy loads.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/100ex_cable_reverse_fly.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_rear"],
+        "secondary": ["rhomboid", "trap_mid"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_reverse_pec_deck",
+      "name": "Reverse Pec Deck",
+      "description": "1. Adjust the seat so the handles sit at roughly shoulder height, then sit facing the back pad with your chest pressed against it.\n2. Grip the handles with your arms extended in front of you and a slight bend in your elbows, thumbs up or palms facing in.\n3. Pull both handles out and back in a wide arc until your arms are level with your shoulders, squeezing your shoulder blades together.\n4. Let the handles return forward under control until you feel a stretch across your upper back, without letting the stack slam.",
+      "instructions": "1. Set the seat so the handles are at shoulder height; too high pulls the work into your traps and too low into your lats.\n2. Keep your chest against the pad the whole set. Pushing off it to move more weight defeats the purpose of the support.\n3. Keep your elbow angle fixed and think about moving your upper arms, not your hands.\n4. Keep your shoulders down away from your ears and control the return; letting the stack yank your arms forward strains the rear delt.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/101ex_reverse_pec_deck.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_rear"],
+        "secondary": ["rhomboid", "trap_mid"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_machine_lateral_raise",
+      "name": "Machine Lateral Raise",
+      "description": "1. Adjust the seat so your shoulder joints line up with the machine's pivot points when you sit upright against the pad.\n2. Sit with your back against the pad and place your outer upper arms against the arm pads, gripping the handles lightly.\n3. Push your upper arms out and up against the pads until they are roughly level with your shoulders.\n4. Lower back down under control until your arms return to your sides, keeping tension on the side delts.",
+      "instructions": "1. Line your shoulder joints up with the machine's pivot before you start; a mismatched axis makes the arc fight your shoulder.\n2. Drive with your upper arms against the pads rather than squeezing the handles -- gripping hard pulls your arms and traps into it.\n3. Stop at shoulder height and keep your shoulders down away from your ears instead of shrugging at the top.\n4. Keep your back against the pad and don't rock your torso to swing the pads up when the set gets hard.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/102ex_machine_lateral_raise.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_side"],
+        "secondary": ["trap_upper"]
+      },
+      "targets": []
     }
   ],
   "tags": {
     "muscle_groups": [
-      { "id": "custom_forearm", "name": "Forearms" },
+      { "id": "custom_forearm", "name": "前臂" },
       { "id": "", "name": "" }
     ],
     "equipment": [
