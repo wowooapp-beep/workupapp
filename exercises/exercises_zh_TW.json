@@ -6,7 +6,7 @@
       "name": "槓鈴臥推",
       "description": "1. 平躺於臥推椅上，雙腳踩穩地面，眼睛對齊槓鈴下方，肩胛骨向後收緊並下壓貼緊椅面。\n2. 雙手握槓，握距約比肩膀寬兩個拳頭，手腕對齊在手肘正上方。\n3. 將槓鈴自架上取下移至肩膀正上方，沿直線下放至胸口中段。\n4. 沿相同路徑將槓鈴推回起始位置直到手臂完全伸直，避免槓鈴在胸口彈跳借力。",
       "instructions": "1. 全程維持肩胛骨後收下壓貼緊椅面，才能保護肩關節並形成穩定支撐點。\n2. 雙腳踩穩地面並向下施力，臀部不可離開椅面。\n3. 下放時控制速度，不要讓槓鈴自由落下或在胸口彈跳借力。\n4. 手腕保持中立、對齊手肘正上方；若負重下手腕容易後折，應握緊槓鈴或減輕重量。",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/pexels-skylake-20337421.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/1ex_barbell_bench_press.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -21,7 +21,7 @@
       "name": "啞鈴肩推",
       "description": "1. 坐姿或站姿皆可，核心收緊，雙手於肩膀高度持啞鈴，掌心朝前，手肘略在軀幹前方。\n2. 推起前先將肩胛骨向後下方收緊，穩定肩關節。\n3. 將啞鈴垂直向上推至手臂接近伸直（不完全鎖死），過程中想像二頭肌朝耳朵方向靠近。\n4. 以 1-3 秒的速度控制下放回到肩膀高度。",
       "instructions": "1. 核心全程收緊，避免用拱腰的方式借力將啞鈴推起。\n2. 手肘應略在肩膀前方，而非完全朝正側方張開，以保護肩關節。\n3. 頂點不要用力鎖死手肘，保留些微彎曲以維持肌肉張力。\n4. 若肩膀出現尖銳疼痛（非肌肉痠脹感），應立即停止該組動作。",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1a.png",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/2ex_dumbbell_shoulder_press.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
@@ -36,7 +36,7 @@
       "name": "引體向上",
       "description": "1. 雙手正握單槓，握距略寬於肩，掌心朝前，起始為手臂完全伸直的懸吊姿勢。\n2. 拉起前先將肩胛骨後收下壓，像是要把肩胛骨收進後褲袋一樣。\n3. 以手肘向下朝肋骨方向下拉的方式將身體拉起，直到下巴超過槓面，全程維持核心微收的中空身體姿勢。\n4. 控制速度緩慢下放回到完全伸直的懸吊姿勢，再開始下一次。",
       "instructions": "1. 每一下都先啟動肩胛骨後收，而不是直接用手臂猛拉，才能讓背部發力並保護肩關節。\n2. 動作放慢，避免借力擺盪雙腿（甩振式）來完成次數。\n3. 每次都下放到手臂完全伸直，不要提早停止而縮短動作範圍。\n4. 核心保持微收的中空身體姿勢，避免下背過度後仰或雙腿前後擺動。",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/75644-556482803_medium.mp4",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/3ex_pull_up.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -51,7 +51,7 @@
       "name": "槓鈴深蹲",
       "description": "1. 將槓鈴置於上背斜方肌（高槓式）或後三角肌（低槓式），雙腳與肩同寬，腳尖略朝外。\n2. 深吸一口氣進入腹腔、收緊核心後，再將槓鈴取下並向後站穩。\n3. 屈髖同時屈膝下蹲，全程挺胸、膝蓋對齊腳尖方向，下蹲至髖部至少與膝蓋同高。\n4. 用整個腳掌發力站起，通過最吃力的區段後吐氣。",
       "instructions": "1. 每次下蹲前都要深吸氣、收緊核心做好腹內壓保護脊椎，不要只依賴腰帶。\n2. 全程讓膝蓋朝腳尖方向推出，不要讓膝蓋向內夾。\n3. 保持挺胸、重心落在腳掌中段，不要前移到腳尖。\n4. 只蹲到脊椎仍能維持中立的深度，若下背開始圓背應停止繼續下蹲。",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1a.png",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/4ex_barbell_back_squat.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -66,7 +66,7 @@
       "name": "傳統硬舉",
       "description": "1. 雙腳與髖同寬站立，槓鈴位於腳掌中段正上方，接著屈髖、屈膝下蹲至脛骨輕觸槓鈴。\n2. 雙手握於腿部外側，肩胛骨向後下方收緊，深吸一口氣收緊核心。\n3. 手臂保持伸直、槓鈴貼近脛骨，用地板反作用力將髖與肩同步向上帶起，使槓鈴沿直線貼腿上升。\n4. 站直至髖膝完全伸展鎖定，再以相同路徑控制下放回地面。",
       "instructions": "1. 收緊背闊肌讓槓鈴貼緊身體，若槓鈴偏離脛骨代表背闊肌沒有確實出力。\n2. 讓髖部與肩膀以相同速度上升；若髖部先衝起，代表動作已變成直腿早安式硬舉。\n3. 起槓前先用力收緊核心，如同準備承受腹部一拳般繃緊，並維持繃緊直到槓鈴落地。\n4. 不要為了把槓鈴拉離地面而圓背，鎖定終點時也不要過度後仰。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/5ex_conventional_deadlift.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -81,7 +81,7 @@
       "name": "啞鈴二頭彎舉",
       "description": "1. 站姿雙腳與肩同寬，雙手持啞鈴，掌心朝前，手肘固定貼於身體兩側。\n2. 彎舉啞鈴向上時手肘盡量貼緊身體，接近頂點時可讓手肘略微前移。\n3. 在動作頂點稍作停頓、擠壓二頭肌，接著控制下放回到手臂完全伸直的起始位置。\n4. 全程手腕保持中立，避免頂點或底部過度折腕。",
       "instructions": "1. 動作範圍約 80% 都要讓手肘固定在身體兩側，不要前後擺動借力舉起重量。\n2. 不要靠晃動髖部或後仰軀幹將啞鈴甩起，這會讓二頭肌卸力，也可能傷及下背。\n3. 每次都下放到手臂完全伸直，不要只做一半的動作範圍。\n4. 選擇能全程控制、不需借力擺動的重量，若需要甩動才能舉起，代表重量過重。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/6ex_dumbbell_biceps_curl.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
@@ -96,7 +96,7 @@
       "name": "滑輪三頭下壓",
       "description": "1. 面向滑輪機站立，將把手或繩索把手調整至頭部以上高度，雙腳與髖同寬或前後微站。\n2. 握住把手，手肘固定貼於身體兩側並彎曲約 90 度，軀幹挺直。\n3. 手肘固定不動，將把手下壓至手臂完全伸直（不用力鎖死）。\n4. 緩慢讓手肘彎曲回到起始位置，全程保持繩索或把手的張力。",
       "instructions": "1. 全程將手肘鎖定貼於身體兩側，若手肘外開或前移，力量會轉移到肩膀與胸部。\n2. 軀幹保持挺直不動，不要前傾或搖晃身體借力下壓。\n3. 只讓手肘關節活動，上臂在動作全程應該完全靜止。\n4. 回程時控制速度，不要讓繩索猛然把手臂彈回。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/7ex_cable_triceps_pushdown.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
@@ -111,7 +111,7 @@
       "name": "平板支撐",
       "description": "1. 趴姿撐地，手肘置於肩膀正下方，前臂互相平行貼地。\n2. 雙腳向後伸直並以腳尖撐地，讓身體從頭到腳跟呈一直線。\n3. 收緊腹部（肚臍向脊椎方向內收）並夾緊臀部，維持骨盆水平、避免下背塌陷。\n4. 維持此姿勢並均勻呼吸，頸部保持中立、視線朝向地面。",
       "instructions": "1. 保持骨盆水平，不要讓臀部塌陷向下，也不要將臀部翹高。\n2. 全程夾緊臀部並收緊腹部，避免下背過度拱起。\n3. 全程正常呼吸，不要憋氣。\n4. 寧可縮短撐體時間也要維持正確姿勢，勝過姿勢跑掉（塌腰或頸部過度後仰）撐更久。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/8ex_plank.webp",
       "muscle_group_id": "default_core",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_functional",
@@ -128,7 +128,7 @@
       "name": "啞鈴腕彎舉",
       "description": "1. 坐在長凳上，前臂靠於大腿或長凳邊緣，手腕懸空於邊緣之外。\n2. 雙手持啞鈴，掌心朝上，讓啞鈴自然下滑至指尖處。\n3. 只靠手腕屈曲的力量將啞鈴捲起，讓重量回捲至掌心並在頂點確實擠壓前臂。\n4. 緩慢控制下放，讓手腕在下一次動作前完全伸展。",
       "instructions": "1. 前臂全程固定不動，只有手腕在活動。\n2. 使用較輕的重量並放慢節奏，前臂的小肌群負重過大容易拉傷。\n3. 動作要做滿全範圍，底部讓啞鈴下滑至指尖、頂點確實擠壓收緊。\n4. 若感覺是手腕的尖銳疼痛而非前臂痠脹，應立即停止。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/9ex_dumbbell_wrist_curl.webp",
       "muscle_group_id": "custom_forearm",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
@@ -142,26 +142,11 @@
       ]
     },
     {
-      "id": "ex_trx_row",
-      "name": "懸吊划船",
-      "description": "1. 雙手中立握把手，雙腳向前走出，身體後傾至手臂伸直、從頭到腳跟呈一直線。\n2. 開始拉動前先將肩膀略向後下方收緊定位。\n3. 手肘向後、貼近身體兩側下拉，將胸口拉向把手，在頂點夾緊肩胛骨。\n4. 控制手臂伸直回到起始後傾姿勢，全程保持身體一直線。",
-      "instructions": "1. 全程保持身體從頭到腳跟呈一直線，不要讓髖部下垂或翹起。\n2. 每一下開始前都先做肩胛骨後收下壓定位，而不是從聳肩圓肩的姿勢直接拉起。\n3. 身體越直立難度越低；雙腳往前走、身體角度越平行地面則難度越高。\n4. 腳跟踩穩、臀部夾緊，避免拉動時髖部下垂。",
-      "image_url": "",
-      "muscle_group_id": "test2",
-      "equipment_type": "test3",
-      "training_type_id": "default_functional",
-      "muscle_map": {
-        "primary": ["lat", "rhomboid"],
-        "secondary": ["biceps", "deltoid_rear"]
-      },
-      "targets": []
-    },
-    {
       "id": "ex_neck_machine_flexion_extension",
       "name": "頸部訓練機屈伸",
       "description": "1. 調整座椅高度，讓頭墊在做屈曲時貼合前額，做伸展時則貼合後腦勺。\n2. 坐正、脊椎維持中立，雙手握住側邊把手以穩定軀幹。\n3. 屈曲動作從頭部後仰的起始姿勢慢慢低頭，直到下巴接近胸口；伸展動作則從低頭姿勢開始，將頭向後推至眼睛朝向天花板。\n4. 在動作終點稍作停頓，再控制速度回到起始位置。",
       "instructions": "1. 從非常輕的重量開始，頸部肌肉小且容易受傷。\n2. 動作要放慢，全程不可借力甩動頭部。\n3. 讓動作侷限在頸部，不要聳肩或拱背代償。\n4. 若出現劇烈疼痛、暈眩或麻木感應立即停止，動作範圍感覺不穩定時也不要勉強做到底。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/10ex_neck_machine_flexion_extension.webp",
       "muscle_group_id": "default_neck",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -176,7 +161,7 @@
       "name": "壺鈴擺盪",
       "description": "1. 雙腳略寬於肩站立，壺鈴放在身體前方約一步距離的地面上。\n2. 屈髖（而非深蹲）向下握住壺鈴把手，背部打平、脛骨接近垂直地面。\n3. 先將壺鈴像美式足球中場傳球般往後盪至兩腿之間，再用力挺髖，將壺鈴向前上方盪起至胸口高度。\n4. 讓壺鈴在頂點隨臀肌鎖死短暫懸浮，接著自然下落，進入下一次的後盪屈髖動作。",
       "instructions": "1. 力量來自髖部向前的爆發式挺伸，而非靠手臂拉起或膝蓋深蹲。\n2. 全程保持脊椎中立、核心收緊；若下背開始圓背，代表髖鉸鏈動作已經跑掉。\n3. 後盪時壺鈴要貼近身體，盪高至大腿內側附近，而不是低垂在膝蓋前方。\n4. 若無法維持背部平直，或感覺施力轉移到下背，應立即停止並重新調整姿勢。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/11ex_kettlebell_swing.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_kettlebell",
       "training_type_id": "default_functional",
@@ -191,7 +176,7 @@
       "name": "彈力帶肩胛夾（水平外展）",
       "description": "1. 雙腳與髖同寬站直，雙手於肩膀高度握住彈力帶，掌心朝下、握距寬於肩膀。\n2. 起始姿勢雙臂朝身體前方伸直，並讓彈力帶保持些微張力。\n3. 手肘維持接近伸直，將雙手向兩側拉開，直到彈力帶碰到胸口。\n4. 在終點夾緊肩胛骨，接著緩慢控制回到起始位置。",
       "instructions": "1. 用夾緊肩胛骨的力量帶動動作，而不是靠手臂蠻力拉扯。\n2. 全程手肘幾乎打直，讓後三角肌與中背發力，避免二頭肌代償。\n3. 肩膀保持下沉放鬆，避免拉動過程中聳肩上提。\n4. 選擇能讓你完成整組並確實夾緊肩胛的彈力帶強度；若手肘無法打直或開始聳肩，代表阻力過重。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/12ex_resistance_band_pull_apart.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_strength",
@@ -206,7 +191,7 @@
       "name": "跑步機上坡快走",
       "description": "1. 先將安全磁扣夾在衣服上，以平坡、緩慢舒適的速度熱身走 5 分鐘。\n2. 逐漸將坡度調升至約 3-5%、速度調整為快走步伐，全程保持抬頭挺胸、眼睛看向前方。\n3. 讓手臂自然擺動，落地時以足中段著地，避免用腳跟重踩。\n4. 維持該坡度與速度直到達成目標時間，接著調降坡度與速度緩和走 5 分鐘後再停止。",
       "instructions": "1. 扶手只用來輕輕維持平衡，緊抓扶手會扭轉髖部並限制手臂自然擺動。\n2. 上半身保持挺直，不要因為坡度而前傾或駝背代償。\n3. 坡度與速度應隨訓練次數循序漸進提升，不要一開始就挑戰陡坡。\n4. 若出現關節劇痛、胸悶或暈眩，應立即降低強度並停止。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/13ex_treadmill_incline_walk.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_cardio_machine",
       "training_type_id": "default_cardio",
@@ -221,7 +206,7 @@
       "name": "伏地挺身",
       "description": "1. 從高棒式開始，雙手略寬於肩，雙腳與髖同寬，身體從頭到腳跟呈一直線。\n2. 雙手位置約落在肩膀正下方，手指張開撐穩地面。\n3. 手肘彎曲呈約 45 度夾角，將胸口下降至上臂約與地面平行的高度。\n4. 用力推地將身體撐回直臂棒式，避免臀部下塌或翹起。",
       "instructions": "1. 手肘與軀幹維持約 45 度夾角，手肘完全外展會增加肩膀負擔。\n2. 全程收緊核心與臀部，讓髖部與肩膀、腳踝維持同一直線。\n3. 頸部保持中立、耳朵對齊肩膀，避免低頭或抬頭過度。\n4. 每下都下降到胸口接近地面，不要只做一半動作範圍。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/14ex_push_up.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -236,7 +221,7 @@
       "name": "上斜啞鈴臥推",
       "description": "1. 將臥推椅調整至約 30 度的低角度上斜，坐下後雙手各持一啞鈴放於大腿上，躺下時順勢帶至肩膀兩側。\n2. 雙腳踩穩地面，上背貼緊椅面，掌心朝前。\n3. 將啞鈴向上並略朝內推起，直到手臂在上胸正上方伸直，避免兩個啞鈴在頂端互相碰撞。\n4. 控制速度下放啞鈴，直到上臂略低於與地面平行，手腕全程打直。",
       "instructions": "1. 椅子角度維持較淺的約 30 度；角度太高會讓刺激從胸部轉移到前三角肌。\n2. 起始重量應比槓鈴訓練輕，因為雙手啞鈴需要各自獨立穩定。\n3. 每次都下放到完全伸展、推至手臂完全伸直，不要為了加重而縮短動作範圍。\n4. 手腕保持打直並對齊手肘正上方，負重時不要讓手腕向後折。",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/ex_incline_dumbbell_press.webp",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/15ex_incline_dumbbell_press.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
@@ -251,7 +236,7 @@
       "name": "滑輪夾胸",
       "description": "1. 將兩側滑輪高度調整至約胸口高度，站在機器中間，雙手各握一把手，向前跨一小步製造張力。\n2. 起始時雙臂向兩側張開、與軀幹約呈 30 度，手肘微彎，上身微微前傾。\n3. 雙手畫大弧線向前、向中間夾攏，直到雙手在胸前相遇或接近相遇，同時擠壓胸肌。\n4. 緩慢將雙臂張開回到起始位置，全程抵抗滑輪的拉力。",
       "instructions": "1. 全程保持手肘固定的微彎角度，不要在動作中把夾胸做成推舉。\n2. 回程時雙手不要超過肩膀往後移動，也不要伸展超過舒適範圍。\n3. 頂點不要讓把手互相碰撞，停在快碰到之前並維持擠壓感，才能保持胸肌張力。\n4. 回程時控制速度，不要讓滑輪把手臂猛然拉開。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/16ex_cable_chest_fly.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
@@ -266,7 +251,7 @@
       "name": "槓鈴肩上推舉",
       "description": "1. 雙手握距略寬於肩，將槓鈴置於前肩正面，雙腳與髖或肩同寬站立。\n2. 推舉前先收緊核心並夾緊臀部，讓髖部鎖定在中立且直立的姿勢。\n3. 將槓鈴沿垂直路徑向上推起，過程中頭部略向後閃避槓鈴，最終在肩膀正上方鎖定手臂。\n4. 沿相同的垂直路徑控制下放回到前肩位置。",
       "instructions": "1. 每次推舉前都要用力收緊核心，如同準備承受腹部一拳，藉此保護脊椎。\n2. 全程保持軀幹直立，不要後仰或借用下肢彈震力量幫忙推起。\n3. 讓槓鈴路徑盡量維持垂直向上，不要往前方推離身體。\n4. 上重量前先以輕彈力帶肩胛夾或繞肩暖身，降低肩關節受傷風險。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/17ex_barbell_overhead_press.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -281,7 +266,7 @@
       "name": "滑輪臉拉",
       "description": "1. 將滑輪高度調整至約眼睛或頭部高度並掛上繩索把手，雙手正握，一手一端。\n2. 向後退一步製造張力，雙腳與肩同寬，起始時雙臂向前伸直。\n3. 將繩索拉向臉部，過程中手肘高舉外展，結束時雙手靠近耳朵、手肘高於肩膀。\n4. 在終點將雙手轉動使拇指朝向身體後方，接著緩慢控制回到起始位置。",
       "instructions": "1. 全程讓手肘維持在肩膀高度以上，手肘下垂會讓力量轉移到二頭肌與前臂。\n2. 用手肘向後帶動拉繩的動作，而不是用手蠻力拉扯。\n3. 軀幹保持直立不動，不要後仰或借用身體晃動幫忙拉繩。\n4. 使用較輕的重量，這是強化肩關節健康與姿勢的動作，而非追求最大重量的訓練。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/18ex_cable_face_pull.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
@@ -296,7 +281,7 @@
       "name": "滑輪下拉",
       "description": "1. 坐在滑輪下拉機上，大腿固定於滾墊下方，雙手握距寬於肩、掌心朝前握住橫桿。\n2. 上身略向後傾約 15-20 度，挺胸。\n3. 手肘向下向後帶動，將橫桿下拉至上胸位置，同時夾緊肩胛骨。\n4. 緩慢讓橫桿回升至手臂完全伸直，全程控制重量與上身角度。",
       "instructions": "1. 上身角度應固定在小幅度後傾；為了拉更重而不斷加大後傾角度，會讓動作變成站姿划船，減少背闊肌的參與。\n2. 用手肘向下向後的動作帶動整個拉力，而不是用二頭肌把橫桿彎舉起來。\n3. 軀幹保持穩定，避免搖晃身體或借力猛拉橫桿。\n4. 回程全程控制離心速度，讓手臂緩慢伸展回起始位置，不要讓配重片把手臂猛然拉起。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/19ex_lat_pulldown.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -311,7 +296,7 @@
       "name": "坐姿滑輪划船",
       "description": "1. 坐在坐姿划船機上，膝蓋微彎、雙腳踩穩踏板，握住把手並向後坐直至滑輪拉緊、上身挺直。\n2. 起始時雙臂向前伸直，肩膀可略向前圓，感受完整伸展。\n3. 手肘直直向後拉動，將把手拉向下肋骨處，過程中保持上身挺直，終點夾緊肩胛骨。\n4. 緩慢將手臂向前伸展回到起始的伸展姿勢，不要讓配重把身體猛然拉向前方。",
       "instructions": "1. 上身應維持接近直立、只做小幅度前後擺動，不要為了拉更重的重量而大幅前傾後仰。\n2. 拉動時手肘貼近身體，若手肘外展上抬，力量會轉移到肩膀而非背部。\n3. 全程肩膀下沉遠離耳朵，避免聳肩。\n4. 維持脊椎中立，不要為了完成動作而讓下背圓背。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/20ex_seated_cable_row.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
@@ -326,7 +311,7 @@
       "name": "啞鈴俯身划船",
       "description": "1. 雙腳與肩同寬站立，雙手各持一啞鈴，接著屈髖將上身向前傾至約 45 度，膝蓋微彎。\n2. 讓啞鈴自然垂直下垂，採中立握法，背部打平、脊椎維持中立。\n3. 手肘向後、貼近身體兩側，將雙側啞鈴拉向下肋骨處，頂點夾緊肩胛骨。\n4. 控制速度將啞鈴下放回手臂完全伸直，再開始下一次。",
       "instructions": "1. 全程保持背部平直；若在此髖部角度下無法打平背部，應調整為較直立的角度再進行。\n2. 用手肘帶動拉力並貼近身體兩側，不要外展手肘把動作變成後三角肌側平舉。\n3. 頭部維持中立、與脊椎對齊，不要為了照鏡子而抬頭或前伸。\n4. 若感覺施力轉移到下背，應先以徒手練熟屈髖動作再加重量。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/21ex_dumbbell_bent_over_row.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
@@ -341,7 +326,7 @@
       "name": "槓鈴彎舉",
       "description": "1. 站姿雙腳與肩同寬，雙手反握（掌心朝上）握距約與肩同寬，手肘固定貼於身體兩側。\n2. 膝蓋保持微彎、上身直立，肩胛骨略向後收。\n3. 只靠手肘彎曲的力量將槓鈴彎舉至肩膀附近，全程手肘固定於身體兩側。\n4. 控制速度將槓鈴下放，直到接近手肘完全伸直前停止，再重複下一次。",
       "instructions": "1. 全程讓手肘緊貼軀幹，若手肘前後移動會讓力量轉移到肩膀，也容易借力舉起重量。\n2. 不要後仰上身或晃動髖部把槓鈴甩起。\n3. 每次動作底部不要用力鎖死手肘，保留些微彎曲以保護關節。\n4. 選擇能全程控制動作的重量，若需要借力才能完成，代表重量過重。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/22ex_barbell_curl.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -356,7 +341,7 @@
       "name": "三頭肌撐體（凳上撐體）",
       "description": "1. 坐在長凳邊緣或雙槓中間，雙手握住身體兩側邊緣，手指朝前。\n2. 將臀部滑離邊緣，讓體重由雙手支撐，雙腿向前伸直（或彎曲以降低難度）。\n3. 手肘向後彎曲，下降身體直到上臂約與地面平行，或肩膀開始感受到伸展為止。\n4. 用雙手推地將身體撐回手臂伸直的姿勢，頂點不需用力鎖死手肘。",
       "instructions": "1. 手肘朝正後方彎曲，而非向外張開，才能保護肩膀並讓三頭肌維持張力。\n2. 全程肩膀下沉後收，不要在底部聳肩或讓肩膀向前滾動。\n3. 下降至上臂約與地面平行即可停止，蹲得更低會增加肩關節前側的壓力。\n4. 保持挺胸、軀幹接近直立，過度前傾會讓刺激轉移到胸部。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/23ex_triceps_dip.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -371,7 +356,7 @@
       "name": "腿推機",
       "description": "1. 坐進腿推機，背部與臀部貼緊椅背，雙腳與肩同寬踩於踏板上，腳尖略朝外。\n2. 鬆開安全卡榫，用雙手將踏板架起，膝蓋維持約 90 度彎曲。\n3. 控制速度彎曲膝蓋，讓踏板朝胸口方向下降，膝蓋方向對齊腳尖，直到膝蓋接近 90 度或下背仍貼緊椅背為止。\n4. 用整個腳掌發力將雙腿推直回到起始位置，頂點不需用力鎖死膝蓋。",
       "instructions": "1. 全腳掌平貼踏板，不要讓腳跟離開踏板或懸空在邊緣外。\n2. 下降與推起時讓膝蓋朝腳尖方向推出，不要讓膝蓋向內夾。\n3. 每次動作頂點避免完全鎖死膝蓋，保留些微彎曲以維持肌肉張力、減少關節負擔。\n4. 全程讓臀部與下背貼緊椅背；若臀部開始離開椅背，代表下降深度已超過自身柔軟度範圍。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/24ex_leg_press.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -386,7 +371,7 @@
       "name": "走動式弓箭步",
       "description": "1. 站姿雙手各持一啞鈴垂放於身體兩側，雙腳與髖同寬，核心收緊。\n2. 一腳向前跨出成前後站姿，後腳膝蓋朝地面下降，直到雙膝約呈 90 度。\n3. 用前腳腳跟發力站起，並將後腳向前帶出至下一步，持續一步步向前「走」。\n4. 依設定的距離或次數持續交替雙腳，全程保持上身直立。",
       "instructions": "1. 前腳膝蓋方向對齊腳尖，並大致停留在腳踝正上方，不要過度前推超過腳尖太多。\n2. 跨步幅度適中，步伐過大容易造成髖部與鼠蹊部的壓力。\n3. 上身保持直立、核心收緊，不要大幅前傾或低頭看腳。\n4. 雙腳左右保持些微間距，不要走成一直線，以免失去平衡。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/25ex_walking_lunge.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_functional",
@@ -401,7 +386,7 @@
       "name": "高腳杯式深蹲",
       "description": "1. 雙手握住壺鈴握把兩側，將壺鈴垂直捧於胸前，手肘內收，雙腳略寬於肩，腳尖朝外約 5-10 度。\n2. 讓壺鈴貼近胸口、脊椎維持中立，並收緊核心。\n3. 同時屈髖屈膝、將膝蓋向外推，下蹲至手肘幾乎碰到膝蓋內側，或大腿至少與地面平行。\n4. 用腳跟與腳掌中段發力站起，頂點夾緊臀部。",
       "instructions": "1. 全程讓壺鈴貼近胸口，若壺鈴遠離身體會讓上身被拉向前傾。\n2. 下蹲時讓膝蓋朝與腳尖相同的方向推出，不要向內夾。\n3. 重心保持在腳跟與腳掌中段，不要讓腳跟離地。\n4. 若上身持續前傾，應加強核心收緊，不要勉強蹲得比自身控制範圍更深。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/26ex_goblet_squat.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_kettlebell",
       "training_type_id": "default_functional",
@@ -416,7 +401,7 @@
       "name": "彈力帶橫向側走",
       "description": "1. 將彈力帶套在腳踝或膝蓋上方，雙腳與肩同寬站立，屈膝進入淺蹲姿勢。\n2. 挺胸並收緊核心，全程維持雙腳打開以保持彈力帶張力。\n3. 一腳先向側邊跨出，另一腳跟上，過程中彈力帶保持張力，雙腳不可完全併攏。\n4. 朝一個方向走 8-10 步後，反方向再走 8-10 步，全程維持半蹲姿勢。",
       "instructions": "1. 全程維持淺蹲姿勢，站直會讓臀肌失去張力。\n2. 跨步時讓膝蓋向外對抗彈力帶，不要向內夾。\n3. 隨時保持彈力帶張力，雙腳不可完全併攏靠在一起。\n4. 動作放慢並控制節奏，動作過快會降低臀肌的活化程度。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/27ex_resistance_band_lateral_walk.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_functional",
@@ -431,7 +416,7 @@
       "name": "徒手深蹲",
       "description": "1. 雙腳略寬於髖部站立，腳尖略朝外，雙臂向前伸直以協助平衡。\n2. 深吸一口氣、收緊核心，先將髖部向後推，同時膝蓋開始彎曲。\n3. 讓髖部向後向下坐，全程挺胸、膝蓋對齊腳尖方向，下蹲至大腿至少與地面平行。\n4. 用腳跟與整個腳掌發力站起，頂點夾緊臀部。",
       "instructions": "1. 動作由髖部向後推啟動，而不是先讓膝蓋向前彎曲。\n2. 全程讓膝蓋朝與腳尖相同的方向移動，若膝蓋開始內夾，可提醒自己「把膝蓋往外推」。\n3. 上身盡量維持直立（依個人柔軟度而定）；若胸口塌陷前傾或腳跟離地，代表已超過自己能控制的深度。\n4. 重心平均分布在整個腳掌，不要移到腳尖。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/28ex_bodyweight_squat.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -446,7 +431,7 @@
       "name": "跪姿滑輪捲腹",
       "description": "1. 將繩索把手掛在高滑輪上，面向機器跪地並向後退幾步，雙手握住繩索兩端置於頭部或肩膀兩側。\n2. 從髖部微微前傾製造滑輪張力，全程讓髖部保持固定不動。\n3. 讓脊椎向下捲曲，將肋骨帶向骨盆方向，動作來自背部捲曲而非髖部前折。\n4. 緩慢控制捲曲回到起始位置，全程讓腹肌保持張力。",
       "instructions": "1. 全程讓髖部保持不動，動作完全來自脊椎的捲曲，而不是髖部的前折。\n2. 用「肋骨貼向骨盆」的意象把力量集中在腹肌，而非髖屈肌。\n3. 讓繩索靠近頭部位置，不要主要靠手臂的力量拉動。\n4. 捲曲與回程都要控制速度，不要用彈震借力的方式衝動作次數。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/29ex_cable_crunch.webp",
       "muscle_group_id": "default_core",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
@@ -461,7 +446,7 @@
       "name": "彈力帶帕洛夫推",
       "description": "1. 將彈力帶固定於胸口高度，側身站立於固定點旁，雙腳與肩同寬，雙手於胸口中央握住彈力帶。\n2. 向固定點反方向走出，直到彈力帶產生張力，手肘內收、核心收緊。\n3. 將彈力帶向胸前正前方推出，直到手臂完全伸直，過程中抵抗彈力帶想把身體轉向固定點的拉力。\n4. 稍作停頓後，緩慢控制將雙手收回胸口，再重複下一次推出。",
       "instructions": "1. 雙腳、膝蓋、髖部與肩膀應保持一直線朝向正前方，不要讓彈力帶把上身轉向固定點的方向。\n2. 全程收緊核心並夾緊臀部，如同準備承受腹部一拳。\n3. 動作放慢，在完全伸展處稍作停頓，動作過快會讓彈力帶佔了抗旋轉的上風。\n4. 兩側都要各做一組，讓左右兩側的抗旋轉能力平均訓練到。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/30ex_pallof_press.webp",
       "muscle_group_id": "default_core",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_functional",
@@ -476,7 +461,7 @@
       "name": "壺鈴農夫走路",
       "description": "1. 站於兩個壺鈴之間（或雙手各持一個），屈髖、膝蓋微彎，用中立握法確實握緊把手。\n2. 站直身體，雙手各持一壺鈴垂放於身體兩側，肩膀後收下沉、挺胸。\n3. 以穩定、可控的步伐向前行走，核心收緊，壺鈴貼近身體兩側，不晃動甩擺。\n4. 持續走完設定的距離或時間，再次屈髖將壺鈴穩定放回地面。",
       "instructions": "1. 全程用力握緊把手，握力通常會比其他肌肉更早疲勞，是這個動作的限制因素。\n2. 肩膀維持下沉後收、上身直立，如同頭上頂著一本書；不要讓身體一側下垂或傾斜。\n3. 視線朝正前方而非低頭看腳，有助於避免上背圓肩。\n4. 一開始選擇可控的重量，並以緩慢穩定的步伐行走，負重過重又行走過快會提高受傷風險。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/31ex_kettlebell_farmers_carry.webp",
       "muscle_group_id": "custom_forearm",
       "equipment_type": "default_kettlebell",
       "training_type_id": "default_functional",
@@ -491,7 +476,7 @@
       "name": "坐姿推胸機",
       "description": "1. 調整座椅高度，讓把手對齊坐下時的胸口中段，背部與頭部靠緊椅墊。\n2. 雙手完整握住把手，雙腳平放於地面或踏板上，推起前先將肩胛骨向後下方收緊。\n3. 伸直手臂將把手向前推出，直到手臂接近伸直，不需用力鎖死手肘。\n4. 緩慢控制將把手收回起始位置，全程背部貼緊椅墊。",
       "instructions": "1. 先調整好座椅高度；座椅過高或過低會讓壓力轉移到肩關節而非胸部。\n2. 全程背部貼緊椅墊，不要拱背借力推起。\n3. 完全伸展時避免用力鎖死手肘，動作中也不要讓手肘高於肩膀。\n4. 動作節奏保持平順可控，不要讓配重片在每下之間彈跳借力。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/32ex_chest_press_machine.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -506,7 +491,7 @@
       "name": "彈力帶臥推",
       "description": "1. 將彈力帶固定於身後胸口高度，面向前方站立、雙腳前後微站，雙手各握一把手於胸口高度，手肘彎曲呈 90 度。\n2. 即使在起始位置也維持彈力帶些微張力，核心收緊、肩膀下沉。\n3. 雙手向前推出直到手臂接近伸直，同時擠壓胸肌，不需用力鎖死手肘。\n4. 緩慢將雙手收回胸口高度的起始位置，全程抵抗彈力帶的拉力。",
       "instructions": "1. 全程收緊核心，避免彈力帶的拉力讓上身旋轉或下背過度拱起。\n2. 肩膀保持下沉後收，推的過程中手肘不要低於肩膀高度。\n3. 每一下起始位置都要維持彈力帶張力，若完全放鬆會失去訓練刺激。\n4. 回程控制速度，不要讓彈力帶把手臂猛然彈回。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/33ex_resistance_band_chest_press.webp",
       "muscle_group_id": "default_chest",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_strength",
@@ -521,7 +506,7 @@
       "name": "派克式伏地挺身",
       "description": "1. 從棒式開始，雙手位於肩膀正下方，接著雙腳向手的方向走近，將髖部向上向後抬起呈倒 V 字形。\n2. 手臂與雙腿盡量伸直，頭部置於雙臂之間，視線看向雙腳方向。\n3. 手肘彎曲呈約 45 度角，將頭頂下降至雙手之間靠近地面。\n4. 用雙手推地將手臂伸直撐起，回到倒 V 字形姿勢。",
       "instructions": "1. 全程讓髖部維持在倒 V 字形的高位，髖部下垂會讓動作變成一般伏地挺身，減少肩膀的訓練效果。\n2. 手肘與軀幹維持約 45 度夾角，不要完全向兩側外展。\n3. 頸部保持中立，緩慢下降而非讓頭部快速朝地面掉落。\n4. 若是初次嘗試，先從較小的動作範圍開始，再逐漸增加。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/34ex_pike_push_up.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -536,7 +521,7 @@
       "name": "坐姿肩推機",
       "description": "1. 調整座椅高度，讓把手對齊肩膀頂端，起始時手肘略低於肩膀高度。\n2. 上身完全靠緊椅背，雙腳平放地面，握住把手時手肘約落在 4 點與 8 點鐘方向。\n3. 將把手垂直向上推起直到手臂伸直，保留些微手肘彎曲，不需用力鎖死。\n4. 控制速度將把手下放回到肩膀高度的起始位置。",
       "instructions": "1. 先調整好座椅高度；太低會讓手肘起始低於肩膀，太高則會縮短動作範圍。\n2. 全程背部與臀部貼緊椅墊，不要拱背或讓臀部離座來幫忙推起。\n3. 利用上背肌群控制下放階段，不要讓重量單純靠地心引力落下。\n4. 頭部自然靠在椅墊上，不要前傾或後仰。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/35ex_machine_shoulder_press.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -551,7 +536,7 @@
       "name": "壺鈴肩上推舉",
       "description": "1. 將壺鈴清舉至肩膀高度的架式位置，手腕打直、壺身靠在前臂上，手肘內收。\n2. 站姿雙腳與髖同寬，收緊核心並夾緊臀部，讓髖部鎖定在中立姿勢。\n3. 將壺鈴沿垂直路徑向上推起，直到手臂在頭頂完全伸直，壺鈴最終落在肩膀正上方。\n4. 控制速度將壺鈴下放回肩膀的架式位置，再重複下一次。",
       "instructions": "1. 推舉前後都要收緊核心並下壓肋骨，避免下背過度拱起。\n2. 讓推舉路徑盡量垂直，壺鈴最終應落在肩膀正上方而非身體前方。\n3. 全程手腕保持打直，負重下手腕彎曲會增加關節壓力並降低推舉力量。\n4. 若頂點感覺肩膀出現尖銳夾擠感，應停止該組並降低重量至能無痛推舉的程度。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/36ex_kettlebell_overhead_press.webp",
       "muscle_group_id": "default_shoulders",
       "equipment_type": "default_kettlebell",
       "training_type_id": "default_strength",
@@ -566,7 +551,7 @@
       "name": "彈力帶划船",
       "description": "1. 坐在地上雙腿伸直，將彈力帶繞過雙腳，雙手各握一把手，手臂向前伸直。\n2. 上身坐直、脊椎中立，核心收緊，拉動前先將肩胛骨下沉定位。\n3. 手肘向後、貼近身體兩側拉動彈力帶，雙手拉至肋骨附近時夾緊肩胛骨。\n4. 緩慢將手臂向前伸展回到起始位置，全程保持挺胸。",
       "instructions": "1. 全程挺胸、脊椎中立；背部圓駝會減少背部發力並增加下背壓力。\n2. 用手肘向後帶動拉力，而不是先用手把彈力帶拉向自己。\n3. 肩膀保持下沉遠離耳朵；若肩膀開始上聳，用「拉長頸部」的意象重新定位。\n4. 拉動時吐氣、回程時吸氣，動作保持控制而非急促猛拉。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/37ex_resistance_band_row.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_strength",
@@ -581,7 +566,7 @@
       "name": "壺鈴單手划船",
       "description": "1. 將壺鈴放在長凳旁的地面，屈髖至上身約 45 度角，一手撐在長凳上支撐身體。\n2. 用空出的手握住壺鈴，背部打平、脊椎維持中立，肩膀與地面保持水平。\n3. 手肘朝天花板方向發力划起壺鈴，肩胛骨向後下方夾緊，將壺鈴拉向髖部。\n4. 控制速度將壺鈴下放回手臂完全伸直，再開始下一次。",
       "instructions": "1. 全程背部打平、脊椎中立；若背部開始圓駝，應改用較輕的壺鈴。\n2. 上身保持方正穩定，划船時不要扭轉或旋轉軀幹。\n3. 用手肘帶動動作，而不是聳肩把肩膀往耳朵方向抬高。\n4. 雙肩保持水平；若一側髖部或肩膀下垂會破壞姿勢，也可能傷及下背。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/38ex_kettlebell_single_arm_row.webp",
       "muscle_group_id": "default_back",
       "equipment_type": "default_kettlebell",
       "training_type_id": "default_strength",
@@ -596,7 +581,7 @@
       "name": "彈力帶二頭彎舉",
       "description": "1. 雙腳踩住彈力帶中段，與肩同寬站立，雙手各握一把手，掌心朝前，手肘固定貼於身體兩側。\n2. 收緊腹部、膝蓋微彎，肩膀向後下方收緊。\n3. 只靠手肘彎曲的力量將彈力帶彎舉至肩膀附近，上臂全程固定不動。\n4. 在頂點稍作停頓，接著以 2-3 秒的速度將彈力帶下放回起始位置。",
       "instructions": "1. 全程讓手肘固定貼於身體兩側，若手肘向後移動會讓動作變成肩部動作。\n2. 不要後仰上身借力把彈力帶拉起，身體保持靜止讓二頭肌單獨發力。\n3. 只讓手肘活動，避免用手腕的彎曲動作幫忙拉起彈力帶。\n4. 選擇能全程控制的彈力帶強度，若需要晃動或後仰才能完成，代表阻力過重。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/39ex_resistance_band_bicep_curl.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_strength",
@@ -611,7 +596,7 @@
       "name": "牧師彎舉機",
       "description": "1. 調整座椅高度，讓腋下剛好貼靠在椅墊頂端，上臂平貼椅墊，握住把手時手肘略在軀幹前方。\n2. 將上臂後側壓緊椅墊，全程固定不離開。\n3. 彎曲手肘並擠壓二頭肌將把手彎舉向上，抬至接近肩膀高度，不要讓肩膀向前滾動借力。\n4. 緩慢控制下放，直到二頭肌感受到伸展，底部保留些微手肘彎曲。",
       "instructions": "1. 每一下都要讓上臂後側貼緊椅墊；手肘離開椅墊會讓動作變成不標準的站姿彎舉。\n2. 調整座椅高度讓腋下恰好卡在椅墊頂端；椅墊高度不合會讓肩膀代償出力。\n3. 下放到感受完整伸展、彎舉到完全收縮，不要縮短動作範圍。\n4. 控制下放速度，不要讓重量直接掉落並在底部彈跳。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/40ex_preacher_curl_machine.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -626,7 +611,7 @@
       "name": "啞鈴俄羅斯轉體",
       "description": "1. 坐在地上，膝蓋彎曲、雙腳平貼地面（或微抬離地增加難度），雙手共同握住一個啞鈴置於胸前。\n2. 上身向後傾至約 45 度，背部打平、脊椎維持中立。\n3. 旋轉上身將啞鈴帶向一側靠近髖部，接著經過中間反向轉至另一側，全程動作控制。\n4. 依設定次數持續左右交替，雙腳全程保持穩定。",
       "instructions": "1. 旋轉應來自上背與胸廓，而不是只靠手臂把啞鈴甩向兩側。\n2. 全程背部打平，不要圓背；圓背會降低核心參與並增加受傷風險。\n3. 動作放慢並控制節奏，轉動過快容易旋轉過度而傷及背部。\n4. 若有下背疼痛病史，應先從帕洛夫推等抗旋轉動作開始，再進階到旋轉式的轉體動作。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/41ex_dumbbell_russian_twist.webp",
       "muscle_group_id": "default_core",
       "equipment_type": "default_dumbbell",
       "training_type_id": "default_strength",
@@ -641,7 +626,7 @@
       "name": "坐姿捲腹機",
       "description": "1. 坐正於機器上，固定雙腳，握住把手或將肩墊置於定位，手肘內收。\n2. 調整座椅高度讓機器的轉軸對齊上身，選擇能讓自己控制動作的重量。\n3. 讓下肋骨朝肚臍方向捲曲，同時將把手向下拉，感受脊椎向前捲曲。\n4. 緩慢控制回到起始位置，全程讓腹肌保持張力。",
       "instructions": "1. 動作放慢並控制節奏；快速甩動的動作會大幅降低腹肌實際的參與程度。\n2. 讓腹肌主導捲曲的動作，而不是靠手臂或髖部的力量把重量拉動。\n3. 不要用雙手拉扯頸部，雙手只是輕輕扶著，讓上身自然捲曲發力。\n4. 捲曲時吐氣、回程時吸氣，節奏保持從容不急促。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/42ex_ab_crunch_machine.webp",
       "muscle_group_id": "default_core",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -656,7 +641,7 @@
       "name": "槓鈴羅馬尼亞硬舉",
       "description": "1. 雙腳與髖同寬站立，槓鈴橫放於大腿前，雙手握於腿部外側，槓鈴置於腳掌中段正上方。\n2. 膝蓋維持固定的微彎，將髖部直直向後推，脊椎保持中立，槓鈴沿大腿貼身下滑。\n3. 下放槓鈴直到感受到膕繩肌明確的伸展感，通常約在小腿中段高度，全程讓髖部維持高位而非蹲下。\n4. 挺髖將身體帶回站立姿勢，終點不需用力鎖死髖部。",
       "instructions": "1. 全程讓槓鈴貼近雙腿下滑，槓鈴遠離身體會對下背造成額外壓力。\n2. 膝蓋維持固定的微彎，不要在下降時越彎越多，那樣會讓動作變成深蹲。\n3. 只下放到脊椎仍能維持中立的深度，超過膕繩肌柔軟度允許的範圍會讓背部圓背。\n4. 微收下巴，如同下巴夾著一顆蛋，讓頸部全程維持安全的中立姿勢。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/43ex_barbell_romanian_deadlift.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -669,9 +654,9 @@
     {
       "id": "ex_seated_leg_curl_machine",
       "name": "坐姿腿彎舉機",
-      "description": "1. 坐入機器並讓背部貼緊椅背，調整座椅位置使膝關節對齊機器的轉軸。\n2. 將腳踝滾墊放在腳跟正上方，握住把手，全程挺胸、脊椎中立。\n3. 將滾墊向下捲曲，使腳跟朝臀部方向拉近，彎曲膝蓋至約 90 度，背部全程貼緊椅背。\n4. 緩慢控制將雙腿伸展回起始位置，不要讓配重片猛然落下。",
-      "instructions": "1. 開始前先將膝關節對齊機器轉軸；沒對齊會對膝蓋造成剪切壓力。\n2. 全程背部貼緊椅背，不要為了拉更重的重量而拱背或離開椅背。\n3. 回程階段也要控制速度，不要讓重量直接掉落；伸展階段與拉起階段同樣重要。\n4. 若感覺膝蓋不適，應重新檢查座椅對位並降低重量，不要忍痛硬做。",
-      "image_url": "",
+      "description": "1. 坐入機器並讓背部貼緊椅背，調整座椅位置，使膝關節對齊機器的轉軸。\n2. 將滾墊調整至小腿後側、腳踝上方的位置，握住把手，全程挺胸、脊椎維持中立。\n3. 收縮腿後肌群，彎曲膝關節，使腳跟朝臀部方向拉近，至膝關節約彎曲 90 度或依個人活動度為止，背部全程貼緊椅背。\n4. 緩慢控制雙腿回到起始位置，使膝關節接近伸直，避免讓配重片直接落下。",
+      "instructions": "1. 開始前先將膝關節對齊機器轉軸；若未對齊，可能增加膝關節的剪切壓力。\n2. 全程背部貼緊椅背，避免為了使用更重的重量而拱背或讓臀部離開座椅。\n3. 動作全程保持控制，拉起與回程皆應平穩進行，避免利用慣性或讓配重片直接落下。\n4. 若感覺膝蓋或腿後肌群疼痛不適，應重新檢查座椅與滾墊位置並降低重量，避免勉強完成動作。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/44ex_seated_leg_curl_machine.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_machine",
       "training_type_id": "default_strength",
@@ -686,7 +671,7 @@
       "name": "站姿提踵",
       "description": "1. 雙腳與髖同寬站立，可平踩地面，或將前腳掌踩於階梯邊緣以獲得更深的伸展，膝蓋大致伸直。\n2. 若需要可輕扶牆面或椅子維持平衡，肩膀後收、核心收緊。\n3. 緩慢踮起腳尖盡量抬高，在頂點用力擠壓小腿 1-2 秒。\n4. 控制速度將腳跟放下，若站在階梯上可讓腳跟下降至低於腳尖，獲得完整伸展。",
       "instructions": "1. 動作放慢，避免在底部彈跳；快速彈震的節奏會降低肌肉活化程度並增加受傷風險。\n2. 每次都要踮到最高點，並下放到完整伸展，不要只做小範圍的局部動作。\n3. 保持挺胸站姿、肩膀後收；身體前傾會降低小腿的訓練效果。\n4. 腳踝維持垂直上下移動的軌跡，不要向內或向外滾動。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/45ex_standing_calf_raise.webp",
       "muscle_group_id": "default_legs",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -701,7 +686,7 @@
       "name": "槓鈴反握彎舉",
       "description": "1. 站姿雙手正握（反握）槓鈴，握距與肩同寬，手肘固定貼於身體兩側。\n2. 開始彎舉前，手腕保持中立、上身直立。\n3. 只靠手肘彎曲的力量將槓鈴彎舉至肩膀附近，全程手肘固定於身體兩側。\n4. 以約 2 秒的速度控制下放，每次動作頂點都擠壓前臂與肱橈肌。",
       "instructions": "1. 握距維持與肩同寬；握距過窄會降低前臂參與，過寬則容易造成手腕壓力。\n2. 全程手腕保持打直中立；手腕塌陷或彎曲會降低前臂訓練效果並增加關節壓力。\n3. 不要晃動上身或借力甩動，這個動作應該比一般彎舉使用更輕的重量、更講求控制。\n4. 使用比一般槓鈴彎舉更輕的重量，因為前臂與肱橈肌比二頭肌小得多。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/46ex_barbell_reverse_curl.webp",
       "muscle_group_id": "custom_forearm",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -716,7 +701,7 @@
       "name": "死掛懸吊",
       "description": "1. 雙手正握單槓，握距約與肩同寬，拇指環繞握緊槓面。\n2. 從支撐處走下或跳離，讓全身體重懸吊，手臂完全伸直。\n3. 若要做主動懸吊，將肩胛骨略向後下方收緊、手臂維持伸直；若要做被動懸吊，則讓肩膀自然放鬆朝耳朵方向上提。\n4. 維持懸吊姿勢並用鼻子均勻呼吸，結束後控制身體緩慢回到支撐處放開。",
       "instructions": "1. 握緊握把並讓拇指環繞槓面，而非開放式不環繞的握法，尤其是懸吊時間拉長時更要注意。\n2. 全程手肘保持完全伸直，手肘彎曲會讓負荷從握力與肩膀轉移到手臂。\n3. 避免晃動身體或憋氣，均勻呼吸並讓雙腿保持靜止。\n4. 若感覺肩膀出現尖銳疼痛或神經刺麻感應立即停止，懸吊時間應循序漸進增加，不要一開始就挑戰長時間懸吊。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/47ex_dead_hang.webp",
       "muscle_group_id": "custom_forearm",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_flexibility",
@@ -731,7 +716,7 @@
       "name": "徒手頸部等長訓練",
       "description": "1. 坐姿或站姿維持良好姿勢，將手掌平貼於額頭上。\n2. 頭部輕輕向前推向手掌，同時手掌施加相等阻力，讓頭部實際上不移動，並維持這個收縮。\n3. 同樣的方式在後腦勺、以及頭部兩側各做一次穩定施力，依序完成前、後、左右四個方向。\n4. 每次維持後緩慢放鬆，不要突然放開。",
       "instructions": "1. 施加的阻力應逐漸增加且力道保持溫和到中等，這是等長收縮訓練，不是全力互推。\n2. 全程讓頭部保持不動；若頭部移動，代表施加的阻力大於對抗的力量。\n3. 每次收縮維持約 2-6 秒，均勻呼吸，不要憋氣。\n4. 軀幹保持不動、核心收緊，讓施力侷限在頸部，避免變成聳肩動作。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/48ex_neck_isometric_manual_resistance.webp",
       "muscle_group_id": "default_neck",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_strength",
@@ -746,13 +731,808 @@
       "name": "彈力帶頸部屈曲",
       "description": "1. 將彈力帶固定於頭部高度的穩固錨點，繞過後腦勺並置於耳朵上方，面向固定點的反方向站立。\n2. 向前跨一到兩步製造彈力帶張力，坐姿或站姿挺直，核心收緊。\n3. 軀幹保持不動，收下巴並對抗彈力帶阻力將頭部前屈，接著讓彈力帶緩慢將頭拉回起始位置。\n4. 依設定次數重複，接著轉身面向固定點，以相反方向的動作訓練頸部後伸。",
       "instructions": "1. 前後動作都要放慢並控制節奏，這是小範圍且精準的動作，不是快速甩動。\n2. 全程讓頸部與脊椎對齊，避免頭部前後傾斜超過舒適範圍。\n3. 從輕度的彈力帶張力與低次數開始，因為頸部肌肉小，容易疲勞或拉傷。\n4. 若出現劇烈疼痛、暈眩或麻木感應立即停止，阻力應保持在能完全控制動作的輕度範圍內。",
-      "image_url": "",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/49ex_resistance_band_neck_flexion.webp",
       "muscle_group_id": "default_neck",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_strength",
       "muscle_map": {
         "primary": ["neck"],
         "secondary": []
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_flat_bench_press",
+      "name": "啞鈴平板臥推",
+      "description": "1. 坐在平板臥推椅末端，將啞鈴各放在一側大腿上，用腿部順勢頂起啞鈴並同時向後躺下。\n2. 肩胛骨向後下方收緊並貼緊椅面，雙腳踩穩地面，於胸部高度持住啞鈴、掌心朝前。\n3. 將兩隻啞鈴向上並略微向內推起，直到手臂在胸部中段上方接近伸直，不完全鎖死手肘。\n4. 控制速度下放，直到上臂大約與軀幹同高、胸部感受到伸展，再推起進行下一次。",
+      "instructions": "1. 每一下都維持肩胛骨後收下壓；肩膀一旦向前捲，負荷會落在肩關節而非胸肌。\n2. 頂點不要讓兩隻啞鈴互相碰撞，保留些微距離才能維持胸肌張力。\n3. 下放約 2-3 秒，上臂降到與軀幹同高即停止；超出自身活動度會拉扯肩關節囊。\n4. 手腕保持中立並位於手肘正上方；若手腕明顯後折，代表重量過重或握得不夠緊。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/50ex_dumbbell_flat_bench_press.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_mid", "chest_lower"],
+        "secondary": ["deltoid_front", "triceps"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_chest_fly",
+      "name": "啞鈴飛鳥",
+      "description": "1. 平躺於平板臥推椅上，雙手各持一隻啞鈴置於胸部正上方，掌心相對。\n2. 肩胛骨向後下方收緊貼緊椅面，手肘保持微彎，該彎曲角度全組固定不變。\n3. 沿大弧線將雙臂向兩側打開，直到上臂大約與軀幹同高、胸部感受到伸展。\n4. 收縮胸肌，沿相同弧線將啞鈴夾回胸部正上方，過程中手肘角度維持不變。",
+      "instructions": "1. 手肘固定微彎。完全伸直鎖死會讓手肘承受過長的力臂，彎曲過多則會變成推的動作。\n2. 想像移動的是上臂而不是雙手——動作來自肩關節將雙臂向身體中線靠近。\n3. 重量要明顯比臥推輕；底部伸展位置是胸肌與肩關節最脆弱的地方。\n4. 上臂降到與軀幹同高即停止；若感覺是肩膀前側被拉扯而非胸肌用力，應結束該組。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/51ex_dumbbell_chest_fly.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_mid"],
+        "secondary": ["deltoid_front", "biceps"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_incline_bench_press",
+      "name": "槓鈴上斜臥推",
+      "description": "1. 將可調式臥推椅設為約 30 度，向後躺下使眼睛位於槓鈴下方，雙腳平踩地面。\n2. 肩胛骨向後收緊並下壓貼緊椅面，雙手以略寬於肩的握距握槓。\n3. 將槓鈴自架上取下移至上胸上方，控制速度下放至碰觸鎖骨下方位置。\n4. 沿相同路徑將槓鈴推回直到手臂伸直，過程中肩胛骨維持固定不移動。",
+      "instructions": "1. 傾斜角度維持約 30 度；超過約 45 度後前三角肌會接手發力，上胸不再是主要作用肌。\n2. 槓鈴要下放到胸部偏上、鎖骨下方的位置；碰到胸部中段就等於做回平板臥推。\n3. 肩胛骨保持後收、臀部不離開椅面；用抬臀方式借力會改變推的角度並增加下背風險。\n4. 採用拇指環繞槓身的完整握法；接近極限重量時務必有保護者或先設好安全槓。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/52ex_barbell_incline_bench_press.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_upper"],
+        "secondary": ["deltoid_front", "triceps"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_decline_bench_press",
+      "name": "槓鈴下斜臥推",
+      "description": "1. 將下斜臥推椅設為約 15-30 度，躺下前先把雙腿確實固定在腿部護墊下方。\n2. 肩胛骨向後收緊貼緊椅面，雙手以略寬於肩的握距握槓。\n3. 將槓鈴自架上取下移至下胸上方，控制速度下放至乳線稍下方位置。\n4. 沿相同路徑推回直到手臂伸直，避免槓鈴在胸口彈跳借力。",
+      "instructions": "1. 取槓前務必確認雙腿已卡緊護墊；頭低腳高的姿勢下身體滑動是這個動作最主要的風險。\n2. 一定要有保護者或先設好安全槓——下斜姿勢在推不起來時很難自行脫困。\n3. 槓鈴路徑要在下胸正上方而非臉部上方，手肘也不要完全朝正側方張開。\n4. 若因頭低姿勢感到頭暈或頭部壓迫感，組間先坐起休息，並考慮改為平板或小角度下斜。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/53ex_barbell_decline_bench_press.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_lower"],
+        "secondary": ["triceps", "deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_chest_dip",
+      "name": "胸部雙槓下推",
+      "description": "1. 雙手握住平行雙槓，撐起身體至手臂伸直的支撐姿勢，肩膀主動下壓遠離耳朵。\n2. 軀幹向前傾約 30 度，雙腿自然略微置於身後，可交叉腳踝以維持穩定。\n3. 彎曲手肘下降身體，直到上臂大約與地面平行，全程維持軀幹前傾角度。\n4. 以胸部發力推回起始位置，接近伸直時停止，不完全鎖死手肘。",
+      "instructions": "1. 軀幹前傾是讓這個動作練到胸部的關鍵；身體完全直立會變成以三頭肌為主的雙槓臂屈伸。\n2. 肩膀全程下壓遠離耳朵；若肩膀聳起，底部位置會壓迫肩關節。\n3. 上臂下降到與地面平行即停止。再往下會在全身體重下過度伸展肩關節前側囊。\n4. 先用輔助雙槓機或彈力帶建立力量再加負重，出現肩部尖銳疼痛應立即停止。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/54ex_chest_dip.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_lower", "chest_mid"],
+        "secondary": ["triceps", "deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_decline_push_up",
+      "name": "腳抬高伏地挺身",
+      "description": "1. 雙腳置於穩固的臥推椅或跳箱上，雙手撐地、間距略寬於肩。\n2. 收緊核心並夾緊臀部，讓身體從腳跟到頭部成一直線。\n3. 控制速度將胸部下降靠近地面，手肘與軀幹夾角約 45 度，不要完全朝正側方張開。\n4. 推起直到手臂伸直，過程中維持骨盆水平與身體同一直線。",
+      "instructions": "1. 核心與臀部全程收緊；雙腳抬高後更容易出現塌腰或臀部拱起。\n2. 頸部保持中立，視線看向雙手前方的地面，不要把下巴縮向胸口。\n3. 雙腳越高，負荷越往肩膀轉移——先從低箱開始，隨力量提升再加高。\n4. 使用不會滑動或翻倒的椅子；若下背開始塌陷，就降低雙腳高度。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/55ex_decline_push_up.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_upper"],
+        "secondary": ["deltoid_front", "triceps", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_chest_press",
+      "name": "纜繩推胸",
+      "description": "1. 將兩側滑輪高度都設在約胸部高度，雙手各握一個握把，掌心朝下。\n2. 採前後錯步站姿向前踏出，讓纜繩保持張力，雙手位於胸部高度、手肘彎曲於身體後方。\n3. 將兩個握把向前並略微向內推出，直到手臂在胸前伸直，末端收縮胸肌。\n4. 控制速度讓雙手回到胸部感受到伸展的位置，再推出進行下一次。",
+      "instructions": "1. 採錯步站姿並收緊核心；雙腳併攏平行站立很容易被纜繩往後拉走。\n2. 手肘與軀幹夾角維持約 45 度，不要完全朝正側方張開。\n3. 回程要主動對抗纜繩，不要讓它把手臂彈回身後——持續張力正是使用纜繩的意義。\n4. 肩膀維持下壓後收；若推到末端時肩膀開始前捲，應減輕重量。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/56ex_cable_chest_press.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_mid"],
+        "secondary": ["deltoid_front", "triceps"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_low_to_high_fly",
+      "name": "低位向上纜繩飛鳥",
+      "description": "1. 將兩側滑輪都設在最低位置，雙手各握一個握把，掌心朝前。\n2. 採前後錯步站姿向前踏出，雙臂向身體兩側打開、手肘微彎，讓纜繩將手臂往下後方拉。\n3. 沿弧線將雙手向上並向內揮動，直到在上胸前方、約鎖骨高度會合。\n4. 沿相同弧線控制速度下放，直到胸部感受到伸展，手肘角度全程固定。",
+      "instructions": "1. 手肘全程維持固定微彎；反覆彎曲伸直會讓飛鳥變成推的動作。\n2. 結束位置要高、在鎖骨前方；若只收到腹部高度，練到的是中胸而非上胸。\n3. 不要用身體後仰來帶動握把上揚。收緊核心、軀幹保持穩定，才能讓胸部發力。\n4. 使用較輕的重量並專注於收縮感；飛鳥用重量硬做只會變成肩膀承壓而非胸肌張力。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/57ex_cable_low_to_high_fly.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_upper"],
+        "secondary": ["deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_pec_deck_machine",
+      "name": "蝴蝶機夾胸",
+      "description": "1. 先調整座椅高度，讓坐直後握把或手臂護墊大約位於胸部高度。\n2. 整個背部貼緊靠墊坐好，雙腳平踩地面，前臂貼上護墊或握住握把。\n3. 收縮胸肌將兩側護墊往胸前夾合，在收縮最緊的位置稍作停留。\n4. 控制速度讓護墊向兩側打開至胸部感受到伸展，不要讓配重片自由落下撞擊。",
+      "instructions": "1. 先把座椅高度調好。握把高於或低於胸部高度會把負荷轉移到肩膀，並可能夾擠肩關節。\n2. 背部與肩膀貼緊靠墊；靠身體前傾離開椅背來多做幾下，練到的是肩膀而不是胸肌。\n3. 回程要主動控制，不要讓配重把手臂拉開，也不要讓配重片撞擊——那會突然拉扯伸展中的肩膀。\n4. 只打開到肩膀舒適的範圍；伸展更深並不代表更好，若夾擠到肩膀前側就該收小範圍。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/58ex_pec_deck_machine.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_mid"],
+        "secondary": ["deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_incline_chest_press_machine",
+      "name": "上斜推胸機",
+      "description": "1. 調整座椅高度，讓靠背坐好後握把對齊上胸、約在鎖骨稍下方的位置。\n2. 背部平貼靠墊坐好，雙腳踩穩，握住握把並讓手腕位於手肘正上方。\n3. 將握把向上前方推出直到手臂伸直，接近鎖死前停止。\n4. 控制速度將握把收回至上胸高度、胸部感受到伸展的位置。",
+      "instructions": "1. 先調好座椅高度——握把太低會變成平板推胸，太高則會讓前三角肌負荷過重。\n2. 肩胛骨維持後收貼緊靠墊；若推到末端時肩膀向前捲，應降低重量。\n3. 離心階段控制 2-3 秒，不要讓配重片自由落下發出撞擊聲。\n4. 器械固定了運動路徑，很容易加過重——只有在每一下都能維持穩定節奏時才增加重量。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/59ex_incline_chest_press_machine.webp",
+      "muscle_group_id": "default_chest",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["chest_upper"],
+        "secondary": ["deltoid_front", "triceps"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_single_arm_row",
+      "name": "單臂啞鈴划船",
+      "description": "1. 左手與左膝跪撐在平板椅上，右腳向後踩穩地面，右手持啞鈴自然垂放。\n2. 背部打平、大致與地面平行，雙肩保持水平，核心收緊。\n3. 以手肘向後拉過肋骨的方式將啞鈴拉向髖部，讓肩胛骨順勢往脊椎方向滑動。\n4. 控制速度下放至完全伸展，重複所需次數後換邊。",
+      "instructions": "1. 拉向髖部而非往正側方拉。拉到腋下會把發力從闊背肌轉移到上斜方肌。\n2. 雙肩維持水平，不要靠轉動軀幹把重量甩上來；若必須扭轉身體，代表啞鈴過重。\n3. 讓肩胛骨自然活動——底部向前伸展、頂部向內收緊，不要全程鎖死不動。\n4. 脊椎保持中立、頸部與背部同一直線；不要駝背弓腰，也不要抬頭後仰。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/60ex_dumbbell_single_arm_row.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "teres"],
+        "secondary": ["rhomboid", "biceps", "trap_mid"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_shrug",
+      "name": "啞鈴聳肩",
+      "description": "1. 站姿，雙腳與髖同寬，雙手各持一隻啞鈴垂放於身體兩側，手臂伸直、掌心朝向大腿。\n2. 收緊核心、挺起胸口，讓雙肩完全放鬆下沉，從伸展位置開始。\n3. 將雙肩垂直向上朝耳朵方向盡量提起，過程中手臂全程保持伸直。\n4. 在頂點稍作停留，再控制速度讓雙肩下沉回到完全伸展的起始位置。",
+      "instructions": "1. 只做垂直的上下聳肩。繞圈式轉肩會磨耗肩關節，卻不會增加斜方肌的訓練效果。\n2. 手臂保持伸直，讓肩膀完成全部的提舉；彎曲手肘會變成半途而廢的直立划船。\n3. 不要用膝蓋彈跳或身體後仰把重量甩起來——負荷應完全由斜方肌帶動。\n4. 頸部保持放鬆、下巴維持中立，不要向前突出或把頭往後仰。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/61ex_dumbbell_shrug.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["trap_upper"],
+        "secondary": ["trap_mid", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_bent_over_row",
+      "name": "槓鈴俯身划船",
+      "description": "1. 站姿，雙腳與髖同寬，雙手正握槓鈴置於腿部外側，握距約與肩同寬。\n2. 臀部向後推並向前屈髖，直到軀幹約 45 度或更低，背部打平、膝蓋微彎。\n3. 收緊核心，以手肘向後帶並夾緊肩胛骨的方式，將槓鈴拉向下肋骨或上腹部。\n4. 控制速度下放至手臂完全伸直，全組維持相同的軀幹角度。",
+      "instructions": "1. 軀幹角度要固定。拉的同時站起來會讓划船變成聳肩，並把負荷轉到下背。\n2. 每一下開始前先確實收緊核心、脊椎保持中立——在這種負荷下駝背弓腰是受傷的主因。\n3. 拉向下肋骨而非胸口，手肘向後帶而不是往兩側張開。\n4. 從能穩定控制的重量開始，不要用猛拉把槓鈴從腿上甩起；若每下都要靠臀部彈起啟動，就該減重。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/62ex_barbell_bent_over_row.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "rhomboid"],
+        "secondary": ["trap_mid", "biceps", "lower_back"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_shrug",
+      "name": "槓鈴聳肩",
+      "description": "1. 站姿，雙手正握槓鈴置於大腿前方，握距約與肩同寬，手臂伸直。\n2. 收緊核心、挺起胸口，雙肩完全放鬆下沉，讓斜方肌從伸展位置開始。\n3. 在不彎曲手肘的情況下，將雙肩垂直向上朝耳朵方向盡量提起。\n4. 於頂點停留，再控制速度讓雙肩下沉回到完全伸展的位置。",
+      "instructions": "1. 只移動肩膀、垂直上下；不要繞圈轉肩，也不要靠彎手肘幫忙把槓拉起。\n2. 不要用腿部彈跳帶動槓鈴。若需要下沉再蹬起才能移動，代表重量已超出斜方肌的能力。\n3. 使用大重量時從髖部高度的架上取槓，而不是每組都從地面硬舉起來。\n4. 若握力比斜方肌先失敗，可使用拉力帶；頸部保持放鬆，不要把下巴向前突出。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/63ex_barbell_shrug.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["trap_upper"],
+        "secondary": ["trap_mid", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_chin_up",
+      "name": "反手引體向上",
+      "description": "1. 雙手反握單槓（掌心朝向自己），握距約與肩同寬，起始為手臂完全伸直的懸吊姿勢。\n2. 彎曲手肘之前，先將肩胛骨向後下方收壓，像是要把肩胛骨收進後褲袋一樣。\n3. 以手肘向下朝肋骨方向下拉的方式將身體拉起，直到下巴超過槓面，全程維持核心微收的中空身體姿勢。\n4. 控制速度下放至手臂完全伸直，再開始下一次。",
+      "instructions": "1. 每一下都先以肩胛骨下壓啟動，而不是直接用手臂猛拉，才能保護肩關節並讓背部參與發力。\n2. 反握會比正握引體向上動用更多二頭肌，請先充分熱身手肘；若有手肘肌腱疼痛應避免此動作。\n3. 不要靠甩振或擺盪雙腿借力——核心收緊維持微收的中空身體姿勢。\n4. 每次都下放到完全懸吊，但要控制速度，不要直接墜落進入伸展位置。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/64ex_chin_up.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "biceps"],
+        "secondary": ["teres", "rhomboid", "brachialis"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_inverted_row",
+      "name": "反向划船",
+      "description": "1. 將槓鈴架在深蹲架上約髖部高度，仰躺於槓下，雙手正握、握距略寬於肩。\n2. 手臂伸直懸吊，腳跟置於地面，夾緊臀部與核心讓身體成一直線。\n3. 以手肘向後帶並夾緊肩胛骨的方式，將胸口拉向槓鈴。\n4. 控制速度下放至手臂完全伸直，全程維持身體同一直線。",
+      "instructions": "1. 臀部要抬起、與肩膀和腳跟成一直線；塌腰下沉會讓動作變成範圍不足的手臂拉舉。\n2. 用胸口去碰槓而不是用下巴——伸長脖子只是在掩飾不完整的次數。\n3. 想降低難度可把槓調高或屈膝踩地；想增加難度則把槓調低或將雙腳墊高。\n4. 確認槓鈴已穩固卡在架上，並在把體重掛上去之前確認它不會滾動或位移。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/65ex_inverted_row.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "rhomboid"],
+        "secondary": ["trap_mid", "biceps", "deltoid_rear"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_straight_arm_cable_pulldown",
+      "name": "直臂纜繩下拉",
+      "description": "1. 將滑輪設在最高位置並掛上直槓或繩索，雙手握住並使手臂在頭頂上方伸直。\n2. 向後退一步並略微屈髖，讓軀幹前傾約 20-30 度，手肘保持微彎。\n3. 保持手臂伸直，沿大弧線將握把下拉至大腿前方，底部收縮闊背肌。\n4. 控制速度沿相同弧線讓握把回到上方，直到闊背肌感受到伸展。",
+      "instructions": "1. 手肘固定維持微彎；反覆彎曲伸直會讓動作變成三頭肌下壓。\n2. 軀幹保持穩定、只在髖部屈曲。用身體前後晃動把握把壓下去會失去闊背肌的張力。\n3. 專注於將上臂往身體兩側下壓，而不是用雙手把握把推下去。\n4. 使用較輕的重量——這是闊背肌的單關節孤立動作，重量太大只會變成全身借力甩下握把。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/66ex_straight_arm_cable_pulldown.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat"],
+        "secondary": ["teres", "triceps", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_single_arm_row",
+      "name": "單臂纜繩划船",
+      "description": "1. 將滑輪設在約腰部高度並掛上單手握把，一手握住並使手臂向前伸直。\n2. 採前後錯步站姿向後退，讓纜繩保持張力，挺起胸口、收緊核心、雙肩保持水平。\n3. 以手肘拉過肋骨的方式將握把拉向髖部，讓肩胛骨順勢往脊椎方向滑動。\n4. 控制速度讓手臂向前伸直至闊背肌感受到伸展，重複所需次數後換邊。",
+      "instructions": "1. 雙肩要正對滑輪。靠扭轉軀幹來多拉一點會讓動作變成腹斜肌訓練而非划船。\n2. 讓肩胛骨自然活動——伸展末端向前延伸、收縮末端向內夾緊，不要全程鎖死。\n3. 拉向髖部並讓手肘靠近身體；手肘外張會把發力轉到後三角肌與上斜方肌。\n4. 回程要主動對抗纜繩，不要讓它把手臂彈向前方；核心收緊避免被拉離平衡。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/67ex_cable_single_arm_row.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "teres"],
+        "secondary": ["rhomboid", "biceps", "oblique"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_chest_supported_machine_row",
+      "name": "胸靠式划船機",
+      "description": "1. 調整座椅與胸靠護墊，讓軀幹貼上護墊時握把大約位於胸部中段高度。\n2. 胸口確實壓緊護墊坐好，雙腳踩穩，雙手握住握把並使手臂伸直。\n3. 以手肘拉過肋骨並夾緊肩胛骨的方式，將握把向後拉。\n4. 控制速度讓握把向前回到手臂完全伸直、上背感受到伸展的位置。",
+      "instructions": "1. 每一下都讓胸口貼緊護墊；用軀幹推離護墊來拉更重的重量，就失去了胸靠支撐的意義。\n2. 拉到末端要主動夾緊肩胛骨，而不是只彎曲手臂。\n3. 先調好座椅高度——握把太高會把發力拉到斜方肌，太低則會失去上背的收縮感。\n4. 回程要控制，不要讓配重把手臂往前拉走，也不要讓配重片在底部撞擊。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/68ex_chest_supported_machine_row.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["rhomboid", "lat"],
+        "secondary": ["trap_mid", "biceps", "deltoid_rear"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_assisted_pull_up_machine",
+      "name": "輔助引體向上機",
+      "description": "1. 先選定輔助配重，再踩上或跪上踏板，雙手握住頭頂橫槓、握距略寬於肩。\n2. 手臂完全伸直、肩膀向上伸展，核心收緊、身體保持直立。\n3. 先將肩胛骨向下收壓，再以手肘朝肋骨方向下拉的方式將身體拉起，直到下巴超過槓面。\n4. 控制速度下放至手臂完全伸直，再開始下一次。",
+      "instructions": "1. 記得配重的邏輯是相反的——輔助重量設得越高，動作越輕鬆，所以力量進步後要往下調。\n2. 和無輔助的引體向上一樣，以肩胛骨啟動而不是先用手臂拉。\n3. 軀幹保持直立、核心收緊，不要靠擺動臀部幫助踏板上升。\n4. 上下踏板時務必已插好配重銷；在有張力的狀態下離開踏板，護墊可能突然彈起。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/69ex_assisted_pull_up_machine.webp",
+      "muscle_group_id": "default_back",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["lat", "teres"],
+        "secondary": ["biceps", "rhomboid"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_hammer_curl",
+      "name": "啞鈴錘式彎舉",
+      "description": "1. 站姿，雙腳與髖同寬，雙手各持一隻啞鈴垂放於身體兩側，掌心朝內對著大腿。\n2. 手肘夾緊身體兩側，收緊核心，手腕保持中立且伸直。\n3. 全程維持掌心相對（如同握著兩把槌子）的姿勢將啞鈴彎舉向上。\n4. 於頂點稍作收縮，再控制速度下放至手臂完全伸直。",
+      "instructions": "1. 整個動作維持掌心相對——若旋轉成掌心朝上就變成一般彎舉，肱肌就練不到了。\n2. 手肘固定在身體兩側；一旦向前移動，前三角肌就會接手發力。\n3. 不要靠軀幹晃動或擺髖把重量甩起來，那會增加下背負擔並失去手臂張力。\n4. 每一下都下放到手臂完全伸直，不要只做一半。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/70ex_dumbbell_hammer_curl.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["brachialis", "biceps"],
+        "secondary": ["forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_overhead_triceps_extension",
+      "name": "啞鈴過頭三頭伸展",
+      "description": "1. 坐姿或站姿皆可，雙手掌心托住一隻啞鈴的上端，將其推舉至頭頂上方。\n2. 收緊核心，上臂靠近耳朵兩側，手肘朝前而非向外張開。\n3. 彎曲手肘將啞鈴下放至頭部後方，直到三頭肌感受到伸展。\n4. 伸直手肘將啞鈴推回頭頂上方，過程中上臂位置維持不變。",
+      "instructions": "1. 上臂固定在耳朵兩側——若推起時手肘向前擺動，代表是肩膀在發力。\n2. 手肘朝前而不要向外大幅張開，外張會讓手肘關節承受不均勻的壓力。\n3. 收緊核心，不要用拱腰借力把重量推起；過頭姿勢下特別容易出現這個問題。\n4. 從輕重量開始並控制下放速度——過頭伸展的底部位置是三頭肌腱負荷最大的地方。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/71ex_dumbbell_overhead_triceps_extension.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["deltoid_front", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_skull_crusher",
+      "name": "槓鈴仰臥臂屈伸",
+      "description": "1. 平躺於平板臥推椅上，雙手正握槓鈴或曲槓，握距約與肩同寬。\n2. 將槓鈴向上推至手臂伸直，再讓上臂略微向頭部方向後傾，並固定在該角度。\n3. 彎曲手肘將槓鈴下放至額頭或額頭稍上方，上臂位置全程鎖定不動。\n4. 伸直手肘將槓鈴推回起始位置，接近鎖死前停止。",
+      "instructions": "1. 上臂必須固定。手肘前後擺動會讓動作變成仰臥拉舉，就練不到三頭肌了。\n2. 上臂略微後傾能讓頂點仍保有三頭肌張力，而不是讓槓鈴的重量落在關節上。\n3. 若直槓會造成手腕不適可改用曲槓；疲勞時也要避免手肘向外大幅張開。\n4. 這個動作對手肘負擔較大——請充分熱身、重量適中，若出現關節疼痛（而非肌肉痠脹）應立即停止。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/72ex_barbell_skull_crusher.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["deltoid_front", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_close_grip_bench_press",
+      "name": "窄握槓鈴臥推",
+      "description": "1. 平躺於平板臥推椅上，雙腳踩穩，雙手握距約與肩同寬（不要更窄）。\n2. 肩胛骨向後下方收緊貼緊椅面，將槓鈴自架上取下移至下胸上方。\n3. 控制速度將槓鈴下放至下胸，手肘收緊靠近肋骨，不要向外張開。\n4. 沿相同路徑以三頭肌發力將槓鈴推回，直到手臂伸直。",
+      "instructions": "1. 握距維持約與肩同寬。比這更窄會對手腕與手肘產生很大的剪應力，卻不會增加三頭肌的訓練效果。\n2. 手肘全程收緊靠近身體；一旦外張就變回一般臥推。\n3. 手腕保持中立、位於手肘正上方——窄握姿勢下手腕特別容易後折。\n4. 重量要明顯低於一般臥推；使用大重量時務必有保護者或先設好安全槓。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/73ex_close_grip_bench_press.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["chest_mid", "deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_diamond_push_up",
+      "name": "鑽石伏地挺身",
+      "description": "1. 進入伏地挺身姿勢，雙手併攏置於胸部下方，讓拇指與食指圍成菱形（鑽石）。\n2. 收緊核心並夾緊臀部，讓身體從腳跟到頭部成一直線。\n3. 控制速度將胸部下降靠近雙手，手肘全程收緊貼近肋骨。\n4. 推起至手臂伸直，過程中維持骨盆水平、手肘貼近身體。",
+      "instructions": "1. 手肘要沿肋骨旁邊擦過而非向兩側張開；收緊的軌跡才是讓三頭肌承重的關鍵。\n2. 核心收緊、骨盆保持水平——塌腰或臀部拱起只是在掩飾動作範圍不足。\n3. 若雙手併攏會造成手腕不適，可將菱形略微張大，或改以拳撐、平行桿進行。\n4. 若無法控制地讓胸部碰到雙手，可先從跪姿或雙手墊高的版本開始。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/74ex_diamond_push_up.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["chest_mid", "deltoid_front", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_bench_dip",
+      "name": "椅上臂屈伸",
+      "description": "1. 坐在穩固的椅子邊緣，雙手放在髖部兩側的椅緣，手指朝前。\n2. 臀部滑出椅面，雙腿向前伸直、腳跟置於地面，手臂伸直支撐。\n3. 彎曲手肘讓臀部垂直向下降，直到上臂大約與地面平行。\n4. 以三頭肌發力推起至手臂伸直，全程讓背部貼近椅子。",
+      "instructions": "1. 背部貼近椅子並垂直下降；身體往前偏移會讓負荷落在肩膀前側而非三頭肌。\n2. 手肘朝正後方，不要向兩側張開。\n3. 上臂降到與地面平行即停止。這個姿勢會使肩關節內旋，下降過深是造成肩痛的常見原因。\n4. 想降低難度可屈膝，想增加難度可將雙腳墊在另一張椅子上；請使用不會滑動的椅子。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/75ex_bench_dip.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["deltoid_front", "chest_lower"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_biceps_curl",
+      "name": "纜繩彎舉",
+      "description": "1. 將滑輪設在最低位置並掛上直槓或曲槓，雙手反握，握距約與肩同寬。\n2. 距滑輪約一步的距離站立，讓纜繩保持張力，手肘夾緊身體兩側、核心收緊。\n3. 將握把彎舉向肩膀方向，手肘固定在身體兩側，手腕保持伸直。\n4. 控制速度下放至手臂完全伸直，全程主動對抗纜繩的拉力。",
+      "instructions": "1. 手肘固定在身體兩側。一旦向前移動，就會把工作交給前三角肌。\n2. 站的距離要足夠遠，讓底部仍保有張力；站太近會出現完全沒有阻力的死點。\n3. 不要靠身體後仰或擺髖幫忙——纜繩會往前拉，很容易讓人用整個身體去對抗。\n4. 離心階段要主動控制，不要讓配重把手臂拉下去，每一下都下放到完全伸直。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/76ex_cable_biceps_curl.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["biceps"],
+        "secondary": ["brachialis", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_overhead_triceps_extension",
+      "name": "纜繩過頭繩索三頭伸展",
+      "description": "1. 在低位滑輪掛上繩索，雙手各握一端，轉身背對機器讓繩索從肩膀後方向上延伸。\n2. 採前後錯步站姿向前踏出，雙手置於頭後方，上臂靠近耳朵兩側、手肘朝前。\n3. 伸直手肘將繩索向前上方推出至手臂在頭頂上方伸直，末端可將繩索兩端向外分開。\n4. 彎曲手肘控制速度讓雙手回到頭部後方，直到三頭肌感受到伸展。",
+      "instructions": "1. 上臂固定在耳朵兩側；若推的過程中手肘往前掉，代表已由肩膀接手發力。\n2. 採錯步站姿並收緊核心，避免被纜繩往後拉而導致拱腰。\n3. 手肘朝前、不要向外大幅張開，外張會讓手肘關節承受不均勻的負荷。\n4. 使用中等重量——過頭姿勢下三頭肌處於最長且最脆弱的狀態，控制比重量更重要。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/77ex_cable_overhead_triceps_extension.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["deltoid_front", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_machine_triceps_extension",
+      "name": "三頭肌伸展機",
+      "description": "1. 調整座椅高度，讓上臂放在護墊上時手肘對齊機器的轉軸位置。\n2. 背部貼緊靠墊坐好，前臂或雙手放在握把上，起始為手肘彎曲的姿勢。\n3. 伸直手肘將握把向外推出至手臂接近伸直，末端收縮三頭肌。\n4. 控制速度讓握把回到手肘完全彎曲、三頭肌感受到伸展的位置。",
+      "instructions": "1. 開始前先讓手肘對齊機器轉軸；轉軸不對齊會使每一下都在磨耗手肘關節。\n2. 上臂保持貼在護墊上、背部貼緊椅背，不要用身體重量壓向握把。\n3. 接近完全伸直前停止，以維持肌肉張力並減輕手肘關節負擔。\n4. 回程要控制，不要讓配重把手肘猛然折回，也不要讓配重片在底部撞擊。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/78ex_machine_triceps_extension.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_assisted_dip_machine",
+      "name": "輔助雙槓下推機",
+      "description": "1. 先選定輔助配重，再跪上或踩上踏板，雙手握住雙槓握把並使手臂伸直。\n2. 軀幹保持直立，肩膀主動下壓遠離耳朵，核心收緊。\n3. 彎曲手肘下降身體至上臂大約與地面平行，手肘全程貼近肋骨。\n4. 以三頭肌發力推回起始位置，接近鎖死前停止。",
+      "instructions": "1. 身體保持直立才能讓重點落在三頭肌——前傾會把發力轉移到下胸。\n2. 肩膀全程下壓遠離耳朵；肩膀聳起會在底部壓迫肩關節。\n3. 下降到上臂與地面平行即停止。再往下會在負重狀態下過度伸展肩關節前側囊。\n4. 記得輔助重量越高越輕鬆，隨力量進步要逐步下調；上下踏板前務必已插好配重銷。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/79ex_assisted_dip_machine.webp",
+      "muscle_group_id": "default_arms",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["triceps"],
+        "secondary": ["chest_lower", "deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_bulgarian_split_squat",
+      "name": "啞鈴保加利亞分腿蹲",
+      "description": "1. 站在臥推椅前方約 60 公分處，雙手各持一隻啞鈴，將一隻腳的腳背放在身後的椅面上。\n2. 前腳整個腳掌踩穩，重心落在腳掌中段，挺起胸口、收緊核心。\n3. 彎曲前腳膝蓋垂直向下蹲，直到前側大腿大約與地面平行、後膝接近地面。\n4. 以前腳發力踩地站起，完成該側所有次數後再換腿。",
+      "instructions": "1. 前後距離要調對：太近會迫使前膝過度超出腳尖，太遠則無法蹲到足夠深度。\n2. 垂直向下蹲，不要讓髖部前後移動；後腳的作用是維持平衡，而不是用來蹬地發力。\n3. 前膝方向與腳尖一致，疲勞時也不要讓膝蓋往內塌。\n4. 先用徒手版本掌握動作——通常是平衡先失敗而不是腿力，過早加啞鈴會破壞動作品質。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/80ex_dumbbell_bulgarian_split_squat.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "adductor", "glute_med"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_romanian_deadlift",
+      "name": "啞鈴羅馬尼亞硬舉",
+      "description": "1. 站姿，雙腳與髖同寬，雙手各持一隻啞鈴置於大腿前方，掌心朝向腿部。\n2. 膝蓋保持微彎（不鎖死），肩胛骨向後收，核心收緊、脊椎維持中立。\n3. 臀部向後推並向前屈髖，讓啞鈴沿著腿部下降，直到大腿後側感受到明顯伸展。\n4. 髖部向前推動站起，頂點收縮臀部，但不要向後過度後仰。",
+      "instructions": "1. 這是屈髖動作而非深蹲——臀部向後推、膝蓋角度大致固定，不要靠彎膝來下得更低。\n2. 下放深度由大腿後側柔軟度決定。一旦下背開始拱起就立刻停止，即使啞鈴還在膝蓋上方。\n3. 啞鈴要貼近腿部；一旦向前遠離身體，下背承受的負荷會成倍增加。\n4. 主動收緊闊背肌以維持上背穩定，頂點不要向後過度伸展。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/81ex_dumbbell_romanian_deadlift.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["hamstring", "glute_max"],
+        "secondary": ["lower_back", "lat"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_front_squat",
+      "name": "槓鈴前蹲舉",
+      "description": "1. 將槓鈴橫置於肩膀前側，採翻舉握法或交叉手臂固定，手肘抬高使上臂接近與地面平行。\n2. 雙腳約與肩同寬、腳尖略微外開，深吸一口氣並收緊核心。\n3. 膝與髖同時彎曲垂直向下蹲，軀幹盡量保持直立、手肘持續抬高。\n4. 下蹲至髖部摺線至少與膝蓋同高，再以整個腳掌踩地發力站起。",
+      "instructions": "1. 手肘全程抬高。手肘一掉下來，胸口就會向前塌，槓鈴也會從肩膀滑落。\n2. 軀幹要比背蹲舉直立得多——這正是把負荷轉移到股四頭肌的關鍵。\n3. 每一下前先深吸氣並確實收緊核心；前側負重的姿勢對軀幹的要求高於背蹲舉。\n4. 若手腕或肩膀活動度不足導致翻舉握法疼痛，改用交叉手臂或拉力帶，不要硬撐姿勢。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/82ex_barbell_front_squat.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["abs", "adductor", "trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_hip_thrust",
+      "name": "槓鈴臀推",
+      "description": "1. 坐在地面，上背靠住臥推椅，將加了護墊的槓鈴滾到髖部上方。\n2. 雙腳平踩地面、約與肩同寬，距離要讓動作頂點時小腿接近垂直。\n3. 下巴微收、核心收緊，以腳跟發力將髖部推起，直到軀幹與大腿成一直線。\n4. 頂點確實收縮臀部，再控制速度將髖部下放，過程中不要讓槓鈴落地休息。",
+      "instructions": "1. 頂點時髖部與膝蓋、肩膀成一直線即可——不要為了推更高而拱起下背。\n2. 下巴微收、肋骨下壓；頭部後仰加上腰部拱起會讓動作變成腰椎伸展。\n3. 務必使用槓鈴護墊或厚毛巾。沒有護墊時槓身會壓痛髖骨，往往被迫提早結束組數。\n4. 調整雙腳距離讓頂點時小腿垂直；腳太前面會變成大腿後側主導，太靠近則變成股四頭肌主導。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/83ex_barbell_hip_thrust.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "quad", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_glute_bridge",
+      "name": "臀橋",
+      "description": "1. 仰臥屈膝，雙腳平踩地面、約與髖同寬，腳跟距臀部約一個手掌長。\n2. 雙手放在身體兩側，下巴微收，下背輕輕貼向地面以收緊核心。\n3. 以腳跟發力將髖部推起，直到軀幹與大腿成一直線，頂點收縮臀部。\n4. 於頂點停留約一秒，再控制速度下放，組間不要完全放鬆。",
+      "instructions": "1. 用臀部而不是下背發力。若腰椎有感覺，請把肋骨下壓並降低推起的高度。\n2. 膝蓋方向與雙腳一致，頂點時不要讓膝蓋向外打開。\n3. 以腳跟而非腳尖發力，雙腳全程平貼地面。\n4. 若主要感覺在大腿後側，可將腳跟略微移近臀部。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/84ex_glute_bridge.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_reverse_lunge",
+      "name": "後跨弓步",
+      "description": "1. 站姿，雙腳與髖同寬，雙手置於髖部或胸前，核心收緊。\n2. 一腳向正後方跨出，以前腳掌著地，重心大部分維持在前腳上。\n3. 下降至前側大腿大約與地面平行、後膝略高於地面，軀幹保持直立。\n4. 以前腳發力收回站起，再換另一腳交替進行。",
+      "instructions": "1. 重心維持在前腳上。用後腳蹬地站起會讓動作變成以小腿帶動的踏步，而非腿部訓練。\n2. 向正後方跨出而非往側邊，骨盆保持正對前方。\n3. 軀幹保持直立、前膝方向對齊腳尖；不要讓膝蓋往內塌。\n4. 向後跨對膝蓋的壓力比向前跨小，若前跨弓步會造成膝蓋不適，可改做這個版本。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/85ex_reverse_lunge.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "glute_med"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_pull_through",
+      "name": "纜繩前拉髖屈伸",
+      "description": "1. 將滑輪設在最低位置並掛上繩索，背對機器站立，讓繩索從雙腿之間穿過。\n2. 向前走到纜繩產生張力，雙腳與肩同寬，背部打平向前屈髖。\n3. 讓纜繩把髖部往後帶，直到大腿後側感受到明顯伸展，手臂保持伸直、脊椎維持中立。\n4. 髖部向前發力站直，頂點確實收縮臀部，但不要向後後仰。",
+      "instructions": "1. 這是由臀部主導的屈髖動作——不要彎膝把它做成深蹲，也不要用手臂拉把它做成划船。\n2. 手臂保持伸直放鬆；它們只是連接纜繩的環節，不參與發力。\n3. 下背開始拱起時就停止屈髖，結束時站直即可，不要向後過度伸展。\n4. 纜繩是水平方向拉力，對脊椎的壓力比槓鈴屈髖小得多——若硬舉會造成下背不適，這是不錯的替代選擇。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/86ex_cable_pull_through.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_max", "hamstring"],
+        "secondary": ["lower_back", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_glute_kickback",
+      "name": "纜繩後踢臀",
+      "description": "1. 將滑輪設在最低位置，一腳套上腳踝綁帶，面對機器並扶住框架維持平衡。\n2. 支撐腳站直、膝蓋微彎，骨盆正對機器，核心收緊。\n3. 將綁帶側的腿沿弧線向後並略微向上踢出，末端收縮臀部。\n4. 控制速度對抗纜繩讓腿回到前方，完成該側所有次數後換腿。",
+      "instructions": "1. 骨盆保持正對前方、軀幹穩定。靠扭轉或前傾把腿踢更高會失去臀部的發力。\n2. 不要用拱下背來換取更多活動範圍——多出來的高度大多來自脊椎而非髖關節。\n3. 動作腿的膝關節角度大致固定，讓臀部負責髖伸展，而不是靠大腿後側彎曲膝蓋。\n4. 使用較輕的重量並在頂點停留；這是小肌群的孤立動作，收縮感比重量更重要。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/87ex_cable_glute_kickback.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "glute_med"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_hip_abduction",
+      "name": "站姿纜繩髖外展",
+      "description": "1. 將滑輪設在最低位置，把腳踝綁帶套在離機器較遠的那隻腳上，側身站立並扶住框架。\n2. 支撐腳站直、骨盆保持水平，核心收緊，動作腿略微交叉於身體前方。\n3. 將動作腿沿弧線向外側抬起，膝蓋保持伸直、腳尖朝正前方。\n4. 控制速度對抗纜繩讓腿回到起始位置，完成該側所有次數後換邊。",
+      "instructions": "1. 腳尖保持朝正前方。腳尖外轉會讓髖屈肌群取代臀中肌發力。\n2. 不要靠軀幹向反方向側傾來抬更高——骨盆維持水平、脊椎保持直立。\n3. 動作腿膝蓋保持伸直，讓動作發生在髖關節而不是膝關節。\n4. 使用較輕的重量與穩定節奏；臀中肌是小型穩定肌群，對張力持續時間的反應優於大重量。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/88ex_cable_hip_abduction.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["abductor", "glute_med"],
+        "secondary": ["glute_max"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_leg_extension_machine",
+      "name": "腿部伸展機",
+      "description": "1. 調整座椅，讓膝窩靠在椅墊邊緣，膝關節對齊機器的轉軸位置。\n2. 小腿護墊調到腳踝稍上方，背部貼緊靠墊坐好，雙手握住兩側握把。\n3. 伸直膝蓋將護墊向上抬起至雙腿接近伸直，頂點收縮股四頭肌。\n4. 控制速度下放至膝蓋完全彎曲，不要讓配重片自由落下。",
+      "instructions": "1. 膝關節要對齊機器轉軸；轉軸不對齊會讓每一下都對膝關節產生剪應力。\n2. 接近完全伸直前停止並改以收縮代替——用力把膝蓋對抗配重猛然打直會增加關節壓力。\n3. 背部貼緊靠墊，不要用抬起臀部離開座椅的方式把重量甩起來。\n4. 離心階段控制 2-3 秒，不要讓配重片墜落；若有膝蓋疼痛，請降低重量與活動範圍。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/89ex_leg_extension_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad"],
+        "secondary": ["hip_flex"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_hack_squat_machine",
+      "name": "哈克蹲機",
+      "description": "1. 進入器械，背部與髖部平貼靠墊，肩膀頂住肩部護墊。\n2. 雙腳與肩同寬踩在踏板上、腳尖略微外開，再解開安全卡榫。\n3. 彎曲膝與髖下降，直到大腿至少與踏板平行，全程背部貼緊靠墊。\n4. 以整個腳掌發力推回，接近膝蓋鎖死前停止。",
+      "instructions": "1. 全組維持下背與髖部平貼靠墊；底部讓髖部離開靠墊是造成下背受傷的主因。\n2. 膝蓋方向與腳尖一致，疲勞時也不要讓膝蓋往內塌。\n3. 以整個腳掌發力而非只用前腳掌，腳跟不要離開踏板。\n4. 加重前先確認安全卡榫的位置與扣回方式；接近鎖死前停止以維持股四頭肌張力。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/90ex_hack_squat_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "adductor"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_seated_calf_raise_machine",
+      "name": "坐姿小腿機",
+      "description": "1. 坐上器械，前腳掌踩在踏板上，膝蓋置於大腿護墊下方。\n2. 調整護墊使其穩固壓在大腿下段，再鬆開安全桿。\n3. 讓腳跟下降至踏板以下，直到小腿感受到充分伸展。\n4. 以前腳掌發力將腳跟盡量抬高，於頂點稍作停留。",
+      "instructions": "1. 因為膝蓋保持彎曲，這個版本會著重比目魚肌——站姿小腿舉較難充分刺激的深層小腿肌。\n2. 使用完整活動範圍：底部充分伸展、頂點確實收縮，不要做短程彈跳式的次數。\n3. 兩端各停留約一秒。在阿基里斯腱上彈跳是最快讓它發炎的方式。\n4. 雙腳保持朝正前方，重量變大時也不要讓腳踝向外翻。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/91ex_seated_calf_raise_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["soleus"],
+        "secondary": ["gastrocnemius"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_lateral_raise",
+      "name": "啞鈴側平舉",
+      "description": "1. 站姿，雙腳與髖同寬，雙手各持一隻啞鈴垂放於身體兩側，掌心朝向大腿。\n2. 收緊核心，手肘保持微彎，軀幹略微前傾幾度。\n3. 以手肘帶動將兩隻啞鈴向兩側抬起，直到上臂大約與肩同高。\n4. 控制速度下放回身體兩側，全程主動對抗重量。",
+      "instructions": "1. 以手肘帶動、手腕保持中立；用手先抬起會讓動作變成前三角肌的前平舉。\n2. 抬到肩膀高度即停止。再往上會把工作交給上斜方肌，並可能夾擠肩關節。\n3. 不要靠軀幹晃動或膝蓋彈跳把啞鈴甩起來；若需要借力，代表重量過重。\n4. 手肘微彎的角度固定，重量要比預期輕得多——側三角肌是小肌群，而這個動作力臂很長。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/92ex_dumbbell_lateral_raise.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_side"],
+        "secondary": ["deltoid_front", "trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_rear_delt_fly",
+      "name": "啞鈴俯身反向飛鳥",
+      "description": "1. 站姿，雙腳與髖同寬，雙手各持一隻啞鈴，向前屈髖直到軀幹接近與地面平行。\n2. 讓啞鈴自然垂放，掌心相對、手肘微彎，背部打平、核心收緊。\n3. 沿大弧線將兩隻啞鈴向兩側抬起，直到上臂與軀幹同高。\n4. 沿相同弧線控制速度下放，過程中軀幹完全保持不動。",
+      "instructions": "1. 軀幹必須固定。抬起時站起來會讓飛鳥變成直立划船，並把發力轉到斜方肌。\n2. 以手肘往兩側帶動，而不是把手肘往髖部方向後拉——後者會變成划船而非飛鳥。\n3. 頸部與脊椎保持同一直線，不要抬頭後仰；必要時可用額頭靠在椅墊上輔助。\n4. 使用很輕的啞鈴——後三角肌本身很小，而這個姿勢又完全沒有力學上的優勢。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/93ex_dumbbell_rear_delt_fly.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_rear"],
+        "secondary": ["rhomboid", "trap_mid"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_arnold_press",
+      "name": "阿諾推舉",
+      "description": "1. 坐姿或站姿皆可，雙手各持一隻啞鈴置於肩膀前方，掌心朝向自己、手肘內收。\n2. 收緊核心，肩胛骨向後下方收緊以穩定肩關節。\n3. 將啞鈴向上推舉的同時把掌心向外旋轉，結束時手臂伸直、掌心朝前。\n4. 下放時反向旋轉，回到掌心朝向自己的起始位置。",
+      "instructions": "1. 旋轉要平順地貫穿整個推舉過程，而不是先推起再於頂點扭轉；旋轉正是這個版本的重點。\n2. 核心全程收緊，不要用拱腰借力把啞鈴推起。\n3. 重量要比一般肩推更輕——旋轉會讓肩關節通過更大的活動範圍與較不穩定的位置。\n4. 若有肩關節夾擠病史應避免此動作，改做掌心相對的中立握推舉會較安全。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/94ex_arnold_press.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_front", "deltoid_side"],
+        "secondary": ["triceps", "trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_upright_row",
+      "name": "槓鈴直立划船",
+      "description": "1. 站姿，雙手正握槓鈴置於大腿前方，握距略寬於肩。\n2. 收緊核心、挺起胸口，手臂自然垂直，槓鈴貼近身體。\n3. 以手肘向上外側帶動的方式沿軀幹將槓鈴垂直上拉，上臂到達肩膀高度即停止。\n4. 控制速度將槓鈴下放回大腿前方，全程保持貼近身體。",
+      "instructions": "1. 上臂到肩膀高度就停止。把槓拉到下巴會迫使肩關節在活動範圍末端內旋，那是典型的夾擠姿勢。\n2. 握距採略寬於肩；窄握會讓夾擠風險明顯增加。\n3. 槓鈴貼近軀幹，不要靠擺髖或身體後仰借力上拉。\n4. 若肩膀前側或上方出現夾擠感，應停止並改做側平舉或面拉。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/95ex_barbell_upright_row.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_side", "trap_upper"],
+        "secondary": ["deltoid_front", "biceps"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_front_raise",
+      "name": "槓鈴前平舉",
+      "description": "1. 站姿，雙手正握槓鈴置於大腿前方，握距約與肩同寬。\n2. 收緊核心、挺起胸口，手肘保持極輕微的彎曲。\n3. 將槓鈴向前上方抬起至大約肩膀高度，手臂維持接近伸直。\n4. 控制速度將槓鈴下放回大腿前方，全程對抗重力。",
+      "instructions": "1. 抬到肩膀高度即停止；再往上會把工作交給斜方肌，對前三角肌並無額外幫助。\n2. 不要靠身體後仰或擺髖把槓甩起來——這是最常見的錯誤，且會增加下背負擔。\n3. 重量要比預期輕得多。手臂伸直形成很長的力臂，因此輕槓在這裡也會很吃力。\n4. 前三角肌在各種推類動作中已有大量參與，這個動作應視為低量的輔助訓練而非主項。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/96ex_barbell_front_raise.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_front"],
+        "secondary": ["deltoid_side", "trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_wall_handstand_push_up",
+      "name": "靠牆倒立伏地挺身",
+      "description": "1. 雙手撐地、間距略寬於肩，距牆面約一個手掌長，再向上蹬起成倒立，腳跟輕靠牆面。\n2. 夾緊臀部並收緊核心讓身體成一直線，肩膀主動向上推、遠離耳朵。\n3. 彎曲手肘控制速度將頭部下降靠近地面，直到頭頂輕觸地面。\n4. 推起至手臂完全伸直，過程中身體保持一直線、手肘略微朝前。",
+      "instructions": "1. 請透過屈體伏地挺身與靠牆倒立支撐逐步進階；直接嘗試完整次數是造成頭部著地跌倒的主因。\n2. 在頭部下方墊折疊軟墊或抱枕，並在嘗試第一下之前先練習如何往側邊安全脫離。\n3. 手肘朝前約 45 度，不要完全朝正側方張開。\n4. 核心與臀部全程收緊；讓背部拱起不僅更費力，也會增加下背負擔。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/97ex_wall_handstand_push_up.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_front", "deltoid_side"],
+        "secondary": ["triceps", "trap_upper", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_prone_y_raise",
+      "name": "俯臥 Y 字上舉",
+      "description": "1. 俯臥於地面或上斜臥推椅上，雙臂向頭頂前方伸展、與身體約成 45 度，形成 Y 字形。\n2. 拇指朝向天花板，下巴微收，雙臂完全放鬆置放。\n3. 以肩胛骨向下並向內收緊的方式將雙臂盡量抬離地面，手肘保持伸直。\n4. 於頂點停留約一秒，再控制速度下放雙臂。",
+      "instructions": "1. 以肩胛骨向下、向內收緊來啟動，而不是把肩膀往耳朵方向聳起。\n2. 下巴微收、額頭靠近地面；抬頭會讓動作變成頸部與下背的伸展。\n3. 先完全徒手練習。即使只加 1-2 公斤的槓片，也很容易讓斜方肌與下背代償。\n4. 肋骨保持下壓，不要用拱下背的方式抬高雙臂——動作應該來自肩胛骨。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/98ex_prone_y_raise.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_rear", "trap_mid"],
+        "secondary": ["rhomboid", "trap_upper", "lower_back"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_lateral_raise",
+      "name": "纜繩側平舉",
+      "description": "1. 將滑輪設在最低位置並掛上單手握把，側身站立，讓纜繩橫越身體前方。\n2. 以離機器較遠的那隻手握住握把，站直、核心收緊，手肘保持微彎。\n3. 以手肘帶動將手臂向側方抬起，直到上臂大約與肩同高。\n4. 控制速度對抗纜繩讓手臂橫過身體回到起始位置，完成該側所有次數後換邊。",
+      "instructions": "1. 抬到肩膀高度即停止；再往上會動用上斜方肌，並可能夾擠肩關節。\n2. 以手肘帶動、手腕保持中立，不要用手先抬起。\n3. 不要靠身體往反方向側傾來增加活動範圍——收緊核心，軀幹保持直立穩定。\n4. 纜繩能在啞鈴失去張力的底部位置持續給側三角肌張力，因此請使用輕重量與穩定節奏。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/99ex_cable_lateral_raise.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_side"],
+        "secondary": ["deltoid_front", "trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_reverse_fly",
+      "name": "纜繩反向飛鳥",
+      "description": "1. 將兩側滑輪都設在約肩膀高度，右手握左側握把、左手握右側握把，讓兩條纜繩交叉。\n2. 向後退到纜繩產生張力，站直、核心收緊，雙臂在胸前伸展。\n3. 沿大弧線將兩個握把向外後方拉開，直到雙臂與肩同高，並夾緊肩胛骨。\n4. 控制速度讓雙臂橫過身體回到前方，直到上背感受到伸展。",
+      "instructions": "1. 手肘固定維持微彎並以手肘向兩側帶動；反覆彎曲伸直會讓飛鳥變成推或划船。\n2. 身體保持直立，不要靠後仰或扭轉軀幹來把纜繩拉得更開。\n3. 肩膀維持下壓遠離耳朵——若拉到末端時斜方肌聳起，應減輕重量。\n4. 使用輕重量並刻意收縮；後三角肌對可控張力的反應優於大重量。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/100ex_cable_reverse_fly.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_rear"],
+        "secondary": ["rhomboid", "trap_mid"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_reverse_pec_deck",
+      "name": "反向蝴蝶機",
+      "description": "1. 調整座椅讓握把大約位於肩膀高度，面向靠墊坐下並將胸口貼緊靠墊。\n2. 雙手握住握把、手臂在身前伸展、手肘微彎，拇指朝上或掌心相對。\n3. 沿大弧線將兩個握把向外後方拉開，直到雙臂與肩同高，並夾緊肩胛骨。\n4. 控制速度讓握把回到前方至上背感受到伸展，不要讓配重片撞擊。",
+      "instructions": "1. 座椅要調到握把位於肩膀高度；太高會把發力拉到斜方肌，太低則會轉到闊背肌。\n2. 整組維持胸口貼緊靠墊。用身體推離靠墊來拉更重的重量，就失去了支撐的意義。\n3. 手肘角度固定，想像移動的是上臂而不是雙手。\n4. 肩膀維持下壓遠離耳朵並控制回程；讓配重把手臂往前拉走會拉傷後三角肌。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/101ex_reverse_pec_deck.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_rear"],
+        "secondary": ["rhomboid", "trap_mid"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_machine_lateral_raise",
+      "name": "側平舉機",
+      "description": "1. 調整座椅高度，讓靠墊坐直時肩關節對齊機器的轉軸位置。\n2. 背部貼緊靠墊坐好，上臂外側貼上手臂護墊，雙手輕握握把。\n3. 以上臂推抵護墊將手臂向外上方抬起，直到大約與肩同高。\n4. 控制速度下放至手臂回到身體兩側，過程中維持側三角肌張力。",
+      "instructions": "1. 開始前先讓肩關節對齊機器轉軸；轉軸不對齊會讓運動軌跡與肩膀互相對抗。\n2. 以上臂推抵護墊發力，而不是用力握緊握把——握太緊會讓手臂與斜方肌一起參與。\n3. 抬到肩膀高度即停止，肩膀維持下壓遠離耳朵，不要在頂點聳肩。\n4. 背部貼緊靠墊，組數變吃力時也不要靠晃動軀幹把護墊甩上去。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/102ex_machine_lateral_raise.webp",
+      "muscle_group_id": "default_shoulders",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["deltoid_side"],
+        "secondary": ["trap_upper"]
       },
       "targets": []
     }
