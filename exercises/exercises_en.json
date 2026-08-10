@@ -162,7 +162,7 @@
       "description": "1. Stand with feet slightly wider than shoulder-width, kettlebell on the floor about a foot in front of you.\n2. Hinge at the hips, not a squat, to grip the handle with both hands, keeping your back flat and shins nearly vertical.\n3. Hike the kettlebell back between your legs like a football snap, then drive your hips forward explosively to swing it up to chest height.\n4. Let the kettlebell float briefly at the top as your glutes lock out, then let it fall back into the next hike-and-hinge cycle.",
       "instructions": "1. Power comes from the hips snapping forward, not from the arms lifting or the knees squatting.\n2. Keep a long, neutral spine and a braced core throughout; a rounding lower back means the hinge has broken down.\n3. Keep the kettlebell close to your body on the backswing, tracking high into the inner thighs rather than down at the knees.\n4. Stop and reset if you can't maintain a flat back or feel the effort shift from your hips into your lower back.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/11ex_kettlebell_swing.webp",
-      "muscle_group_id": "default_legs",
+      "muscle_group_id": "default_hip",
       "equipment_type": "default_kettlebell",
       "training_type_id": "default_functional",
       "muscle_map": {
@@ -402,7 +402,7 @@
       "description": "1. Place a resistance band around your ankles or just above your knees, then stand with feet shoulder-width apart and bend your knees into a slight half-squat.\n2. Keep your chest up and core braced, maintaining tension in the band by keeping your feet wide throughout.\n3. Step sideways with one foot, then follow with the other, keeping the band taut and your feet from snapping together.\n4. Take 8-10 steps in one direction, then reverse and take 8-10 steps back the other way, staying in the half-squat the entire time.",
       "instructions": "1. Stay in the mini-squat position for the whole set; standing upright removes tension from the glutes.\n2. Push your knees outward against the band as you step; don't let them cave inward.\n3. Keep the band under tension at all times by never letting your feet fully come together.\n4. Move slowly and with control rather than rushing the steps, which reduces glute activation.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/27ex_resistance_band_lateral_walk.webp",
-      "muscle_group_id": "default_legs",
+      "muscle_group_id": "default_hip",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_functional",
       "muscle_map": {
@@ -1091,7 +1091,7 @@
       "name": "Close-Grip Barbell Bench Press",
       "description": "1. Lie back on a flat bench with your feet planted and grip the bar with your hands about shoulder-width apart, no narrower.\n2. Pull your shoulder blades back and down into the bench, then unrack the bar over your lower chest.\n3. Lower the bar under control to your lower chest, keeping your elbows tucked in close to your ribs rather than flared out.\n4. Press the bar back up along the same path until your elbows are extended, driving with your triceps.",
       "instructions": "1. Keep your hands about shoulder-width apart. A narrower grip than that puts a lot of shear stress on the wrists and elbows without adding triceps work.\n2. Keep your elbows tucked close to your body throughout; flaring them out turns this back into a regular bench press.\n3. Keep your wrists straight and stacked over your elbows -- the narrow grip makes it easy for them to fold backward.\n4. Use noticeably less weight than your regular bench press and work with a spotter or safety pins when going heavy.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/73ex_close_grip_barbell_bench_press.webp",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/73ex_close_grip_bench_press.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
@@ -1151,7 +1151,7 @@
       "name": "Cable Overhead Rope Triceps Extension",
       "description": "1. Attach a rope to a low pulley, grip both ends, and turn away from the machine so the rope runs up behind your shoulder.\n2. Step forward into a staggered stance and bring your hands behind your head with your upper arms beside your ears and elbows pointing forward.\n3. Extend your elbows to press the rope forward and up until your arms are straight overhead, spreading the rope ends apart at the end.\n4. Bend your elbows to let your hands travel back behind your head under control until you feel a stretch in your triceps.",
       "instructions": "1. Keep your upper arms fixed beside your ears; if your elbows drop forward as you press, your shoulders have taken over.\n2. Use a staggered stance and brace your core so the cable doesn't pull you backward and make you arch your lower back.\n3. Keep your elbows pointing forward instead of flaring wide, which loads the elbow joint unevenly.\n4. Use moderate weight -- the overhead position puts the triceps at its longest and most vulnerable, so control matters more than load.",
-      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/77ex_cable_overhead_rope_triceps_extension.webp",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/77ex_cable_overhead_triceps_extension.webp",
       "muscle_group_id": "default_arms",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
@@ -1242,7 +1242,7 @@
       "description": "1. Sit on the floor with your upper back against a bench and roll a padded barbell over your hips.\n2. Plant your feet flat about shoulder-width apart and close enough that your shins are near vertical at the top of the lift.\n3. Tuck your chin slightly, brace your core, and drive through your heels to lift your hips until your torso and thighs form a straight line.\n4. Squeeze your glutes hard at the top, then lower your hips back down under control without resting the bar on the floor.",
       "instructions": "1. Finish with your hips level with your knees and shoulders -- don't push past that into a lower-back arch to look higher.\n2. Keep your chin tucked and your ribs down; letting your head fall back and your back arch turns this into a lumbar extension.\n3. Use a barbell pad or thick towel. Without padding the bar digs painfully into your hip bones and you'll cut the set short.\n4. Adjust foot distance so your shins are vertical at the top; feet too far forward turns it into a hamstring lift, too close into a quad lift.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/83ex_barbell_hip_thrust.webp",
-      "muscle_group_id": "default_legs",
+      "muscle_group_id": "default_hip",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
       "muscle_map": {
@@ -1257,7 +1257,7 @@
       "description": "1. Lie on your back with your knees bent and feet flat on the floor about hip-width apart, heels roughly a hand's length from your glutes.\n2. Place your arms at your sides, tuck your chin slightly, and press your lower back gently toward the floor to brace your core.\n3. Drive through your heels to lift your hips until your torso and thighs form a straight line, squeezing your glutes at the top.\n4. Hold the squeeze for a second, then lower your hips back down under control without fully relaxing between reps.",
       "instructions": "1. Lift with your glutes, not your lower back. If you feel it in your lumbar spine, tuck your ribs down and reduce the height.\n2. Keep your knees tracking in line with your feet instead of letting them splay outward at the top.\n3. Push through your heels rather than your toes, and keep your feet flat on the floor throughout.\n4. If you feel it mostly in your hamstrings, bring your heels a little closer to your glutes.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/84ex_glute_bridge.webp",
-      "muscle_group_id": "default_legs",
+      "muscle_group_id": "default_hip",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_functional",
       "muscle_map": {
@@ -1287,7 +1287,7 @@
       "description": "1. Set a cable pulley to the lowest position, attach a rope, and face away from the machine with the rope passed between your legs.\n2. Walk forward until the cable is under tension, set your feet shoulder-width apart, and hinge forward with a flat back.\n3. Let the cable pull your hips back until you feel a strong stretch in your hamstrings, keeping your arms straight and your spine neutral.\n4. Drive your hips forward to stand tall, squeezing your glutes hard at the top without leaning backward.",
       "instructions": "1. This is a hip hinge driven by your glutes -- don't turn it into a squat by bending your knees or into a row by pulling with your arms.\n2. Keep your arms straight and relaxed; they are only a link to the cable, not part of the lift.\n3. Stop the hinge when your lower back starts to round, and finish standing tall rather than arching backward.\n4. Because the cable pulls horizontally, it is much easier on the spine than a barbell hinge -- a good option if deadlifts bother your back.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/86ex_cable_pull_through.webp",
-      "muscle_group_id": "default_legs",
+      "muscle_group_id": "default_hip",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
       "muscle_map": {
@@ -1302,7 +1302,7 @@
       "description": "1. Set a cable pulley to the lowest position, fit an ankle strap to one leg, and face the machine holding the frame for balance.\n2. Stand tall on your supporting leg with a slight knee bend, hips square to the machine, and core braced.\n3. Drive the strapped leg back and slightly up in a controlled arc, squeezing your glute at the end of the range.\n4. Let the leg return forward under control against the cable, then finish all reps before switching legs.",
       "instructions": "1. Keep your hips square and your torso still. Twisting or leaning forward to swing the leg higher takes the work off the glute.\n2. Don't arch your lower back to gain extra range -- most of the extra height comes from your spine, not your hip.\n3. Keep the working knee at a roughly fixed angle so your glute extends the hip rather than your hamstring bending the knee.\n4. Use light weight and pause at the top; this is a small isolation movement where the squeeze matters more than the load.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/87ex_cable_glute_kickback.webp",
-      "muscle_group_id": "default_legs",
+      "muscle_group_id": "default_hip",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
       "muscle_map": {
@@ -1317,7 +1317,7 @@
       "description": "1. Set a cable pulley to the lowest position, fit an ankle strap to the leg farther from the machine, and stand side-on holding the frame.\n2. Stand tall on your supporting leg with your hips level, core braced, and the working leg crossed slightly in front.\n3. Lift the working leg out to the side in a controlled arc, keeping your knee straight and your toes pointing forward.\n4. Lower the leg back across under control against the cable, then finish all reps before switching sides.",
       "instructions": "1. Keep your toes pointing forward. Rotating them outward lets your hip flexors take over from the glute med.\n2. Don't lean your torso away from the working leg to gain height -- keep your hips level and your spine upright.\n3. Keep the working knee straight so the movement happens at the hip rather than the knee.\n4. Use light weight and a controlled tempo; the glute med is a small stabilizer that responds to time under tension, not heavy loads.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/88ex_cable_hip_abduction.webp",
-      "muscle_group_id": "default_legs",
+      "muscle_group_id": "default_hip",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
       "muscle_map": {
