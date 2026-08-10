@@ -8,6 +8,7 @@
     "default_arms",
     "default_core",
     "default_legs",
+    "default_hip",
     "custom_forearm"
   ],
   "equipment_ids": [
