@@ -162,7 +162,7 @@
       "description": "1. Stand with feet slightly wider than shoulder-width, kettlebell on the floor about a foot in front of you.\n2. Hinge at the hips, not a squat, to grip the handle with both hands, keeping your back flat and shins nearly vertical.\n3. Hike the kettlebell back between your legs like a football snap, then drive your hips forward explosively to swing it up to chest height.\n4. Let the kettlebell float briefly at the top as your glutes lock out, then let it fall back into the next hike-and-hinge cycle.",
       "instructions": "1. Power comes from the hips snapping forward, not from the arms lifting or the knees squatting.\n2. Keep a long, neutral spine and a braced core throughout; a rounding lower back means the hinge has broken down.\n3. Keep the kettlebell close to your body on the backswing, tracking high into the inner thighs rather than down at the knees.\n4. Stop and reset if you can't maintain a flat back or feel the effort shift from your hips into your lower back.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/11ex_kettlebell_swing.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_kettlebell",
       "training_type_id": "default_functional",
       "muscle_map": {
@@ -402,7 +402,7 @@
       "description": "1. Place a resistance band around your ankles or just above your knees, then stand with feet shoulder-width apart and bend your knees into a slight half-squat.\n2. Keep your chest up and core braced, maintaining tension in the band by keeping your feet wide throughout.\n3. Step sideways with one foot, then follow with the other, keeping the band taut and your feet from snapping together.\n4. Take 8-10 steps in one direction, then reverse and take 8-10 steps back the other way, staying in the half-squat the entire time.",
       "instructions": "1. Stay in the mini-squat position for the whole set; standing upright removes tension from the glutes.\n2. Push your knees outward against the band as you step; don't let them cave inward.\n3. Keep the band under tension at all times by never letting your feet fully come together.\n4. Move slowly and with control rather than rushing the steps, which reduces glute activation.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/27ex_resistance_band_lateral_walk.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_functional",
       "muscle_map": {
@@ -1242,7 +1242,7 @@
       "description": "1. Sit on the floor with your upper back against a bench and roll a padded barbell over your hips.\n2. Plant your feet flat about shoulder-width apart and close enough that your shins are near vertical at the top of the lift.\n3. Tuck your chin slightly, brace your core, and drive through your heels to lift your hips until your torso and thighs form a straight line.\n4. Squeeze your glutes hard at the top, then lower your hips back down under control without resting the bar on the floor.",
       "instructions": "1. Finish with your hips level with your knees and shoulders -- don't push past that into a lower-back arch to look higher.\n2. Keep your chin tucked and your ribs down; letting your head fall back and your back arch turns this into a lumbar extension.\n3. Use a barbell pad or thick towel. Without padding the bar digs painfully into your hip bones and you'll cut the set short.\n4. Adjust foot distance so your shins are vertical at the top; feet too far forward turns it into a hamstring lift, too close into a quad lift.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/83ex_barbell_hip_thrust.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
       "muscle_map": {
@@ -1257,7 +1257,7 @@
       "description": "1. Lie on your back with your knees bent and feet flat on the floor about hip-width apart, heels roughly a hand's length from your glutes.\n2. Place your arms at your sides, tuck your chin slightly, and press your lower back gently toward the floor to brace your core.\n3. Drive through your heels to lift your hips until your torso and thighs form a straight line, squeezing your glutes at the top.\n4. Hold the squeeze for a second, then lower your hips back down under control without fully relaxing between reps.",
       "instructions": "1. Lift with your glutes, not your lower back. If you feel it in your lumbar spine, tuck your ribs down and reduce the height.\n2. Keep your knees tracking in line with your feet instead of letting them splay outward at the top.\n3. Push through your heels rather than your toes, and keep your feet flat on the floor throughout.\n4. If you feel it mostly in your hamstrings, bring your heels a little closer to your glutes.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/84ex_glute_bridge.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_functional",
       "muscle_map": {
@@ -1287,7 +1287,7 @@
       "description": "1. Set a cable pulley to the lowest position, attach a rope, and face away from the machine with the rope passed between your legs.\n2. Walk forward until the cable is under tension, set your feet shoulder-width apart, and hinge forward with a flat back.\n3. Let the cable pull your hips back until you feel a strong stretch in your hamstrings, keeping your arms straight and your spine neutral.\n4. Drive your hips forward to stand tall, squeezing your glutes hard at the top without leaning backward.",
       "instructions": "1. This is a hip hinge driven by your glutes -- don't turn it into a squat by bending your knees or into a row by pulling with your arms.\n2. Keep your arms straight and relaxed; they are only a link to the cable, not part of the lift.\n3. Stop the hinge when your lower back starts to round, and finish standing tall rather than arching backward.\n4. Because the cable pulls horizontally, it is much easier on the spine than a barbell hinge -- a good option if deadlifts bother your back.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/86ex_cable_pull_through.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
       "muscle_map": {
@@ -1302,7 +1302,7 @@
       "description": "1. Set a cable pulley to the lowest position, fit an ankle strap to one leg, and face the machine holding the frame for balance.\n2. Stand tall on your supporting leg with a slight knee bend, hips square to the machine, and core braced.\n3. Drive the strapped leg back and slightly up in a controlled arc, squeezing your glute at the end of the range.\n4. Let the leg return forward under control against the cable, then finish all reps before switching legs.",
       "instructions": "1. Keep your hips square and your torso still. Twisting or leaning forward to swing the leg higher takes the work off the glute.\n2. Don't arch your lower back to gain extra range -- most of the extra height comes from your spine, not your hip.\n3. Keep the working knee at a roughly fixed angle so your glute extends the hip rather than your hamstring bending the knee.\n4. Use light weight and pause at the top; this is a small isolation movement where the squeeze matters more than the load.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/87ex_cable_glute_kickback.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
       "muscle_map": {
@@ -1317,7 +1317,7 @@
       "description": "1. Set a cable pulley to the lowest position, fit an ankle strap to the leg farther from the machine, and stand side-on holding the frame.\n2. Stand tall on your supporting leg with your hips level, core braced, and the working leg crossed slightly in front.\n3. Lift the working leg out to the side in a controlled arc, keeping your knee straight and your toes pointing forward.\n4. Lower the leg back across under control against the cable, then finish all reps before switching sides.",
       "instructions": "1. Keep your toes pointing forward. Rotating them outward lets your hip flexors take over from the glute med.\n2. Don't lean your torso away from the working leg to gain height -- keep your hips level and your spine upright.\n3. Keep the working knee straight so the movement happens at the hip rather than the knee.\n4. Use light weight and a controlled tempo; the glute med is a small stabilizer that responds to time under tension, not heavy loads.",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/88ex_cable_hip_abduction.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
       "muscle_map": {
@@ -1533,6 +1533,381 @@
       "muscle_map": {
         "primary": ["deltoid_side"],
         "secondary": ["trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_sumo_deadlift",
+      "name": "Barbell Sumo Deadlift",
+      "description": "1. Set your feet in a wide stance with your toes turned out about 30-45 degrees, the bar over your midfoot and your shins close to vertical.\n2. Push your hips back and bend your knees to reach the bar, gripping inside your legs at roughly shoulder-width with straight arms and your shoulders about over the bar.\n3. Lift your chest, brace your core and lats, pull the slack out of the bar, then push your knees out toward your toes and spread the floor with your feet as you start the lift.\n4. Keep your hips and shoulders rising together with the bar traveling straight up along your legs, stand until your hips and knees lock out, then lower along the same path under control.",
+      "instructions": "1. Pull the slack out of the bar (arms straight, the gap between plates and bar closed) before you drive; yanking it off the floor jolts your back.\n2. Push your knees out toward your toes the whole lift; letting them cave in stops your hips from opening and stalls the bar.\n3. The sumo stance puts your torso more upright and your hips lower, but your spine still stays neutral -- don't round your back to break the bar off the floor.\n4. Don't drop your hips below your knees at the start (that turns it into a squat), and don't lean back at lockout.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/103ex_barbell_sumo_deadlift.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max", "adductor"],
+        "secondary": ["hamstring", "lower_back", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_good_morning",
+      "name": "Barbell Good Morning",
+      "description": "1. Rest the bar across your upper traps as you would for a high-bar squat, feet hip-width apart, knees softly bent rather than locked.\n2. Take a deep breath, brace your core, and pull your shoulder blades back so the bar sits securely against your upper back.\n3. Push your hips straight back and hinge your torso forward with a neutral spine until you feel a strong stretch in your hamstrings (roughly torso parallel to the floor, or as far as your mobility allows).\n4. Squeeze your glutes and drive your hips forward to stand back up to the starting position.",
+      "instructions": "1. This is a hip hinge, not a squat: keep your knee angle roughly fixed and let your hips travel backward.\n2. Start very light, even with an empty bar. The long lever is unforgiving, and adding weight too fast is a common way to hurt your lower back.\n3. Only hinge as far as you can hold a neutral spine, and stand back up the moment your lower back starts to round.\n4. The bar must sit on the muscle of your upper back, never on your neck; pressure on your neck means the bar is too high.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/104ex_barbell_good_morning.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["hamstring", "glute_max"],
+        "secondary": ["lower_back", "adductor"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_glute_bridge",
+      "name": "Barbell Glute Bridge",
+      "description": "1. Lie flat on the floor with your knees bent and feet planted hip-width apart, heels about a hand's width from your glutes.\n2. Roll a padded barbell over your hips so it sits across your pelvis, and hold the bar in place with both hands.\n3. Tuck your chin slightly, brace your core, and drive through your heels to lift your hips until your torso and thighs form a straight line, squeezing your glutes for a second at the top.\n4. Lower your hips under control until your glutes lightly touch the floor without fully relaxing, then start the next rep.",
+      "instructions": "1. Finish with your hips in line with your knees and shoulders; don't arch your lower back to gain extra height.\n2. Keep your chin tucked and your ribs down so your head doesn't fall back and drive your lumbar spine into extension.\n3. Always use a barbell pad or a thick towel -- without one the bar digs painfully into your hip bones and cuts the set short.\n4. Bridging from the floor gives a shorter range than the bench-supported hip thrust; switch to the hip thrust when you want more range and heavier loading.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/105ex_barbell_glute_bridge.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "quad", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_step_up",
+      "name": "Dumbbell Step-Up",
+      "description": "1. Hold a dumbbell in each hand at your sides and stand facing a stable box or step roughly knee height.\n2. Place one foot flat on the box with your knee tracking over your toes, chest up and core braced.\n3. Drive through the heel of the foot on the box to stand up, letting your trailing foot leave the floor, and pause steadily at the top.\n4. Lower your trailing foot back to the floor under control, then finish all reps before switching legs.",
+      "instructions": "1. Drive with the leg on the box; don't push off the floor with your trailing foot to help yourself up.\n2. Keep your whole front foot on the box rather than letting your heel hang off the edge.\n3. Pick a box height you can use while keeping your hips level and your knee from caving in; too high forces you to lean forward and lets the knee collapse inward.\n4. Step down under control instead of jumping off or dropping onto the floor.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/106ex_dumbbell_step_up.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "glute_med"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_single_leg_romanian_deadlift",
+      "name": "Dumbbell Single-Leg Romanian Deadlift",
+      "description": "1. Hold a dumbbell in one hand (or both) and stand on your supporting leg with a soft bend in that knee.\n2. Push your hips back and extend your free leg straight behind you, hinging at the hip so your body tips like a seesaw.\n3. Lower until your torso and rear leg are close to parallel with the floor and you feel a strong stretch in the supporting hamstring, keeping the dumbbell tracking close to your leg.\n4. Squeeze your glute and drive your hips forward to stand tall, then finish all reps before switching legs.",
+      "instructions": "1. Keep your hips square and facing the floor; don't let the hip of your rear leg rotate open to the side.\n2. Hold the supporting knee at a fixed soft bend instead of letting it bend further and turning this into a single-leg squat.\n3. Keep a neutral spine throughout -- once your lower back starts to round you've gone past your usable range.\n4. If balance is the limiting factor, rest your free hand lightly on a wall or rack and groove the movement before adding load.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/107ex_dumbbell_single_leg_romanian_deadlift.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["hamstring", "glute_max"],
+        "secondary": ["lower_back", "glute_med"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_sumo_squat",
+      "name": "Dumbbell Sumo Squat",
+      "description": "1. Stand with a wide stance about 1.5 times shoulder-width and toes turned out 30-45 degrees, holding one end of a single dumbbell with both hands so it hangs in front of you.\n2. Lift your chest, brace your core, and keep your spine neutral.\n3. Bend your hips and knees to squat straight down, pushing your knees out over your toes, until your thighs are parallel to the floor or as far as your mobility allows.\n4. Drive through your whole foot to stand up, squeezing your glutes and inner thighs at the top.",
+      "instructions": "1. Keep your knees tracking out over your toes; letting them cave in from a wide stance puts unwanted stress on your adductors and knees.\n2. Keep your torso upright and move straight up and down rather than pushing your hips back like a deadlift.\n3. Match the toe angle to your own hip mobility -- if your heels are forced off the floor, your stance is too wide.\n4. Let the dumbbell hang between your legs without swinging it, and cut the depth short as soon as your pelvis starts to tuck under at the bottom.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/108ex_dumbbell_sumo_squat.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max", "adductor"],
+        "secondary": ["hamstring"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_standing_calf_raise",
+      "name": "Dumbbell Standing Calf Raise",
+      "description": "1. Hold a dumbbell in each hand at your sides with feet hip-width apart, either flat on the floor or with the balls of your feet on a step or weight plate for a deeper stretch.\n2. Keep your knees mostly straight and your core braced, using one hand on a wall for balance if needed.\n3. Rise slowly onto the balls of your feet as high as you can and squeeze your calves hard for 1-2 seconds at the top.\n4. Lower your heels under control, letting them drop below your toes if you're standing on a step for a full stretch.",
+      "instructions": "1. Move slowly and pause at the top instead of bouncing the weight out of the bottom.\n2. Keep your ankles tracking straight up and down rather than rolling inward or outward.\n3. Keep your knees mostly straight; bending them shifts the load to the soleus, which is what the seated calf raise trains.\n4. If your grip fails before your calves do, use lifting straps or switch to a machine calf raise.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/109ex_dumbbell_standing_calf_raise.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["gastrocnemius"],
+        "secondary": ["soleus", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_wall_sit",
+      "name": "Wall Sit",
+      "description": "1. Stand with your back flat against a wall and walk your feet out about 50-60 cm, feet shoulder-width apart.\n2. Slide down the wall until your thighs are parallel to the floor and your knees are bent to about 90 degrees.\n3. Adjust your foot position so your shins are vertical and your knees sit directly above your ankles, arms hanging at your sides or crossed over your chest.\n4. Keep your upper and lower back pressed against the wall and hold the position, breathing evenly, until you reach your target time.",
+      "instructions": "1. Keep your knees stacked over your ankles rather than out past your toes; if they drift forward, walk your feet further from the wall.\n2. Breathe normally throughout instead of holding your breath.\n3. Keep your lower back in contact with the wall the whole time; don't slide your hips up to make the hold easier.\n4. Keep your knees tracking over your toes and end the set once they start caving inward from fatigue.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/110ex_wall_sit.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["quad"],
+        "secondary": ["glute_max", "hamstring", "adductor"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_single_leg_glute_bridge",
+      "name": "Single-Leg Glute Bridge",
+      "description": "1. Lie on your back with your arms at your sides, one knee bent and that foot planted about a hand's width from your glutes.\n2. Lift the other leg, either drawing the knee toward your chest or holding the leg straight in line with your thigh.\n3. Drive through the heel of your planted foot to lift your hips until your torso and thigh form a straight line, squeezing your glute for 1-2 seconds at the top.\n4. Lower your hips under control until they lightly touch the floor, then finish all reps before switching legs.",
+      "instructions": "1. Keep your hips level throughout; don't let the side with the raised leg drop or rotate.\n2. Push through your heel -- pressing through the ball of your foot shifts the work to the hamstring and tends to cramp it.\n3. Stop where your torso and thigh line up instead of arching your lower back for extra height.\n4. If your hamstring fatigues before your glute, move your heel slightly closer to your glutes and focus on squeezing the glute at the top.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/111ex_single_leg_glute_bridge.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "glute_med", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_jump_squat",
+      "name": "Jump Squat",
+      "description": "1. Stand with feet shoulder-width apart and toes slightly out, hands in front of your chest or relaxed at your sides.\n2. Bend your hips and knees into a quarter to half squat while swinging your arms back to load the jump.\n3. Drive explosively through your whole foot to jump straight up, swinging your arms up to help, and extend your body fully in the air.\n4. Land on the balls of your feet and immediately absorb the landing by bending your knees and hips back into the squat, then go into the next rep.",
+      "instructions": "1. Always absorb the landing by bending your knees; landing with straight legs sends the impact straight into your knee joints.\n2. Land quietly -- a loud landing means you aren't absorbing enough of the impact.\n3. Keep your knees tracking over your toes on both the jump and the landing rather than letting them collapse inward.\n4. This is a power exercise, so quality beats quantity; end the set once your form breaks down or your landings lose control.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/112ex_jump_squat.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "gastrocnemius"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_nordic_hamstring_curl",
+      "name": "Nordic Hamstring Curl",
+      "description": "1. Kneel on a pad with your knees hip-width apart and have a partner hold your ankles down, or hook your ankles securely under a fixed piece of equipment.\n2. Hold a straight line from your knees to your shoulders with your glutes squeezed and core braced so your hips don't sit back.\n3. Use your hamstrings to lower your body forward as slowly as you can, keeping that straight line the whole way.\n4. When you can no longer control the descent, catch yourself with your hands and push off the floor to help yourself back to the start.",
+      "instructions": "1. Hold the knees-to-shoulders line for the whole rep; letting your hips hinge back takes the load off the hamstrings.\n2. Keep your hands ready in front of your chest so you can catch yourself instead of landing on your face.\n3. The eccentric load here is extremely high -- beginners should start with a small range or use a band or their hands to share the load.\n4. Keep the reps low and expect significant delayed-onset soreness; check with a professional first if you have a history of hamstring strains.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/113ex_nordic_hamstring_curl.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["hamstring"],
+        "secondary": ["glute_max", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_donkey_kick",
+      "name": "Donkey Kick",
+      "description": "1. Get on all fours with your hands under your shoulders and your knees under your hips, spine neutral.\n2. Brace your core to lock your torso in place and keep one knee bent at about 90 degrees.\n3. Drive that heel up toward the ceiling until your thigh is roughly in line with your torso, squeezing your glute for a second at the top.\n4. Lower back under control without letting the knee touch down, then finish all reps before switching legs.",
+      "instructions": "1. Lift with your glute rather than by arching your lower back -- lumbar extension is the most common way this exercise gets fudged.\n2. Keep your hips square to the floor instead of rotating them open to get the leg higher.\n3. Hold the working knee at about 90 degrees so the hip does the extending rather than kicking the lower leg straight.\n4. Stop when your thigh lines up with your torso; any further just moves the motion into your lumbar spine.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/114ex_donkey_kick.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_hip_adduction",
+      "name": "Standing Cable Hip Adduction",
+      "description": "1. Set a cable pulley to the lowest position, fit an ankle strap to the leg closest to the machine, and stand side-on holding the frame for balance.\n2. Stand tall on your supporting leg with your hips level and core braced, letting the cable pull the working leg out to the side into the start position.\n3. Keep the working knee straight and pull that leg across toward your midline and slightly past your supporting leg, feeling your inner thigh contract.\n4. Let the leg return out to the side under control while keeping tension on the cable, then finish all reps before switching sides.",
+      "instructions": "1. Pull with your inner thigh rather than leaning or twisting your torso to swing the leg across.\n2. Keep your hips level and your supporting foot planted so your hips don't sway side to side.\n3. Start light and control the return; adductors are vulnerable in the lengthened position and get strained when the weight yanks them open.\n4. Keep the working knee straight so the movement happens at the hip rather than the knee.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/115ex_cable_hip_adduction.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["adductor"],
+        "secondary": ["abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_lying_leg_curl_machine",
+      "name": "Lying Leg Curl Machine",
+      "description": "1. Lie face down on the machine and position yourself so your knees sit just past the edge of the pad and line up with the machine's pivot point.\n2. Set the roller pad against the back of your lower legs just above your ankles, grip the handles, and keep your hips pressed into the pad.\n3. Contract your hamstrings to bend your knees and pull your heels toward your glutes, pausing briefly to squeeze at the top.\n4. Lower under control until your knees are nearly straight, without letting the weight stack slam down.",
+      "instructions": "1. Keep your hips and pelvis down on the pad for the whole set; lifting them to curl higher loads your lower back.\n2. Check that your knees line up with the machine's pivot and that the pad sits above your ankles rather than on your Achilles tendon.\n3. Control the lowering phase so your hamstrings take the eccentric load instead of letting the weight throw your legs back down.\n4. If you cramp easily, drop the weight, slow the tempo, and make sure you've warmed up properly beforehand.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/116ex_lying_leg_curl_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["hamstring"],
+        "secondary": ["gastrocnemius", "glute_max"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_hip_abduction_machine",
+      "name": "Seated Hip Abduction Machine",
+      "description": "1. Sit on the machine with your back against the pad and place the outsides of your knees against the moving pads.\n2. Set the starting width to suit your mobility (usually legs together or slightly apart) and hold the handles beside the seat.\n3. Brace your core and press your knees outward to the end of your comfortable range, pausing for a second and squeezing your outer glutes.\n4. Let your legs return under control while keeping tension on the stack, without letting the plates bang together.",
+      "instructions": "1. Keep your back against the pad; rocking your torso forward or backward to fling your legs open takes the work off the glute med.\n2. Return slowly and under control instead of letting the weight snap your legs back in.\n3. Choose a starting width that doesn't pull on your groin rather than forcing the widest possible start position.\n4. This is a small-muscle isolation exercise, so a weight you can move through the full range and pause at the end beats piling on plates.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/117ex_hip_abduction_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_med", "abductor"],
+        "secondary": ["glute_max"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_hip_adduction_machine",
+      "name": "Seated Hip Adduction Machine",
+      "description": "1. Sit on the machine with your back against the pad and rest the insides of your thighs against the moving pads.\n2. Set the starting angle so you feel a light stretch without any pulling in your groin, and hold the handles beside the seat.\n3. Brace your core and squeeze your knees together with your inner thighs, pausing for a second at the end.\n4. Let your legs open back to the start under control while keeping tension on the stack.",
+      "instructions": "1. Don't set the widest starting angle right away; adductors are easiest to strain in an over-lengthened position.\n2. Return slowly and under control rather than letting the weight pull your legs apart quickly.\n3. Keep your back against the pad and your pelvis stable instead of rocking your torso for momentum.\n4. Use a weight you can control through the full range; too heavy and you'll end up holding your breath and compensating with your torso.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/118ex_hip_adduction_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["adductor"],
+        "secondary": ["abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_hip_thrust_machine",
+      "name": "Hip Thrust Machine",
+      "description": "1. Sit into the hip thrust machine with your upper back against the back pad, then set the lap belt or pad over your hips and secure it.\n2. Place your feet shoulder-width apart on the platform, positioned so your shins are near vertical at the top of the movement.\n3. Tuck your chin slightly, brace your core, and drive through your heels to push your hips forward until your torso and thighs form a straight line, squeezing your glutes for a second.\n4. Lower back toward the start position under control, keeping tension before the next rep.",
+      "instructions": "1. Finish with your hips in line with your knees and shoulders; don't arch your lower back to push higher.\n2. Keep your chin tucked and your ribs down so your head doesn't fall back into lumbar extension.\n3. Adjust your foot placement on the platform: too far forward shifts the work to the hamstrings, too close shifts it to the quads.\n4. The machine removes the balancing act of a loaded barbell, which makes going heavy easier and safer -- just confirm the belt and back pad are adjusted and locked before you start.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/119ex_hip_thrust_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "quad"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_standing_calf_raise_machine",
+      "name": "Standing Calf Raise Machine",
+      "description": "1. Step onto the machine platform with the balls of your feet on the edge and your heels hanging free, shoulders under the shoulder pads.\n2. Set the pad height so you can stand tall with your knees roughly straight in the starting position.\n3. Lower your heels slowly to the bottom for a full calf stretch, then press up onto the balls of your feet as high as you can and hold for 1-2 seconds.\n4. Repeat under control, keeping your knees roughly straight and your torso upright throughout.",
+      "instructions": "1. Keep your knees mostly straight; bending them shifts the load onto the soleus, which is what seated calf raises train.\n2. Use the full range from a deep stretch to a full contraction instead of bouncing through a short middle range.\n3. Keep your ankles tracking straight up and down rather than rolling in or out.\n4. Set the pad so you can stand upright; too low forces you to hunch forward and adds unnecessary load to your lower back.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/120ex_standing_calf_raise_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["gastrocnemius"],
+        "secondary": ["soleus"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_kettlebell_sumo_deadlift",
+      "name": "Kettlebell Sumo Deadlift",
+      "description": "1. Place the kettlebell on the floor between your feet, in line with your midfoot, and take a wide stance with your toes turned out about 30 degrees.\n2. Push your hips back and bend your knees to grip the handle with both hands, chest up, core braced, and shoulders slightly over the bell.\n3. Drive through your whole foot with your knees pushing out toward your toes, letting your hips and shoulders rise together, and stand until your hips and knees are fully extended.\n4. Reverse the movement by hinging and bending your knees to lower the bell back to the floor under control.",
+      "instructions": "1. Keep a neutral spine throughout; don't round your back to reach the bell.\n2. Push your knees out in line with your toes rather than letting them cave in.\n3. Keep the bell in line with your midfoot -- the further it drifts from your body, the more it loads your lower back.\n4. This is a good entry point to deadlifting; once the hinge feels natural, progress to the barbell version.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/121ex_kettlebell_sumo_deadlift.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_kettlebell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_max", "quad"],
+        "secondary": ["hamstring", "adductor", "lower_back"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_kettlebell_front_rack_squat",
+      "name": "Kettlebell Front Rack Squat",
+      "description": "1. Clean a kettlebell into each hand to the front rack position: handles close to your collarbones, bells resting on the outside of your forearms, elbows tucked against your ribs.\n2. Set your feet shoulder-width apart with toes slightly out, chest up, core braced, and wrists neutral rather than bent back.\n3. Bend your hips and knees to squat straight down with your knees pushing out over your toes, going at least to thighs parallel.\n4. Drive through your whole foot to stand back up, keeping your elbows tucked and your torso upright throughout.",
+      "instructions": "1. Keep your elbows tucked against your ribs; letting them flare out pulls your torso forward under the bells.\n2. Keep your wrists neutral so the bells rest on your forearms instead of being held up by bent-back wrists.\n3. The front rack restricts your breathing, so re-brace between reps rather than holding your breath for the whole set.\n4. If you can't clean the bells into a stable rack position, build up with the single-kettlebell goblet squat first.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/122ex_kettlebell_front_rack_squat.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_kettlebell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["abs", "adductor", "deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_resistance_band_glute_bridge",
+      "name": "Resistance Band Glute Bridge",
+      "description": "1. Loop a mini band just above your knees and lie on your back with knees bent, feet hip-width apart and heels about a hand's width from your glutes.\n2. Rest your arms at your sides, brace your core, and press your knees outward against the band.\n3. Drive through your heels to lift your hips until your torso and thighs form a straight line, squeezing your glutes for 1-2 seconds while still pushing your knees out.\n4. Lower under control until your glutes lightly touch the floor, keeping band tension before the next rep.",
+      "instructions": "1. Keep pushing your knees out the whole set; the moment the band pulls them inward you lose glute tension.\n2. Stop once your torso and thighs are in line rather than arching your lower back for extra height.\n3. Push through your heels -- driving off the balls of your feet shifts the work to the hamstrings and can cramp them.\n4. Pick a band you can hold apart on every rep; one that's too strong will simply drag your knees together.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/123ex_resistance_band_glute_bridge.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_resistance_band",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["glute_med", "hamstring", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_resistance_band_seated_hip_abduction",
+      "name": "Seated Resistance Band Hip Abduction",
+      "description": "1. Loop a mini band just above your knees and sit on the edge of a chair or bench with your feet flat and hip-width apart.\n2. Lean your torso forward about 30 degrees with your hands on your thighs, keeping your back straight and your core braced.\n3. Press your knees apart to the end of your range, holding for 1-2 seconds and squeezing your outer glutes.\n4. Bring your knees back in under control, keeping band tension so they never fully relax together.",
+      "instructions": "1. The slight forward lean increases glute med involvement, but keep your back straight rather than hunching over.\n2. Keep both feet planted; don't slide them outward or use your ankles to lever the knees open.\n3. Control the return instead of letting the band snap your knees back together.\n4. This is an isolation exercise for the outer glutes, so a band you can move through the full range and pause with beats one that's too strong.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/124ex_resistance_band_seated_hip_abduction.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_resistance_band",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_med", "abductor"],
+        "secondary": ["glute_max"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_resistance_band_squat",
+      "name": "Resistance Band Squat",
+      "description": "1. Stand on the middle of a long resistance band with feet shoulder-width apart and toes slightly out, holding one end in each hand.\n2. Bring the band up to shoulder height with your elbows forward, chest up and core braced, keeping the band under tension.\n3. Bend your hips and knees to squat down with your knees pushing out over your toes, going to thighs parallel or as far as your mobility allows.\n4. Drive through your whole foot to stand back up against the band's resistance, squeezing your glutes at the top.",
+      "instructions": "1. Check that both feet are firmly on the middle of the band before you start so it can't slip out and snap back.\n2. Band resistance is highest at the top and lightest at the bottom, so drive hard and squeeze your glutes through the last part of the stand-up.\n3. Keep your knees tracking out over your toes; don't let the band's inward pull draw them together.\n4. Inspect the band for nicks or wear before using it -- an aging band can fail under tension, which is dangerous.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/125ex_resistance_band_squat.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_resistance_band",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["glute_med", "hamstring", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_stair_climber",
+      "name": "Stair Climber",
+      "description": "1. Step onto the machine and warm up at the slowest speed for 3-5 minutes to settle into the stepping rhythm.\n2. Stand tall with your eyes forward, resting your hands lightly on the rails for balance rather than supporting your bodyweight with your arms.\n3. Set a speed you can sustain, placing your whole foot on each step and extending your leg fully with each push.\n4. Hold that intensity for your target duration, then slow down for a 3-5 minute cool-down before stepping off.",
+      "instructions": "1. Use the handrails only for light balance; leaning on your arms takes a large share of the work off your legs and glutes.\n2. Plant your whole foot on each step -- staying up on your toes overworks your calves.\n3. Keep your torso upright instead of hunching over the console to make it feel easier.\n4. Slow the machine and let the steps stop completely before getting off, rather than stepping off while they're still moving.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/126ex_stair_climber.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_cardio_machine",
+      "training_type_id": "default_cardio",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "gastrocnemius"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_stationary_bike",
+      "name": "Stationary Bike",
+      "description": "1. Set the saddle height first: with the pedal at its lowest point your knee should keep a slight 25-35 degree bend rather than locking out straight.\n2. Place the balls of your feet over the center of the pedals, fasten the toe cages or straps, hold the bars lightly, and relax your shoulders.\n3. Pedal at low resistance for 5 minutes to warm up, then set your target resistance and hold a steady cadence.\n4. Once you reach your target duration, drop the resistance and spin easy for 5 minutes before stopping.",
+      "instructions": "1. Saddle height is the setting that matters most: too low increases pressure on the front of your knees, too high makes your hips rock side to side as you pedal.\n2. Keep your hips settled on the saddle without swaying; only shift your weight over the pedals when you deliberately stand to climb.\n3. Keep your wrists and shoulders relaxed instead of resting your bodyweight on the handlebars.\n4. If you get knee or hip pain, stop and re-check the saddle height and fore-aft position rather than pushing through it.",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/127ex_stationary_bike.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_cardio_machine",
+      "training_type_id": "default_cardio",
+      "muscle_map": {
+        "primary": ["quad"],
+        "secondary": ["glute_max", "hamstring", "gastrocnemius"]
       },
       "targets": []
     }
