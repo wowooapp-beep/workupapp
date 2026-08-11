@@ -162,7 +162,7 @@
       "description": "1. 雙腳略寬於肩站立，壺鈴放在身體前方約一步距離的地面上。\n2. 屈髖（而非深蹲）向下握住壺鈴把手，背部打平、脛骨接近垂直地面。\n3. 先將壺鈴像美式足球中場傳球般往後盪至兩腿之間，再用力挺髖，將壺鈴向前上方盪起至胸口高度。\n4. 讓壺鈴在頂點隨臀肌鎖死短暫懸浮，接著自然下落，進入下一次的後盪屈髖動作。",
       "instructions": "1. 力量來自髖部向前的爆發式挺伸，而非靠手臂拉起或膝蓋深蹲。\n2. 全程保持脊椎中立、核心收緊；若下背開始圓背，代表髖鉸鏈動作已經跑掉。\n3. 後盪時壺鈴要貼近身體，盪高至大腿內側附近，而不是低垂在膝蓋前方。\n4. 若無法維持背部平直，或感覺施力轉移到下背，應立即停止並重新調整姿勢。",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/11ex_kettlebell_swing.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_kettlebell",
       "training_type_id": "default_functional",
       "muscle_map": {
@@ -402,7 +402,7 @@
       "description": "1. 將彈力帶套在腳踝或膝蓋上方，雙腳與肩同寬站立，屈膝進入淺蹲姿勢。\n2. 挺胸並收緊核心，全程維持雙腳打開以保持彈力帶張力。\n3. 一腳先向側邊跨出，另一腳跟上，過程中彈力帶保持張力，雙腳不可完全併攏。\n4. 朝一個方向走 8-10 步後，反方向再走 8-10 步，全程維持半蹲姿勢。",
       "instructions": "1. 全程維持淺蹲姿勢，站直會讓臀肌失去張力。\n2. 跨步時讓膝蓋向外對抗彈力帶，不要向內夾。\n3. 隨時保持彈力帶張力，雙腳不可完全併攏靠在一起。\n4. 動作放慢並控制節奏，動作過快會降低臀肌的活化程度。",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/27ex_resistance_band_lateral_walk.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_resistance_band",
       "training_type_id": "default_functional",
       "muscle_map": {
@@ -1242,7 +1242,7 @@
       "description": "1. 坐在地面，上背靠住臥推椅，將加了護墊的槓鈴滾到髖部上方。\n2. 雙腳平踩地面、約與肩同寬，距離要讓動作頂點時小腿接近垂直。\n3. 下巴微收、核心收緊，以腳跟發力將髖部推起，直到軀幹與大腿成一直線。\n4. 頂點確實收縮臀部，再控制速度將髖部下放，過程中不要讓槓鈴落地休息。",
       "instructions": "1. 頂點時髖部與膝蓋、肩膀成一直線即可——不要為了推更高而拱起下背。\n2. 下巴微收、肋骨下壓；頭部後仰加上腰部拱起會讓動作變成腰椎伸展。\n3. 務必使用槓鈴護墊或厚毛巾。沒有護墊時槓身會壓痛髖骨，往往被迫提早結束組數。\n4. 調整雙腳距離讓頂點時小腿垂直；腳太前面會變成大腿後側主導，太靠近則變成股四頭肌主導。",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/83ex_barbell_hip_thrust.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_barbell",
       "training_type_id": "default_strength",
       "muscle_map": {
@@ -1257,7 +1257,7 @@
       "description": "1. 仰臥屈膝，雙腳平踩地面、約與髖同寬，腳跟距臀部約一個手掌長。\n2. 雙手放在身體兩側，下巴微收，下背輕輕貼向地面以收緊核心。\n3. 以腳跟發力將髖部推起，直到軀幹與大腿成一直線，頂點收縮臀部。\n4. 於頂點停留約一秒，再控制速度下放，組間不要完全放鬆。",
       "instructions": "1. 用臀部而不是下背發力。若腰椎有感覺，請把肋骨下壓並降低推起的高度。\n2. 膝蓋方向與雙腳一致，頂點時不要讓膝蓋向外打開。\n3. 以腳跟而非腳尖發力，雙腳全程平貼地面。\n4. 若主要感覺在大腿後側，可將腳跟略微移近臀部。",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/84ex_glute_bridge.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_bodyweight",
       "training_type_id": "default_functional",
       "muscle_map": {
@@ -1287,7 +1287,7 @@
       "description": "1. 將滑輪設在最低位置並掛上繩索，背對機器站立，讓繩索從雙腿之間穿過。\n2. 向前走到纜繩產生張力，雙腳與肩同寬，背部打平向前屈髖。\n3. 讓纜繩把髖部往後帶，直到大腿後側感受到明顯伸展，手臂保持伸直、脊椎維持中立。\n4. 髖部向前發力站直，頂點確實收縮臀部，但不要向後後仰。",
       "instructions": "1. 這是由臀部主導的屈髖動作——不要彎膝把它做成深蹲，也不要用手臂拉把它做成划船。\n2. 手臂保持伸直放鬆；它們只是連接纜繩的環節，不參與發力。\n3. 下背開始拱起時就停止屈髖，結束時站直即可，不要向後過度伸展。\n4. 纜繩是水平方向拉力，對脊椎的壓力比槓鈴屈髖小得多——若硬舉會造成下背不適，這是不錯的替代選擇。",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/86ex_cable_pull_through.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
       "muscle_map": {
@@ -1302,7 +1302,7 @@
       "description": "1. 將滑輪設在最低位置，一腳套上腳踝綁帶，面對機器並扶住框架維持平衡。\n2. 支撐腳站直、膝蓋微彎，骨盆正對機器，核心收緊。\n3. 將綁帶側的腿沿弧線向後並略微向上踢出，末端收縮臀部。\n4. 控制速度對抗纜繩讓腿回到前方，完成該側所有次數後換腿。",
       "instructions": "1. 骨盆保持正對前方、軀幹穩定。靠扭轉或前傾把腿踢更高會失去臀部的發力。\n2. 不要用拱下背來換取更多活動範圍——多出來的高度大多來自脊椎而非髖關節。\n3. 動作腿的膝關節角度大致固定，讓臀部負責髖伸展，而不是靠大腿後側彎曲膝蓋。\n4. 使用較輕的重量並在頂點停留；這是小肌群的孤立動作，收縮感比重量更重要。",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/87ex_cable_glute_kickback.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
       "muscle_map": {
@@ -1317,7 +1317,7 @@
       "description": "1. 將滑輪設在最低位置，把腳踝綁帶套在離機器較遠的那隻腳上，側身站立並扶住框架。\n2. 支撐腳站直、骨盆保持水平，核心收緊，動作腿略微交叉於身體前方。\n3. 將動作腿沿弧線向外側抬起，膝蓋保持伸直、腳尖朝正前方。\n4. 控制速度對抗纜繩讓腿回到起始位置，完成該側所有次數後換邊。",
       "instructions": "1. 腳尖保持朝正前方。腳尖外轉會讓髖屈肌群取代臀中肌發力。\n2. 不要靠軀幹向反方向側傾來抬更高——骨盆維持水平、脊椎保持直立。\n3. 動作腿膝蓋保持伸直，讓動作發生在髖關節而不是膝關節。\n4. 使用較輕的重量與穩定節奏；臀中肌是小型穩定肌群，對張力持續時間的反應優於大重量。",
       "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/88ex_cable_hip_abduction.webp",
-      "muscle_group_id": "default_hip",
+      "muscle_group_id": "default_legs",
       "equipment_type": "default_cable",
       "training_type_id": "default_strength",
       "muscle_map": {
@@ -1533,6 +1533,381 @@
       "muscle_map": {
         "primary": ["deltoid_side"],
         "secondary": ["trap_upper"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_sumo_deadlift",
+      "name": "槓鈴相撲硬舉",
+      "description": "1. 雙腳採寬站距、腳尖向外約 30-45 度，槓鈴位於腳掌中段正上方，脛骨接近垂直。\n2. 屈髖屈膝下蹲，雙手伸直握在雙腿內側（約與肩同寬），肩膀大約在槓鈴正上方。\n3. 挺胸、收緊核心與背闊肌，先把槓片與槓身之間的鬆動拉緊，再以雙腳向外「撐開地板」的方式將膝蓋推向腳尖方向並起槓。\n4. 讓髖部與肩膀同步上升、槓鈴貼腿沿直線上升，站直至髖膝完全伸展鎖定，再沿相同路徑控制下放。",
+      "instructions": "1. 起槓前先把鬆動拉緊（手臂拉直、槓片與槓身間的縫隙消失）再發力，猛拉會讓背部瞬間承受衝擊。\n2. 全程將膝蓋朝腳尖方向推開，膝蓋向內夾會讓髖部無法完全打開、槓鈴也拉不上來。\n3. 相撲硬舉的軀幹較直立、髖位較低，但仍要維持脊椎中立，不要為了把槓拉離地面而圓背。\n4. 起始位置髖部不要壓得比膝蓋還低（那會變成深蹲姿勢），鎖定終點時也不要過度後仰。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/103ex_barbell_sumo_deadlift.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max", "adductor"],
+        "secondary": ["hamstring", "lower_back", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_good_morning",
+      "name": "槓鈴早安式體前屈",
+      "description": "1. 將槓鈴置於上背斜方肌處（與高槓深蹲相同的位置），雙腳與髖同寬，膝蓋保持微彎不鎖死。\n2. 深吸一口氣收緊核心，肩胛骨後收讓槓鈴穩定貼住上背。\n3. 髖部向後推、上半身向前傾，全程維持脊椎中立，直到大腿後側出現明顯緊繃感（軀幹約與地面平行，或依個人柔軟度為止）。\n4. 夾緊臀部、將髖部向前推回站直，回到起始位置。",
+      "instructions": "1. 這是髖鉸鏈動作而非深蹲：膝蓋角度大致固定，動作主要由髖部向後推完成。\n2. 從很輕的重量（甚至空槓）開始。早安式的力臂很長，重量增加太快是下背受傷的常見原因。\n3. 只前傾到能維持脊椎中立的角度，下背一旦開始圓背就要立刻推回起始位置。\n4. 槓鈴必須放在上背肌肉上、不可壓在頸椎；若感覺頸部被壓迫，代表槓的位置太高。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/104ex_barbell_good_morning.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["hamstring", "glute_max"],
+        "secondary": ["lower_back", "adductor"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_barbell_glute_bridge",
+      "name": "槓鈴臀橋",
+      "description": "1. 平躺於地面，雙腳屈膝踩穩、與髖同寬，腳跟距離臀部約一個手掌寬。\n2. 將加了護墊的槓鈴滾到髖部（骨盆）上方，雙手扶住槓身固定位置。\n3. 下巴微收、核心收緊，以腳跟發力將髖部推起，直到軀幹與大腿成一直線，頂點夾緊臀部 1 秒。\n4. 控制速度將髖部下放至臀部輕觸地面但不完全放鬆，接著進行下一次。",
+      "instructions": "1. 頂點推到髖部與膝蓋、肩膀成一直線即可，不要靠拱下背製造更高的高度。\n2. 全程下巴微收、肋骨下壓，避免頭部後仰造成腰椎過度伸展。\n3. 務必使用槓鈴護墊或厚毛巾，否則槓身會壓迫髖骨造成疼痛而被迫提早結束組數。\n4. 臀橋躺在地面，活動範圍比槓鈴臀推短；想要更大的活動範圍與負重時，改做上背靠椅的臀推。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/105ex_barbell_glute_bridge.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_barbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "quad", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_step_up",
+      "name": "啞鈴登階",
+      "description": "1. 雙手各持一隻啞鈴自然垂於身體兩側，面向高度約至膝蓋的穩固箱子或階梯站立。\n2. 一腳整個腳掌踩上箱面，膝蓋對齊腳尖方向，挺胸、核心收緊。\n3. 以踩在箱上那隻腳的腳跟發力站起，讓後腳輕輕離地，站直後在頂點停穩。\n4. 控制速度將後腳放回地面，完成該側所有次數後換腿。",
+      "instructions": "1. 用踩上箱子的那隻腳發力站起，不要用留在地面的後腳蹬地借力。\n2. 前腳整個腳掌踩滿箱面，腳跟不要懸空在邊緣外。\n3. 箱子高度以能維持骨盆水平、膝蓋不內夾為準；太高會迫使身體前傾並讓膝蓋往內塌。\n4. 下降時控制速度，不要直接跳下或讓身體重摔落地。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/106ex_dumbbell_step_up.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "glute_med"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_single_leg_romanian_deadlift",
+      "name": "啞鈴單腿羅馬尼亞硬舉",
+      "description": "1. 單手（或雙手）持啞鈴，站在支撐腳上，該腳膝蓋保持微彎不鎖死。\n2. 髖部向後推，同時將另一隻腳向正後方伸直，讓身體以髖關節為軸像蹺蹺板一樣前傾。\n3. 前傾至軀幹與後腿接近與地面平行、支撐腳大腿後側出現明顯緊繃感，啞鈴沿著腿部前方下降。\n4. 夾緊臀部、把髖部推回前方站直，完成該側所有次數後換腿。",
+      "instructions": "1. 骨盆保持水平面向地面，不要讓後腿那一側的髖部向外翻轉打開。\n2. 支撐腳膝蓋維持固定的微彎角度，不要為了下降更多而變成單腿蹲。\n3. 全程維持脊椎中立，下背開始圓背就代表已超過目前可用的活動範圍。\n4. 若難以平衡，可用另一手輕扶牆面或架子，先把動作軌跡練穩再增加重量。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/107ex_dumbbell_single_leg_romanian_deadlift.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["hamstring", "glute_max"],
+        "secondary": ["lower_back", "glute_med"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_sumo_squat",
+      "name": "啞鈴相撲深蹲",
+      "description": "1. 雙腳採寬站距（約比肩寬 1.5 倍）、腳尖向外約 30-45 度，雙手握住一隻啞鈴的一端，讓啞鈴垂於身體前方。\n2. 挺胸、收緊核心，脊椎維持中立。\n3. 屈髖屈膝垂直下蹲，膝蓋沿腳尖方向向外推開，下蹲至大腿與地面平行或依個人活動度為止。\n4. 以整個腳掌發力站起，頂點夾緊臀部並收緊大腿內側。",
+      "instructions": "1. 膝蓋一定要沿腳尖方向推開；寬站距下膝蓋向內夾會讓內收肌群與膝關節承受不當壓力。\n2. 軀幹保持直立、垂直上下移動，不要像硬舉那樣把髖部往後推。\n3. 腳尖外開的角度要與自身髖關節活動度相符，若腳跟被迫離地，代表站距過寬。\n4. 啞鈴自然垂在雙腿之間即可，不需前後擺動；若蹲深時骨盆開始後傾（尾椎捲起），就縮小下蹲深度。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/108ex_dumbbell_sumo_squat.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max", "adductor"],
+        "secondary": ["hamstring"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_dumbbell_standing_calf_raise",
+      "name": "啞鈴站姿提踵",
+      "description": "1. 雙手各持一隻啞鈴自然垂於身體兩側，雙腳與髖同寬站立；可平踩地面，或將前腳掌踩在階梯或槓片邊緣以獲得更深的伸展。\n2. 膝蓋大致伸直、核心收緊，必要時以一手輕扶牆面維持平衡。\n3. 緩慢踮起腳尖抬到最高點，在頂點用力擠壓小腿 1-2 秒。\n4. 控制速度將腳跟下放；若站在階梯上，可讓腳跟降至低於腳尖以獲得完整伸展。",
+      "instructions": "1. 動作放慢並在頂點停留，不要在底部靠彈震把重量彈起來。\n2. 腳踝維持垂直上下移動的軌跡，不要向內或向外翻滾。\n3. 膝蓋保持大致伸直；膝蓋彎曲會把負荷轉移到比目魚肌，那是坐姿提踵的訓練重點。\n4. 若握力先於小腿力竭，可改用握力帶，或改做器械式提踵。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/109ex_dumbbell_standing_calf_raise.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_dumbbell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["gastrocnemius"],
+        "secondary": ["soleus", "forearm"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_wall_sit",
+      "name": "靠牆靜蹲",
+      "description": "1. 背部平貼牆面站立，雙腳向前走出約 50-60 公分，雙腳與肩同寬。\n2. 沿著牆面滑下，直到大腿與地面平行、膝關節彎曲約 90 度。\n3. 調整腳掌前後位置，使小腿垂直於地面、膝蓋位於腳踝正上方，雙手可自然垂放或交叉於胸前。\n4. 保持上背與下背貼緊牆面，維持此姿勢並均勻呼吸，直到達成目標時間。",
+      "instructions": "1. 膝蓋要位於腳踝正上方，不要超過腳尖；若膝蓋前移，代表雙腳需要再往前走一些。\n2. 全程正常呼吸，不要憋氣。\n3. 下背全程貼緊牆面，不要為了減輕負擔而讓臀部往上滑。\n4. 膝蓋朝腳尖方向保持穩定，疲勞時膝蓋一旦開始向內夾，就結束該組。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/110ex_wall_sit.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["quad"],
+        "secondary": ["glute_max", "hamstring", "adductor"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_single_leg_glute_bridge",
+      "name": "單腿臀橋",
+      "description": "1. 平躺於地面，雙手放在身體兩側，一腳屈膝踩穩地面，腳跟距離臀部約一個手掌寬。\n2. 另一腳抬起，可將膝蓋朝胸口方向屈起，或將腿伸直維持與大腿同一直線。\n3. 以踩地那隻腳的腳跟發力將髖部推起，直到軀幹與大腿成一直線，頂點夾緊臀部 1-2 秒。\n4. 控制速度將髖部下放至輕觸地面，完成該側所有次數後換腿。",
+      "instructions": "1. 全程保持骨盆水平，不要讓抬腿那一側的髖部下沉或旋轉。\n2. 以腳跟發力；改用前腳掌發力容易變成大腿後側主導甚至抽筋。\n3. 頂點停在軀幹與大腿成一直線的位置，不要靠拱下背推得更高。\n4. 若大腿後側先於臀部力竭，把腳跟往臀部方向移近一些，並在頂點刻意收緊臀部。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/111ex_single_leg_glute_bridge.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "glute_med", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_jump_squat",
+      "name": "跳躍深蹲",
+      "description": "1. 雙腳與肩同寬站立、腳尖略微外開，雙手可置於胸前或自然垂於身體兩側。\n2. 屈髖屈膝下蹲至約四分之一至二分之一深度，同時雙手向後擺動蓄力。\n3. 以整個腳掌爆發性蹬地向上跳起，雙手同時向上擺動輔助，身體在空中完全伸展。\n4. 以前腳掌先著地並立刻屈膝屈髖緩衝，回到下蹲姿勢後再進行下一次。",
+      "instructions": "1. 著地時務必屈膝緩衝，用打直的腿硬著地會把衝擊直接傳到膝關節。\n2. 落地要輕、聲音要小；落地聲很大代表緩衝不足。\n3. 起跳與落地時膝蓋都要對齊腳尖方向，不要向內塌。\n4. 這是爆發力動作，品質比次數重要；動作變形或落地失去控制時就結束該組。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/112ex_jump_squat.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "gastrocnemius"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_nordic_hamstring_curl",
+      "name": "北歐腿彎舉",
+      "description": "1. 跪在軟墊上，膝蓋與髖同寬，請訓練夥伴壓住腳踝，或將腳踝固定在穩固的器材下方。\n2. 從膝蓋到肩膀維持一直線，夾緊臀部、收緊核心，避免髖部向後坐。\n3. 以大腿後側控制速度，讓身體盡可能緩慢地向前倒下，全程維持身體成一直線。\n4. 撐到再也無法控制時，用雙手撐地緩衝，再以手臂推地協助回到起始位置。",
+      "instructions": "1. 全程從膝蓋到肩膀維持一直線；髖部向後彎折會讓大腿後側卸力。\n2. 雙手預備在胸前，隨時準備撐地緩衝，不要讓臉部直接撞地。\n3. 這個動作的離心負荷極高，初學者應從較小的下降範圍開始，或用彈力帶、雙手輔助分擔負荷。\n4. 次數不要貪多，並預期會有明顯的延遲性肌肉痠痛；若有大腿後側拉傷病史，請先諮詢專業人員。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/113ex_nordic_hamstring_curl.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["hamstring"],
+        "secondary": ["glute_max", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_donkey_kick",
+      "name": "跪姿後踢腿",
+      "description": "1. 採四足跪姿，雙手在肩膀正下方、膝蓋在髖部正下方，脊椎維持中立。\n2. 收緊核心固定軀幹，一腳保持膝關節彎曲約 90 度。\n3. 將該腳的腳跟朝天花板方向向上推，直到大腿與軀幹大致成一直線，頂點夾緊臀部 1 秒。\n4. 控制速度回到起始位置，膝蓋不落地即接續下一次，完成該側所有次數後換腿。",
+      "instructions": "1. 靠臀部把腿抬起，而不是靠拱下背；下背過度伸展是這個動作最常見的代償。\n2. 骨盆保持水平面向地面，不要為了抬更高而讓髖部向側邊翻轉。\n3. 動作腿的膝關節維持約 90 度，讓髖伸展完成動作，而不是靠踢直小腿。\n4. 抬到大腿與軀幹成一直線就停止，範圍再大只是把動作轉移到腰椎。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/114ex_donkey_kick.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_bodyweight",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_cable_hip_adduction",
+      "name": "站姿纜繩髖內收",
+      "description": "1. 將滑輪設在最低位置，把腳踝綁帶套在靠近機器的那隻腳上，側身站立並扶住框架維持平衡。\n2. 支撐腳站直、骨盆保持水平，核心收緊，讓動作腿被纜繩拉向外側成為起始位置。\n3. 動作腿膝蓋保持伸直，沿弧線將腿拉向身體中線並略微越過支撐腳前方，感受大腿內側收縮。\n4. 控制速度讓腿回到外展的起始位置，全程維持纜繩張力，完成該側所有次數後換邊。",
+      "instructions": "1. 用大腿內側把腿拉回來，不要靠軀幹側傾或旋轉借力。\n2. 骨盆保持水平、支撐腳站穩，避免髖部隨著動作左右晃動。\n3. 從較輕的重量開始並控制回程；內收肌群在被拉長的位置較脆弱，被重量快速拉開容易拉傷。\n4. 動作腿膝蓋保持伸直，讓動作發生在髖關節而不是膝關節。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/115ex_cable_hip_adduction.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_cable",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["adductor"],
+        "secondary": ["abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_lying_leg_curl_machine",
+      "name": "俯臥腿彎舉機",
+      "description": "1. 俯臥於機器上，調整位置使膝關節略微超出椅墊邊緣並對齊機器的轉軸。\n2. 將滾墊調整至小腿後側、腳踝上方的位置，雙手握住把手，髖部貼緊椅墊。\n3. 收縮腿後肌群彎曲膝關節，把腳跟拉向臀部，在頂點稍作停頓並擠壓大腿後側。\n4. 控制速度下放至膝關節接近伸直，避免讓配重片直接落下。",
+      "instructions": "1. 髖部與骨盆全程貼緊椅墊；為了拉更高而把臀部抬離椅面會讓下背承受壓力。\n2. 開始前確認膝關節對齊機器轉軸，並讓滾墊壓在腳踝上方而非跟腱上。\n3. 回程要控制速度，讓大腿後側承受離心負荷，不要讓重量把小腿彈回去。\n4. 若容易抽筋，先降低重量、放慢節奏，並確認訓練前已充分熱身。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/116ex_lying_leg_curl_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["hamstring"],
+        "secondary": ["gastrocnemius", "glute_max"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_hip_abduction_machine",
+      "name": "坐姿髖外展機",
+      "description": "1. 坐入機器，背部貼緊椅背，將雙腿膝蓋外側頂住兩側的活動護墊。\n2. 依個人活動度調整起始寬度（通常從雙腿併攏或略微張開開始），雙手握住座椅兩側把手。\n3. 收緊核心，將雙膝向外推開至舒適範圍的最大處，末端停留 1 秒並擠壓臀部外側。\n4. 控制速度讓雙腿回到起始位置，全程維持配重張力，不要讓配重片互相撞擊。",
+      "instructions": "1. 背部貼緊椅背；靠身體前傾或後仰把雙腿甩開會讓臀中肌卸力。\n2. 回程要放慢控制，不要讓雙腿被重量直接彈回。\n3. 起始寬度以不造成鼠蹊部拉扯感為準，不需刻意追求最大的起始角度。\n4. 這是小肌群的孤立動作，選擇能完成全範圍、末端可停留的重量，比堆疊重量更有效。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/117ex_hip_abduction_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_med", "abductor"],
+        "secondary": ["glute_max"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_hip_adduction_machine",
+      "name": "坐姿髖內收機",
+      "description": "1. 坐入機器，背部貼緊椅背，將雙腿大腿內側靠上兩側的活動護墊。\n2. 依個人活動度調整起始張開的角度，起始位置應有輕微伸展感但不會拉扯鼠蹊部，雙手握住座椅兩側把手。\n3. 收緊核心，以大腿內側發力將雙膝向內夾至併攏，末端停留 1 秒。\n4. 控制速度讓雙腿回到張開的起始位置，全程維持配重張力。",
+      "instructions": "1. 起始角度不要一開始就調到最大；內收肌群在被過度拉長的位置最容易拉傷。\n2. 回程放慢控制，不要讓重量把雙腿快速拉開。\n3. 背部貼緊椅背、骨盆保持穩定，不要靠身體前後晃動借力。\n4. 使用能全程控制的重量；重量過大時往往會不自覺屏住呼吸並用軀幹代償。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/118ex_hip_adduction_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["adductor"],
+        "secondary": ["abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_hip_thrust_machine",
+      "name": "臀推機",
+      "description": "1. 坐入臀推機，上背靠住背墊，將腰帶或護墊調整至髖部（骨盆）位置並固定妥當。\n2. 雙腳與肩同寬踩在踏板上，落腳位置要讓動作頂點時小腿接近垂直。\n3. 下巴微收、核心收緊，以腳跟發力將髖部向前推起，直到軀幹與大腿成一直線，頂點夾緊臀部 1 秒。\n4. 控制速度下放至接近起始位置，維持張力後再進行下一次。",
+      "instructions": "1. 頂點推到髖部與膝蓋、肩膀成一直線即可，不要靠拱下背推得更高。\n2. 下巴微收、肋骨下壓，避免頭部後仰造成腰椎過度伸展。\n3. 調整踏板上的落腳位置：太前面會由大腿後側主導，太靠近身體則由股四頭肌主導。\n4. 器械式臀推不需要平衡槓鈴，適合安全地提高負重，但開始前仍要確認腰帶與背墊已調整並固定妥當。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/119ex_hip_thrust_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["hamstring", "quad"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_standing_calf_raise_machine",
+      "name": "站姿提踵機",
+      "description": "1. 站上機器踏板，前腳掌踩在踏板邊緣、腳跟懸空，肩膀頂住肩部護墊。\n2. 調整護墊高度，使起始位置時膝蓋大致伸直、身體能站直。\n3. 讓腳跟緩慢下降到最低點感受小腿完整伸展，再用力踮起腳尖推到最高點，頂點停留 1-2 秒。\n4. 控制速度重複，全程保持膝蓋大致伸直、軀幹挺直。",
+      "instructions": "1. 膝蓋保持大致伸直；彎曲膝蓋會把負荷轉移到比目魚肌，那是坐姿提踵訓練的部位。\n2. 完整做到底再推到頂，不要只在中段做小範圍的彈震。\n3. 腳踝維持垂直上下移動的軌跡，不要向內或向外翻滾。\n4. 護墊高度要讓身體能站直；壓得太低會迫使軀幹前傾並增加下背負擔。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/120ex_standing_calf_raise_machine.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_machine",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["gastrocnemius"],
+        "secondary": ["soleus"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_kettlebell_sumo_deadlift",
+      "name": "壺鈴相撲硬舉",
+      "description": "1. 將壺鈴放在雙腳之間、與腳掌中段連線對齊，雙腳採寬站距，腳尖向外約 30 度。\n2. 屈髖屈膝下蹲，雙手握住壺鈴握把，挺胸、收緊核心，肩膀略在壺鈴上方。\n3. 以整個腳掌踩地發力，膝蓋推向腳尖方向，讓髖部與肩膀同步上升，站直至髖膝完全伸展。\n4. 沿相同路徑屈髖屈膝控制下放，將壺鈴輕放回起始位置。",
+      "instructions": "1. 全程維持脊椎中立，不要為了搆到壺鈴而圓背。\n2. 膝蓋沿腳尖方向推開，不要向內夾。\n3. 壺鈴要維持在雙腳之間的重心線上，離身體越遠，下背負擔越大。\n4. 這個動作很適合作為硬舉的入門版本；掌握髖鉸鏈的節奏後，再進階到槓鈴硬舉。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/121ex_kettlebell_sumo_deadlift.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_kettlebell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_max", "quad"],
+        "secondary": ["hamstring", "adductor", "lower_back"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_kettlebell_front_rack_squat",
+      "name": "壺鈴前架深蹲",
+      "description": "1. 雙手各持一隻壺鈴，將壺鈴翻至前架位置：握把貼近鎖骨前方，壺身靠在前臂外側，手肘內收貼近肋骨。\n2. 雙腳與肩同寬、腳尖略微外開，挺胸、收緊核心，手腕保持中立不向後折。\n3. 屈髖屈膝垂直下蹲，膝蓋沿腳尖方向推開，下蹲至大腿至少與地面平行。\n4. 以整個腳掌發力站起，全程維持手肘內收、軀幹直立。",
+      "instructions": "1. 手肘保持內收貼近肋骨；手肘外開會讓上半身被壺鈴拉向前傾。\n2. 手腕保持中立，讓壺身的重量壓在前臂上，而不是靠手腕後折支撐。\n3. 前架姿勢會限制呼吸，每一下之間都要重新吸氣收緊核心，不要憋住整組。\n4. 若無法把壺鈴穩定翻到前架位置，先從單壺高腳杯式深蹲開始練習。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/122ex_kettlebell_front_rack_squat.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_kettlebell",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["abs", "adductor", "deltoid_front"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_resistance_band_glute_bridge",
+      "name": "彈力帶臀橋",
+      "description": "1. 將環狀彈力帶套在膝蓋上方，平躺於地面，雙腳屈膝踩穩、與髖同寬，腳跟距離臀部約一個手掌寬。\n2. 雙手放在身體兩側，收緊核心，雙膝向外撐開對抗彈力帶張力。\n3. 以腳跟發力將髖部推起，直到軀幹與大腿成一直線，頂點夾緊臀部 1-2 秒並持續把膝蓋向外推。\n4. 控制速度下放至臀部輕觸地面，維持彈力帶張力後再進行下一次。",
+      "instructions": "1. 全程把膝蓋向外撐住；一旦讓彈力帶把膝蓋拉向內側，臀部就會失去張力。\n2. 推到軀幹與大腿成一直線即停止，不要靠拱下背推得更高。\n3. 以腳跟發力；用前腳掌發力容易變成大腿後側主導甚至抽筋。\n4. 彈力帶阻力要選擇能全程維持膝蓋外撐的強度，太緊只會迫使膝蓋向內夾。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/123ex_resistance_band_glute_bridge.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_resistance_band",
+      "training_type_id": "default_functional",
+      "muscle_map": {
+        "primary": ["glute_max"],
+        "secondary": ["glute_med", "hamstring", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_resistance_band_seated_hip_abduction",
+      "name": "坐姿彈力帶髖外展",
+      "description": "1. 將環狀彈力帶套在膝蓋上方，坐在椅子或臥推椅邊緣，雙腳與髖同寬踩穩地面。\n2. 上半身略微前傾約 30 度、雙手撐在大腿上，背部保持挺直、核心收緊。\n3. 將雙膝向外撐開至活動範圍的最大處，末端停留 1-2 秒並擠壓臀部外側。\n4. 控制速度讓雙膝回到起始位置，全程維持彈力帶張力，不要讓雙膝完全放鬆併攏。",
+      "instructions": "1. 上半身略微前傾能增加臀中肌的參與程度，但背部要保持挺直，不要駝背。\n2. 雙腳全程踩穩地面，不要靠腳掌向外滑動或用腳踝借力把膝蓋打開。\n3. 回程放慢控制，不要讓彈力帶直接把雙膝彈回來。\n4. 這是臀部外側的孤立動作，選擇能完成全範圍、末端可停留的阻力，比用過緊的彈力帶更有效。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/124ex_resistance_band_seated_hip_abduction.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_resistance_band",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["glute_med", "abductor"],
+        "secondary": ["glute_max"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_resistance_band_squat",
+      "name": "彈力帶深蹲",
+      "description": "1. 雙腳與肩同寬踩在長型彈力帶中段，腳尖略微外開，雙手各握住彈力帶一端。\n2. 將彈力帶拉至肩膀高度、手肘朝前，挺胸、收緊核心，讓彈力帶保持張力。\n3. 屈髖屈膝下蹲，膝蓋沿腳尖方向推開，下蹲至大腿與地面平行或依個人活動度為止。\n4. 以整個腳掌發力站起對抗彈力帶阻力，頂點夾緊臀部。",
+      "instructions": "1. 開始前先確認雙腳確實踩住彈力帶中段，避免動作中彈力帶滑脫回彈。\n2. 彈力帶的阻力在頂端最大、底部最小，因此站起的最後階段要主動夾緊臀部收縮。\n3. 膝蓋沿腳尖方向推開，不要因為彈力帶向內拉就讓膝蓋內夾。\n4. 使用前檢查彈力帶是否有裂痕或磨損；老化的彈力帶在張力下斷裂相當危險。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/125ex_resistance_band_squat.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_resistance_band",
+      "training_type_id": "default_strength",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["glute_med", "hamstring", "abs"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_stair_climber",
+      "name": "階梯機",
+      "description": "1. 站上機器，先以最慢的速度熱身 3-5 分鐘，讓身體適應踏階的節奏。\n2. 身體站直、眼睛看向前方，雙手可輕搭扶手維持平衡，但不要用手臂支撐體重。\n3. 將速度調整至能持續維持的強度，每一階都以整個腳掌踩滿踏板，並讓腿完整推直。\n4. 維持該強度直到達成目標時間，最後降速緩和 3-5 分鐘後再下機。",
+      "instructions": "1. 扶手只用來輕輕維持平衡；用手臂撐住身體會大幅降低腿部與臀部的負荷。\n2. 每一階都踩滿整個腳掌，只用前腳掌墊腳踏階容易造成小腿過度疲勞。\n3. 身體保持直立，不要為了輕鬆而前傾趴在機器上。\n4. 下機前先降速並等踏板完全停止，不要在踏板仍在移動時跨下。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/126ex_stair_climber.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_cardio_machine",
+      "training_type_id": "default_cardio",
+      "muscle_map": {
+        "primary": ["quad", "glute_max"],
+        "secondary": ["hamstring", "gastrocnemius"]
+      },
+      "targets": []
+    },
+    {
+      "id": "ex_stationary_bike",
+      "name": "固定式腳踏車",
+      "description": "1. 先調整座椅高度：坐上車後，踏板踩到最低點時膝蓋應保持約 25-35 度的微彎，而不是完全打直。\n2. 以前腳掌踩在踏板中央，扣好腳扣或束帶，雙手輕握把手、肩膀放鬆。\n3. 以低阻力踩踏 5 分鐘熱身，再將阻力調整至目標強度，維持穩定的踩踏節奏。\n4. 達成目標時間後，降低阻力緩和踩踏 5 分鐘再停止。",
+      "instructions": "1. 座椅高度是最重要的設定：座椅過低會增加膝關節前側壓力，過高則會讓骨盆在踩踏時左右晃動。\n2. 踩踏時髖部穩坐在座墊上、不要左右搖擺；只有刻意站起來抽車時才將重心移到踏板上。\n3. 手腕與肩膀保持放鬆，不要把體重壓在把手上。\n4. 若膝蓋或髖部出現疼痛，先停下重新調整座椅高度與前後位置，不要勉強繼續。",
+      "image_url": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/exercises/images/127ex_stationary_bike.webp",
+      "muscle_group_id": "default_legs",
+      "equipment_type": "default_cardio_machine",
+      "training_type_id": "default_cardio",
+      "muscle_map": {
+        "primary": ["quad"],
+        "secondary": ["glute_max", "hamstring", "gastrocnemius"]
       },
       "targets": []
     }
