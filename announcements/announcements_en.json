@@ -4,19 +4,18 @@
     {
       "id": "welcome-2026",
       "type": "announce",
-      "title": "Welcome to WorkUp",
-      "summary": "Thanks for downloading WorkUp! Track your workouts, nutrition, and body stats, and watch your progress unfold.",
-      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/bts-freedom.gif",
+      "title": "Welcome to FITNOTE",
+      "summary": "Thanks for downloading FITNOTE! Track your workouts, nutrition, and body stats, and watch your progress unfold.",
+      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/welcome_2026.webp",
       "publishedAt": "2026-07-22",
       "pinned": true,
       "targets": [],
       "sections": [
         {
           "title": "Log your first entry",
-          "body": "Tap \"Start Workout\" on the home page, or record today's weight and height to build your data foundation.",
+          "body": "Start with your first data point. Begin your personalized health journey.",
           "images": [
-            "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/bts-freedom.gif",
-            "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/75644-556482803_medium.mp4"
+            "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/Log your first entry.webp"
           ]
         },
         {
@@ -30,7 +29,7 @@
       "type": "announce",
       "title": "Need Help? Contact Us",
       "summary": "If you have any questions or suggestions, go to Settings > Contact Us to reach out.",
-      "cover": "",
+      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/contact-us-2026.webp",
       "publishedAt": "2026-07-21",
       "pinned": true,
       "targets": [],
