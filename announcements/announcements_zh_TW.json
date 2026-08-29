@@ -6,19 +6,21 @@
       "type": "announce",
       "title": "歡迎使用 FITNOTE",
       "summary": "感謝你下載 FITNOTE！在這裡記錄訓練、營養與身體數據，一步步看見自己的改變。",
-      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/bts-freedom.gif",
-      "publishedAt": "2026-01-01",
+      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/welcome_2026.webp",
+      "publishedAt": "2026-07-22",
       "pinned": true,
       "targets": [
-        { "uid": "", "mail": "" }
+        {
+          "uid": "",
+          "mail": ""
+        }
       ],
       "sections": [
         {
           "title": "開始你的第一筆記錄",
-          "body": "從首頁點下「開始訓練」，或記錄今天的體重與身高，建立屬於你的數據基礎。",
-           "images": [
-           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/bts-freedom.gif"
-
+          "body": "從第一筆數據開始，開啟專屬於你的健康旅程。",
+          "images": [
+            "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/Log your first entry.webp"
           ]
         },
         {
@@ -28,133 +30,22 @@
       ]
     },
     {
-      "id": "announce-community-guidelines",
+      "id": "contact-us-2026",
       "type": "announce",
-      "title": "社群守則與使用規範",
-      "summary": "為了讓每位使用者都有良好體驗，請一起遵守社群守則。",
-      "cover": "",
-      "publishedAt": "2026-06-20",
-      "pinned": false,
+      "title": "有問題？歡迎聯絡我們",
+      "summary": "如果你遇到任何問題或有建議，歡迎前往「設定」 > 「聯絡我們」與我們聯繫。",
+      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/contact-us-2026.webp",
+      "publishedAt": "2026-07-21",
+      "pinned": true,
       "targets": [],
       "sections": [
         {
-          "title": "尊重彼此",
-          "body": "分享訓練成果時，請保持友善與尊重，避免攻擊性或不當內容。",
-          "images": [
-          ]
+          "title": "如何聯絡我們",
+          "body": "打開 App 後，首頁左上角「☰」>「設定」>「聯絡我們」，即可提交你的問題或建議。"
         },
         {
-          "title": "保護個人資料",
-          "body": "請勿在公開內容中透露他人的個人資訊，共同維護安全的環境。"
-        }
-      ]
-    },
-    {
-      "id": "announce-account-security",
-      "type": "announce",
-      "title": "權限格式",
-      "summary": "定期檢查登入方式，讓你的訓練資料更安全。",
-      "cover": "",
-      "publishedAt": "2026-06-28",
-      "pinned": false,
-      "targets": [
-        { "uid": "pO983aKnH4ZZQjmWosm5XDruZc03", "mail": "thisistest.xxx@gmail.com" },
-        { "uid": "EjeaOXf552NVCjsssARDUL5COq43", "mail": "wan289375@gmail.com" }
-      ],
-      "sections": [
-        {
-          "title": "綁定多種登入方式",
-          "body": "在「帳號設定」中綁定 Google 或 Apple 登入，避免因單一方式失效而無法登入。"
-        },
-        {
-          "title": "定期備份資料",
-          "body": "開啟雲端備份，即使更換裝置也能完整還原你的訓練紀錄。"
-        }
-      ]
-    },
-    {
-      "id": "update-charts-v1-2",
-      "type": "update",
-      "title": "多照片格式",
-      "summary": "體重趨勢、訓練量圖表全新改版，載入更快、看得更清楚。",
-      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1a.png",
-      "publishedAt": "2026-07-01",
-      "pinned": false,
-      "targets": [],
-      "sections": [
-        {
-          "title": "全新體重趨勢圖",
-          "body": "支援週 / 月 / 年檢視，並可同時對照目標線與實際數據。下面兩張圖分別是新版的趨勢圖與訓練量圖：",
-          "images": [
-           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1a.png",
-           "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-charts-v1-2-s1b.png"
-          ]
-        },
-        {
-          "title": "更快的載入速度",
-          "body": "重寫圖表繪製邏輯，資料量大時也能順暢滑動、即時縮放。"
-        }
-      ]
-    },
-    {
-      "id": "update-nutrition-v1-3",
-      "type": "update",
-      "title": "營養模組更新",
-      "summary": "新增每日營養目標與更完整的食物資料庫。",
-      "cover": "",
-      "publishedAt": "2026-06-25",
-      "pinned": false,
-      "targets": [],
-      "sections": [
-        {
-          "title": "自訂每日營養目標",
-          "body": "可依訓練目標調整熱量、蛋白質、碳水與脂肪的每日建議攝取量。"
-        },
-        {
-          "title": "更豐富的食物資料庫",
-          "body": "新增數百項常見食物與品牌，記錄飲食更方便。"
-        }
-      ]
-    },
-    {
-      "id": "event-summer-challenge",
-      "type": "event",
-      "title": "夏季 30 天挑戰",
-      "summary": "連續 30 天完成訓練，解鎖專屬徽章與獎勵！",
-      "cover": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-char",
-      "publishedAt": "2026-07-03",
-      "expiresAt": "2026-07-13",
-      "pinned": false,
-      "targets": [],
-      "sections": [
-        {
-          "title": "活動辦法",
-          "body": "活動期間內，任一天完成至少一次訓練即算達成當日目標，連續累積天數。",
-          "image": "https://cdn.jsdelivr.net/gh/wowooapp-beep/workupapp@main/announcements/images/update-"
-        },
-        {
-          "title": "獎勵內容",
-          "body": "完成 30 天可獲得限定徽章，並參加抽獎。詳情將於活動頁公布。"
-        }
-      ]
-    },
-    {
-      "id": "event-referral-bonus",
-      "type": "event",
-      "title": "推薦好友拿獎勵",
-      "summary": "邀請朋友一起用 WorkUp，雙方都能獲得好禮。",
-      "cover": "",
-      "publishedAt": "2026-06-30",
-      "pinned": false,
-      "targets": [],
-      "sections": [
-        {
-          "title": "如何推薦",
-          "body": "在「設定」中分享你的專屬邀請連結給朋友即可。"
-        },
-        {
-          "title": "獎勵發放",
-          "body": "好友成功註冊並完成首次訓練後，雙方都會收到獎勵通知。"
+          "title": "我們重視你的意見",
+          "body": "無論是功能建議、使用問題還是 Bug 回報，我們都會認真閱讀並盡快回覆你。"
         }
       ]
     }
